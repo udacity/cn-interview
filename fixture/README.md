@@ -1,6 +1,6 @@
 # Fixture misc
 
-Here are some fixture resources you may need for your codinge tests.
+Here are some fixture resources you may need for your coding tests.
 
 ## Simple API server
 
@@ -11,11 +11,11 @@ Please make sure you already have [Node.js](https://nodejs.org) and [NPM](https:
 ### How to run it?
 
 * Run `npm i` under this folder.
-* Run `npm start`, you will see message like 
+* Run `npm start`, you will see message like
 ```
 app start at http://localhost:55938
 ```
-* Run `curl http://localhost:55938/api/ping` you will simplily get a `pong` response.
+* Run `curl http://localhost:55938/api/ping` you will simply get a `pong` response.
 
 ### API
 
@@ -29,9 +29,6 @@ app start at http://localhost:55938
  API: `GET /api/courses?level=中级&track=iOS`  
  Res: A list of courses like `[course]`  
 
-### Develope
+### Develop
 
 Free to modify any of these files under the repo.
-
-
-
