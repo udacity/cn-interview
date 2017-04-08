@@ -2,7 +2,7 @@
 Coding tests for Udacity Shanghai Office.
 > Make sure you read all the content carefully and follow the guidlines.
 
-## Acknowledge
+## Acknowledges
 
 1. What is the tests for ?
 
