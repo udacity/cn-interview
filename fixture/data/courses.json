@@ -1,0 +1,2807 @@
+[{
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-georgiatech.svg",
+        "key": "gt",
+        "name": "佐治亚理工学院"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 0,
+    "expected_duration_high": 0,
+    "expected_duration_low": 0,
+    "expected_duration_unit": "",
+    "expected_learning": "<p>In this OMS Orientation, we cover several things you will need to know to be a successful OMS student.</p>\n\n<p>Things we cover:<br>\n- How you’ll register for classes.<br>\n- Various tools you’ll use during your Masters education for submitting assignments, participating in forum discussions, and interacting with your professors and peers.<br>\n- Tips and secrets to success in the OMS.</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/gt101_image.png",
+    "instructors": [{
+        "bio": "<p>David Joyner 在佐治亚理工学院完成了其以人为中心的计算专业博士学位，擅长于在探索性的学习环境中为学生提供自动反馈和评估。他加入优达学城后主要从事按学生的能力和学习进度设计练习、课题和（将有一天！）整个课程。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/david-joyner.jpg",
+        "key": "david-joyner",
+        "name": "David Joyner",
+        "title": "佐治亚理工学院博士，优达学城课程策划"
+    }],
+    "key": "gt101",
+    "level": "初级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 159,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "In this OMS Orientation, we cover several things you will need to know to be a successful OMS student.",
+    "slug": "omscs-student-orientation--gt101",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "",
+    "summary": "<p>This is an OMSCS orientation course for all Georgia Tech OMS students.</p>\n",
+    "syllabus": "<h3>Welcome</h3>\n\n<p>Welcome messages from Dr. David Joyner and Eboni Bell</p>\n\n<h3>Oscar &amp; Registration</h3>\n\n<p>Accessing Oscar, Time Tickets &amp; holds, Classing (finding, adding, dropping) waitlists, and grades</p>\n\n<h3>T-square</h3>\n\n<p>Accessing T-square, settings and tools, assessments (assignments, quizzes and tests) and grade book, and links (Piazza and Udacity)</p>\n\n<h3>Udacity</h3>\n\n<p>Accessing course materials, courses, form exercises, and programming exercises</p>\n\n<h3>Piazza</h3>\n\n<p>Getting started, profile, reading lists and topics, navigation, and posting</p>\n\n<h3>Other tools</h3>\n\n<p>Passport, ProctorTrack, Google+, Peer Feedback, Webex, and other resources</p>\n\n<h3>Tips</h3>\n\n<p>Courses, community, and welcome!</p>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "OMSCS Student Orientation",
+    "tracks": [],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/sjsu.png",
+        "key": "sjsu",
+        "name": "圣何塞州立大学"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ps001_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 4,
+    "expected_duration_high": 0,
+    "expected_duration_low": 4,
+    "expected_duration_unit": "months",
+    "expected_learning": "<p>学生将能够：</p>\n\n<ul>\n<li><p>识别和分析社会作为人类生活、社会变迁过程及社会连续性环境的社会维度，在这些过程中人的能动性所起到的作用，以及产生社会凝聚力和分化的力量。</p></li>\n<li><p>将当代发展放在文化、历史、环境和空间环境的背景下理解。</p></li>\n<li><p>确定种族、文化、性别、年龄、阶级、地区、国家、跨国和全球身份的动态及它们之间的相似性、差异、联系和相互作用。</p></li>\n<li><p>评估社会科学信息，借鉴不同的观点，并设计针对当代社会问题的应用。</p></li>\n<li><p>认识社会制度、文化和环境与个体行为的相互作用。</p></li>\n</ul>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ps001_image.jpg",
+    "instructors": [{
+        "bio": "<p>Susan Snycerski 教授心理学入门课程已有 15 年。这是她最喜欢教授的课程之一，因为她认为学生在此课程中会获得对自身及他人更深入的了解。她在中密歇根大学获得了心理学理学士学位，在西密歇根大学获得了硕士和博士学位。她还荣获了美国国立药物滥用研究所的两年博士后奖学金，并拥有临床试验管理部的毕业证书。她已在圣何塞州立大学任教 8 年之久。Susan 在闲暇时间喜欢徒步旅行、烹饪美食和观看底特律红翼冰球队的比赛。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/susan-snycerski.jpg",
+        "key": "susan-snycerski",
+        "name": "Susan Snycerski",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Gregory J. Feist 是圣何塞州立大学人格心理学副教授及研究与实验心理学研究生项目主任。他教授的课程包括心理学入门、测试与措施和科学心理学。他是入门级教科书《心理学：观点与联系》（Psychology: Perspectives and Connections，McGraw-Hill 出版社）的合著者。他在 1991 年获得了加州大学伯克利分校的博士学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/greg-feist.jpg",
+        "key": "greg-feist",
+        "name": "Greg Feist",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Lauren Castellano 在内华达拉斯维加斯大学取得心理学学士学位，在圣荷西州立大学取得文学硕士学位。已担任三年助教。她对教授心理学充满激情，她相信心理学可以应用于我们日常生活每件事和任何人都能从中获益。Lauren 还喜欢旅行和潜水；她是一名认证的潜水救生员和潜水教练候选人。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/lauren-castellano.jpg",
+        "key": "lauren-castellano",
+        "name": "Lauren Castellano",
+        "title": "讲师"
+    }],
+    "key": "ps001",
+    "level": "初级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 64,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>本课程无先修要求，但学习者最好对研究人性感兴趣。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "了解心理学概念和原理，认识人类思维和行为。",
+    "slug": "intro-to-psychology--ps001",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "思维与行为的科学",
+    "summary": "<p>本课程是了解所有主要心理概念和原则的一场旅程。从这门课程中获得的知识将使学生能够批判性地评价心理研究，并更深入地了解人类思维和行为。</p>\n",
+    "syllabus": "<p>第 1 课：心理学简介</p>\n\n<p>第 2 课：心理学研究方法</p>\n\n<p>第 3 课：行为生物学</p>\n\n<p>第 4 课：感知</p>\n\n<p>第 5 课：人类发展</p>\n\n<p>第 6 课：意识</p>\n\n<p>第 7 课：学习</p>\n\n<p>第 8 课：记忆</p>\n\n<p>第 9 课：语言与思维</p>\n\n<p>第 10 课：智力</p>\n\n<p>第 11 课：动机与情绪</p>\n\n<p>第 12 课：压力与健康</p>\n\n<p>第 13 课：人格</p>\n\n<p>第 14 课：社会行为</p>\n\n<p>第 15 课：心理障碍</p>\n\n<p>第 16 课：心理障碍的治疗</p>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ps001/catalog_entry.teaser_video_a8c4826ad0b75f75aacb139ce26af4c2_480p_1000kbps.mp4"
+            },
+            "480p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ps001/catalog_entry.teaser_video_7c9b54490ef01415ff2117becfd5d9e7_480p.mp4"
+            },
+            "480p_ogg": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ps001/catalog_entry.teaser_video_7c9b54490ef01415ff2117becfd5d9e7_480p.ogg"
+            },
+            "720p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ps001/catalog_entry.teaser_video_7c9b54490ef01415ff2117becfd5d9e7_720p.mp4"
+            }
+        },
+        "youtube_url": "https://www.youtube.com/watch?v=Xb6N53WXfQ0"
+    },
+    "title": "心理学入门",
+    "tracks": ["非技术类"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-georgiatech.svg",
+        "key": "gt",
+        "name": "佐治亚理工学院"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud436_banner.png",
+    "capped": true,
+    "enables_profiles": false,
+    "expected_duration": 3,
+    "expected_duration_high": 0,
+    "expected_duration_low": 3,
+    "expected_duration_unit": "months",
+    "expected_learning": "<p>你是否想要扩充计算机网络知识或希望获得网络工程职位，如系统管理员、网络管理员或 WebOps？如果是，那这就是你所需的课程。</p>\n\n<p>本课程采用实践方法来教授技术难度较高的内容，使用 Mininet（一种网络模拟器）来向你展示计算机网络的运作方式、网络效率的主导因素以及如何克服固有限制。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": true,
+    "graduate_groups": ["5818663031013376"],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud436_image.jpg",
+    "instructors": [{
+        "bio": "<p>Nick Feamster 是佐治亚理工学院计算机学院的一名副教授。他于 2005 年获得麻省理工学院计算机科学博士学位。他主要研究计算机网络和网络系统的许多方面，包括网络路由协议、网络操作和安全性以及匿名通信系统的设计、测量和分析。在 2008 年，他因对网络安全的贡献，特别是垃圾邮件过滤，荣获美国科学家及工程师早期职业总统奖 (PECASE)。他获得的荣誉包括：科技评论杂志 (MIT Tech Review) 评选的 35 位 35 岁以下的年轻创新者、美国国家科学基金生涯奖 (NSF Career Award) 、IBM 学院奖学金、以及 SIGCOMM 2006、NSDI 2005、Usenix Security 2002 和 2001 论文奖。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/nick-feamster.jpg",
+        "key": "nick-feamster",
+        "name": "Nick Feamster",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Josh Valdez 是优达学城的一名课程策划，正在斯坦福大学攻读计算机科学学位。他曾担任斯坦福入门网络课程的教学助理，并执行过 MPTCP（一种正在积极研究中的传输协议）相关的项目。他还曾在 Nicira 实习，这是一家前沿网络创业公司，已被 VMware 收购。在闲暇时，Josh 喜欢骑行及喝大量咖啡。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/joshua-valdez.jpg",
+        "key": "joshua-valdez",
+        "name": "Joshua Valdez",
+        "title": "讲师"
+    }],
+    "key": "ud436",
+    "level": "中级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 45,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>要学习此课程，最好先完成本科水平的计算机网络课程。并建议了解 TCP/IP 协议及其分层模型。必须满足的条件为具备 Python 基础知识（例如通过<a href= \"https://cn.udacity.com/course/intro-to-computer-science--cs101\">计算机科学导论</a>课程）。</p>\n\n<p>你要能实现基本的搜索算法，并建议了解 Linux 和虚拟机的应用知识。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "这门高级计算机网络课程将介绍计算机网络领域的常用工具和最新概念。",
+    "slug": "computer-networking--ud436",
+    "starter": false,
+    "student_groups": ["6376884402651136", "5398990636449792"],
+    "subtitle": "安全和软件定义的网络",
+    "summary": "<p><i>此课程在佐治亚理工学院的编号为 CS6250，是该校<a href=\"http://www.omscs.gatech.edu/\">线上硕士学位（OMS）</a>的一部分。在优达学城网站学习此课程并不会获得 OMS 学位学分。</i></p>\n\n<p>此课程涵盖计算机网络领域的高端话题，例如软件定义网络（SDN）、数据中心网络和内容分发。此课程分为三个部分：</p>\n\n<p>第 1 部分关于计算机网络的实现、设计原则和目标，并提及了 CN 中使用的多种路由算法（例如：链路状态和距离向量）。 </p>\n\n<p>第 2 部分讲述网络应用中的资源控制和内容分发，涵盖拥塞控制与流量整形。</p>\n\n<p>第 3 部分讲解计算机网络的运营与管理，包括 SDN（软件定义网络）的流量工程和网络安全。</p>\n",
+    "syllabus": "<h3>第 1 课：简介</h3>\n\n<ul>\n<li>计算机网络概述</li>\n<li>此课程不教授什么</li>\n</ul>\n\n<h3>第 2 课：架构与原则</h3>\n\n<ul>\n<li>互联网简史</li>\n<li>架构设计原则</li>\n<li>分组交换</li>\n<li>文件传输</li>\n<li>端到端原则违反</li>\n</ul>\n\n<h3>第 3 课：交换</h3>\n\n<ul>\n<li>交换和桥接</li>\n<li>Bootstrapping：在两个主机间建立网络</li>\n<li>ARP：地址解析协议</li>\n<li>互联 LAN 与集线器</li>\n<li>交换机：流量隔离</li>\n<li>生成树</li>\n<li>交换机与路由器</li>\n<li>TCP Sender 的缓冲区大小</li>\n</ul>\n\n<h3>第 4 课：路由</h3>\n\n<ul>\n<li>互联网路由</li>\n<li>Intra-AS 拓扑</li>\n<li>距离向量路由</li>\n<li>链路状态路由</li>\n<li>域间路由</li>\n<li>IGP 与 iBGP</li>\n<li>BGP 路径选择</li>\n<li>多出口区分属性 (MEI)</li>\n<li>域间路由业务模式</li>\n</ul>\n\n<h3>第 5 课：命名、地址和转发</h3>\n\n<ul>\n<li>IP 地址划分</li>\n<li> 1994 年前：“分类”地址</li>\n<li>IP 地址分配</li>\n<li>无类域间路由 (CIDR)</li>\n<li>多宿主阻碍聚合</li>\n<li>使用尝试查找地址</li>\n<li>内存效率和快速查找</li>\n<li>带尝试的 LPM 的替代</li>\n<li> NAT 和 IPv6</li>\n<li>网络地址转换 (NAT)</li>\n</ul>\n\n<h3>第 5.1 课：路由器设计基础</h3>\n\n<ul>\n<li>路由器设计</li>\n<li>基础路由器架构</li>\n<li>决策：纵横制交换</li>\n<li>交换算法：最大化匹配</li>\n<li>队头阻塞</li>\n<li>调度和公平性</li>\n<li>最大-最小公平性</li>\n</ul>\n\n<h3>第 5.2 课：域名系统 (DNS)</h3>\n\n<ul>\n<li>记录类型</li>\n<li>示例（使用“挖掘”）</li>\n<li>查询 IP 地址</li>\n</ul>\n\n<h3>第 6 课：拥塞控制和流媒体</h3>\n\n<ul>\n<li>拥塞控制</li>\n<li>AIMD（TCP 拥塞控制）</li>\n<li>数据中心与 TCP Incast</li>\n<li>屏蔽同步与空闲时间</li>\n<li>多媒体和流媒体</li>\n<li>数字化音频和视频</li>\n<li>流媒体视频</li>\n<li> Skype</li>\n</ul>\n\n<h3>第 7 课：速率限制和流量整形</h3>\n\n<ul>\n<li>流量分类和整形</li>\n<li>来源分类</li>\n<li>漏桶算法流量整形</li>\n<li> (r, t) 流量整形</li>\n<li>突发数据流量模式整形</li>\n<li>功率助推</li>\n<li>对延迟的影响</li>\n<li>缓存膨胀</li>\n<li>包监控</li>\n</ul>\n\n<h3>第 8 课：内容分发</h3>\n\n<ul>\n<li>Web 和缓存</li>\n<li>HTTP 请求</li>\n<li>持久连接</li>\n<li>内容分发网络 (CDN)</li>\n<li>服务器选择</li>\n<li>内容路由</li>\n<li>Bit Torrent</li>\n<li>搭便车解决方法：“阻塞 (Choking)”</li>\n<li>分布式哈希表</li>\n<li>一致性哈希算法</li>\n</ul>\n\n<h3>第 9 课：软件定义网络</h3>\n\n<ul>\n<li>网络管理概述</li>\n<li>软件定义网络 (SDN)</li>\n<li>控制和数据平面</li>\n<li>不同的 SDN 控制器</li>\n<li>NOX：概述</li>\n<li>Ryu, Floodlight, Nox 和 Pox 控制器</li>\n<li>定制控制</li>\n</ul>\n\n<h3>第 10 课：流量工程</h3>\n\n<ul>\n<li>流量工程概况</li>\n<li>域间流量工程</li>\n<li>测量、建模和控制流量</li>\n<li>链路利用率函数</li>\n<li>用 BGP 实现域间流量工程</li>\n<li>多径路由</li>\n<li>数据中心网络</li>\n<li>Valiant 负载平衡</li>\n<li>Jellyfish 数据中心拓扑</li>\n</ul>\n\n<h3>第 11 课：网络安全</h3>\n\n<ul>\n<li>互联网是不安全的</li>\n<li>资源枯竭</li>\n<li>路由安全</li>\n<li>来源和路径认证</li>\n<li>域名系统 (DNS) 安全</li>\n<li>域名系统 (DNS) 缓存中毒</li>\n</ul>\n\n<h3>第 11.1 课：互联网蠕虫</h3>\n\n<ul>\n<li>病毒和互联网蠕虫</li>\n<li>互联网蠕虫的生命周期</li>\n<li>世界上第一个蠕虫程序：Morris 蠕虫</li>\n<li>蠕虫爆发的细节</li>\n<li>对快速传播的蠕虫建模</li>\n</ul>\n\n<h3>第 11.2 课：垃圾邮件</h3>\n\n<ul>\n<li>垃圾邮件</li>\n<li>IP 黑名单</li>\n</ul>\n\n<h3>第 11.3 课：拒绝服务 (DoS) 攻击</h3>\n\n<ul>\n<li>TCP 的三次握手</li>\n<li>使用虚假退信推断拒绝服务活动</li>\n<li>自动 DOS 攻击缓解</li>\n<li> MTPCP</li>\n</ul>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "计算机网络",
+    "tracks": ["网站开发", "佐治亚理工学院计算机科学硕士"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud000_banner.png",
+    "capped": true,
+    "enables_profiles": false,
+    "expected_duration": 8,
+    "expected_duration_high": 0,
+    "expected_duration_low": 8,
+    "expected_duration_unit": "months",
+    "expected_learning": "<p>编程并不是一件容易的事。编程语言经常很复杂，涉及的技术也比较高深。对新手来说，有时候不知道该如何下手。这些挑战经常让很多人放弃学习编程知识。我们的使命是改变这一状况。我们希望编程知识普及化，易于理解，并且能够造福人类。所有成功的程序员都掌握了一些常见的基本知识。该课程将教会你这些技能。</p>\n\n<p>完成该纳米学位课程后，你将对未来职业道路有新的认识。你可能会决定转行，在技术领域找到全新的岗位。新掌握的技术知识可能会帮助你在现有的工作中获得晋升机会。你可能会开启梦寐以求的个人项目。无论你的未来发展方向如何，所掌握的编程知识都将使你能够高效地沟通和创建项目，并充满创新思维。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": true,
+    "graduate_groups": ["5795190493413376"],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud000_image.jpg",
+    "instructors": [{
+        "bio": "<p>Steve Huffman 在 2005 年与大学室友共同创立了社交新闻网站 <a href=\"http://reddit.com\" target=\"_blank\">reddit.com</a>。自此以后，reddit.com 成为了最大的在线社区之一。在 2010 年，他与他人共同成立了 <a href=\"https://www.hipmunk.com\" target=\"_blank\">Hipmunk</a>，使人们不再为搜索机票和预订酒店而烦恼。Steve 曾入选《Inc.》杂志2011年“30位30岁以下创业者”榜单。他在弗吉利亚大学攻读了计算机科学学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/steve-huffman.jpg",
+        "key": "steve-huffman",
+        "name": "Steve Huffman",
+        "title": "reddit、Hipmunk 联合创始人"
+    }, {
+        "bio": "<p>Jessica 从小就爱教别人，她会召集自己的兄弟姐妹们，然后当个小老师，将自己过去一年中在学校学到的东西教给大家。她获得了中央佛罗里达大学电气工程技术学院的理学学士学位。早期，她曾教大家如何使用微控制器和机器人。她还获得了威斯康星大学工程管理领域工程学硕士学位。在闲暇时间内，她喜欢阅读、滑雪和周游世界。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/jessica-uelmen.jpg",
+        "key": "jessica-uelmen",
+        "name": "Jessica Uelmen",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Cameron 是一位充满激情的教育工作者和程序员，非常热爱网页开发。他专门为优达学城创建编程类课程。来此之前，他曾是西雅图创业公司 LearnBIG 的内容主管和网页开发者。他在田纳西州纳什维尔的一所高中教了四年课程，主要教物理和化学。在此期间，他率先利用视频游戏“传送门 2 (Portal 2)”来讲述物理知识。Cameron 荣获了范德堡大学物理和天文学本科学位，并获得贝尔蒙特大学的教育学硕士学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/cameron-pittman.jpg",
+        "key": "cameron-pittman",
+        "name": "Cameron Pittman",
+        "title": "优达学城讲师，高级内容策划"
+    }, {
+        "bio": "<p>Kunal Chawla 在德克萨斯大学奥斯汀分校获得计算机科学学士学位之后，先做了三年程序员，然后决定转入教育领域。他在中学讲授自然科学课程，参加 Google 的远程学习计划，并在加入优达学城之前，获得了斯坦福大学的教育技术硕士学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/kunal-chawla.jpg",
+        "key": "kunal-chawla",
+        "name": "Kunal Chawla",
+        "title": "优达学城讲师"
+    }, {
+        "bio": "<p>David Evans 是弗吉尼亚大学计算机科学教授，他讲授计算机科学并领导<a href=\"http://www.jeffersonswheel.org/\" target=\"_blank\">计算机安全研究</a>。他是<a href=\"http://www.computingbook.org/\" target=\"_blank\">《计算机科学导论》</a>一书的作者，曾荣获弗吉尼亚的大学教师最高奖。他拥有麻省理工学院的博士、硕士和学士学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/dave-evans.jpg",
+        "key": "dave-evans",
+        "name": "Dave Evans",
+        "title": "弗吉尼亚大学教授，《计算机科学导论》作者"
+    }, {
+        "bio": "<p>Andy Brown 是优达学城的首席讲师。他拥有 MIT 的物理学学位，毕业以后，他致力于教学和学习。自2012年加入优达学城以来，Andy 帮忙设计了很多课程。他喜欢通过创建具有创新性和引人注意的课程来探索新的教育方法。平时，如果他不是在研究转换思维的最好办法，那你肯定会发现他在骑自行车，或是在开车探索他在加利福尼亚的新家带给他的完美体验。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/andy-brown.jpg",
+        "key": "andy-brown",
+        "name": "Andy Brown",
+        "title": "优达学城首席讲师"
+    }],
+    "key": "ud000",
+    "level": "初级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 50,
+    "public_listing": false,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>针对你在纳米学位课程第一周内学到的知识，获得及时的反馈。</p>\n\n<p>准备好提交了？<a href=\"https://docs.google.com/a/knowlabs.com/document/d/1DXMfITr7C-oFlDLG6k5QAbyndjSuU_66n_3od6HPbV4/pub\" target=\"_blank\"><strong>请按照这些说明操作！</strong></a></p>\n",
+        "image": "",
+        "index": "",
+        "name": "第 0 阶段: 学习 HTML 入门知识",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>基本要求：</p>\n\n<ul>\n<li>积极主动，热爱学习。 </li>\n<li>具备流利地道的英文说写能力。</li>\n</ul>\n\n<p>基本计算机技能：</p>\n\n<ul>\n<li>能够在计算机上找到相关文件</li>\n<li>能够在计算机上重命名文件</li>\n<li>能够在邮件中添加附件</li>\n<li>能够在计算机上解压缩文件</li>\n<li>能够从互联网上下载程序并安装</li>\n</ul>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "如果你对编程一窍不通，完成本课程后，你将对编程有基本的认识，并掌握一定的入门技能。",
+    "slug": "intro-to-programming--ud000",
+    "starter": false,
+    "student_groups": ["5645376665419776"],
+    "subtitle": "学习编程",
+    "summary": "<p>如果你对编程一窍不通，完成本课程后，你将对编程有基本的认识，并掌握一定的入门技能。</p>\n\n<p>本课程会介绍编程的基本知识，以及所有程序员都会用到的一些技能，无论他们是开发移动应用、创建网页，还是分析数据。你不仅会学习编程知识，还将明白“像程序员一样思考”的含义，你将学会创建自己的网页和项目作品集，证明你已经掌握了这些知识。</p>\n\n<p>成功学完本课程后，你将增强自己的技能，增加机遇，并为未来进入技术行业打下扎实的基础。该课程并非专门的职业认证学位课程，但是对于初学者来说，却是重要的一步。</p>\n\n<p><b>注意</b>：如果你是免费学习这门课，将无法获得辅导帮助，或提交项目作品供我们审核，也无法获得认证证书。这意味着，在课程中你会偶尔看到不适用于你的说明和信息。</p>\n\n<p>喜欢这一学习过程，并想要获得认证？需要帮助或想要与同行们沟通交流？赶快报名“<a href=\"https://cn.udacity.com/course/intro-to-programming-nanodegree--nd000-cn-basic/\">编程入门基石纳米学位</a>”课程吧！ 。</p>\n\n<p><em>无论你在哪个阶段，都不要放弃学习，要始终像优达学员一样勤奋好学噢！</em></p>\n",
+    "syllabus": "<h2>你会构建什么</h2>\n\n<p>在学习本纳米学位课程的过程中，你将逐步创建一个网页，并在上面记录所学的知识。学完本课程后，你将拥有一个功能齐全的网页，并构建一些很酷的程序，展示出你所学的内容，例如如何：</p>\n\n<h3>看起来更专业</h3>\n\n<p>通过使用“样式”语言 CSS，你将能够快速轻松地更改网页的外观。在学习 CSS 时，你还将学到计算机科学领域最重要的概念：通过“抽象类”避免重复写一些内容。</p>\n\n<h3>显示视频</h3>\n\n<p>除了用记事的方式记录所学的内容，你还将学习如何用编程语言 Python 编写代码，并将你喜爱的视频（来自优达学城或任何其他地方）直接嵌入到网页上。在学习 Python 时，你将掌握一门与编程语言不相关的通用技能：运用程序思维让计算机完全按照你的指令操作。</p>\n\n<h3>用户友好</h3>\n\n<p>虽然你将能够通过修改网页的源代码，更改你的网页，但是查看该网页的人却无法修改源代码。你需要添加一个表格，使访问者能够向你的网页中添加他们自己的内容（当然是你允许他们添加才行）。你在学习如何处理用户向你的网页提交的信息时，也将更深入地了解互联网的工作原理，以及计算机程序员如何利用他人之前已经编好的代码组装成复杂的程序。</p>\n\n<h2>如何构建你自己的网页</h2>\n\n<p>该纳米学位课程包括 5 个阶段。在每个阶段，你都将学到应用广阔的新技能。在每个阶段结束时，你需要完成项目测验，运用所学的知识向你的网页中添加功能，然后提交你的作品，并获得关于课程掌握程度的实用反馈。</p>\n\n<h3>第 1 阶段：制作网页</h3>\n\n<p>你将学习互联网如何运作的基本知识，以及用 HTML 编写的文档为何会成为网页的基本构成元素。在课程结束时的项目测验中，你需要编写 HTML 和 CSS，使你的网页看起来更专业。</p>\n\n<h3>第 2 阶段：构建 Mad Libs 游戏</h3>\n\n<p>此时你将学习如何编程。你将学习一门编程语言，叫做 Python，并使用该语言编写计算机能够理解并执行的说明。这一阶段结束后，你将拥有非常强大的技能：任何重复性工作都能够在计算机上自动完成。在项目测验中，你将用 Python 编写一个程序，构建一个反向的 Mad Libs 游戏。</p>\n\n<h3>第 3 阶段：创建电影网站</h3>\n\n<p>在该阶段，你将学习一门全新的编程技能（和思考方式），叫做面向对象编程，并学会如何运用该方法重复利用或修改他人已经编写好的代码构建出色的程序。在项目测验中，你将构建一个简单的电影网站，并在上面放置图片和预告片。</p>\n\n<h3>第 4 阶段：允许用户添加评论</h3>\n\n<p>到目前为止，你依然没有使你的网页上线：你只在自己的计算机上看到你的网页。在此阶段，你将深入地了解互联网的工作原理，并编写代码，告诉称为“服务器”的计算机如何显示网页。在项目测验中，你将使自己的网页上线，并创建一个“后端”功能，使全世界任何地方的用户都能查看你的网站，并在你允许的情况下修改你的网站。</p>\n\n<h3>第 5 阶段：决定下一步</h3>\n\n<p>到目前为止，你应该对大多数编程语言必须掌握的基本概念和技能有了扎实的理解。在该阶段，我们将快速讲解一些之前没有介绍的概念：</p>\n\n<ul>\n<li><strong>JavaScript</strong>: 一门 Web 语言。</li>\n<li><strong>APIs</strong>：即“应用接口”，借助它，程序员能够轻松地将网络上的数据整合到自己的应用中。</li>\n<li><strong>递归</strong>：可能是编程领域最令人震撼的技能。</li>\n<li><strong>并行计算</strong>：如何使用多台计算机更高效地解决非常复杂的问题。</li>\n<li><strong>如何解决难题</strong>：在编写大型程序（或构建复杂的网站）时，你会遇到新的挑战。</li>\n<li><strong>自适应 Web 设计</strong>: 如何使你的网站在计算机、平板电脑或手机上都能正常显示。</li>\n</ul>\n\n<p>在项目测验中，你将通过向你的网站中添加新的功能（你可以选择添加哪些内容），进一步深入地实践上述某个理念。</p>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "编程入门",
+    "tracks": [],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/sjsu.png",
+        "key": "sjsu",
+        "name": "圣何塞州立大学"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/st095_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 4,
+    "expected_duration_high": 0,
+    "expected_duration_low": 4,
+    "expected_duration_unit": "months",
+    "expected_learning": "<ul>\n<li>在日常生活中运用统计学</li>\n<li>通过观察和实验获得数据的方法</li>\n<li>组织和描述量化及分类好的数据</li>\n<li>运用基本的概率和抽样知识预测模式<br></li>\n<li>通过估算和假设检验做出统计推断</li>\n<li>关联和简单回归</li>\n<li>描述变量之间的关系程度</li>\n</ul>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/st095_image.jpg",
+    "instructors": [{
+        "bio": "<p>Sean Laraway 自2004年起在圣何塞州立大学任教。他在神经药理学领域进行博士后研究，自1998年起教授本科和研究生统计学课程。他在2003年在西密歇根大学获得行为分析学硕士和博士学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/sean-laraway.jpg",
+        "key": "sean-laraway",
+        "name": "Sean Laraway",
+        "title": "圣何塞州立大学教授"
+    }, {
+        "bio": "<p>Ron Rogers 博士1995年在美国罗格斯大学行为神经科学院取得硕士和博士学位，1999年起在圣何塞州立大学担任心理学教授。他同时教授本科生和研究生，教授统计学和研究方法科学。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ronald-rogers.jpg",
+        "key": "ronald-rogers",
+        "name": "Ronald Rogers",
+        "title": "圣何塞州立大学教授"
+    }, {
+        "bio": "<p>在制作优达学城统计学课程后，Katie Kormanik 在斯坦福商学院担任指导设计师，之后在麦肯锡公司任职。同时她还就产品开发、课程和教学法为许多机构提供咨询。Katie 在犹他州大学获得数学和经济学学士学位，在斯坦福大学获得国际比较教育硕士学位。她爱好瑜伽、单板滑雪、唱歌、阅读和旅游，并且一直喜欢下国际象棋。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/katie-kormanik.jpg",
+        "key": "katie-kormanik",
+        "name": "Katie Kormanik",
+        "title": "优达学城讲师"
+    }],
+    "key": "st095",
+    "level": "初级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 55,
+    "public_listing": false,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>你可能会感到意外，数学并不是本课程的重点。但是要学好本课程，必须对比例（分数、小数和百分比）、负数、基础代数（求解方程）、指数及平方根有基本的了解。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "我们生活的这个时代充斥着各种信息。你将学习如何运用统计学知识理解这些信息，并作出决策。",
+    "slug": "statistics--st095",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "决策的科学",
+    "summary": "<p>注意：本课程被分成了两项课程：<a href=\"https://cn.udacity.com/course/intro-to-descriptive-statistics--ud827/\">描述</a>和<a href=\"https://cn.udacity.com/course/intro-to-inferential-statistics--ud201/\">推论</a>统计学入门。如果你不熟悉统计学，建议先学习这两门课程。</p>\n\n<p>我们生活的这个时代让我们能够以前所未有的方式获取信息——数据。无论是搜索最佳学校、求职，还是约会交往，互联网都为我们提供了大量的信息来源。统计学是一种客观系统的信息描述和理解方法，使你能够在生活中做出最正确的决策。</p>\n\n<p>喜欢这门课程？加入“<a href=\"https://cn.udacity.com/dand/\" target=\"_blank\">数据分析</a>”纳米学位。</p>\n",
+    "syllabus": "<h3>第 1 部分：统计学和方法入门</h3>\n\n<ul>\n<li>第 1 课：统计学研究方法入门</li>\n<li>第 2 课：概率分布和可视化数据</li>\n</ul>\n\n<h3>第 2 部分：描述数据</h3>\n\n<ul>\n<li>第 3 课：集中趋势</li>\n<li>第 4 课：可变性</li>\n</ul>\n\n<p>期中考试 1：第 1-4 课</p>\n\n<h3>第 3 部分：正态分布分析</h3>\n\n<ul>\n<li>第 5 课：标准得分（z 计分方法）</li>\n<li>第 6 课：比例和正态分布</li>\n<li>第 7 课：抽样分布</li>\n</ul>\n\n<h3>第 4 部分：推论统计学的基础</h3>\n\n<ul>\n<li>第 8 课：估算</li>\n<li>第 9 课：假设检验</li>\n</ul>\n\n<p>期中考试 2：第 5-9 课</p>\n\n<h3>第 5 部分：比较均值</h3>\n\n<ul>\n<li>第 10-11 课：t-检验</li>\n<li>第 12-13 课：单向方差分析（ANOVA）</li>\n</ul>\n\n<h3>第 6 部分：相关、回归和无参数统计学</h3>\n\n<ul>\n<li>第 14 课：相关</li>\n<li>第 15 课：回归</li>\n<li>第 16 课：卡方检验</li>\n</ul>\n\n<p>期末考试：第 10-16 课（即将推出）</p>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.st095/catalog_entry.teaser_video_080f9b6a435c07e44a7b29b478fca582_480p_1000kbps.mp4"
+            },
+            "480p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.st095/catalog_entry.teaser_video_e6b0f6131a67423d3a88c738ad2ada1c_480p.mp4"
+            },
+            "480p_ogg": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.st095/catalog_entry.teaser_video_e6b0f6131a67423d3a88c738ad2ada1c_480p.ogg"
+            },
+            "720p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.st095/catalog_entry.teaser_video_e6b0f6131a67423d3a88c738ad2ada1c_720p.mp4"
+            }
+        },
+        "youtube_url": "https://www.youtube.com/watch?v=ZF62KhgmNxs"
+    },
+    "title": "统计学",
+    "tracks": ["非技术类"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud876-3_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 2,
+    "expected_duration_high": 0,
+    "expected_duration_low": 2,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>如果你想成为一名专业的<a href=\"https://cn.udacity.com/android\" target=\"_blank\">Android 开发者</a>，并让你的应用为你带来收入，本课程将会实现你的愿！</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud876-3_image.png",
+    "instructors": [{
+        "bio": "<p>Magnus Hyttsten 在 Google 担任开发技术推广工程师。他是一个坚定不移的软件技术专家，也是一个产品营销狂热者，喜欢在快节奏的环境中工作。加入 Google 之前，他在电信产业的一家公司工作。这家公司是他与别人共同创立的，自2000年便担任其CTO。他酷爱数据中心、静态类型编程语言、科技传播、以及其他还未有人尝试过的事情。目前，他非常热衷于移动设备连接至云端相关问题。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/magnus-hyttsten.jpg",
+        "key": "magnus-hyttsten",
+        "name": "Magnus Hyttsten",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Jocelyn Becker 在2004年为首个外部 Google API（Adwords API）编写了开发者文档。在那之后，她一直在致力于 Google API 的文档编写及开发者培训工作。在过去的几年中，她一直在为 Google Cloud 相关产品编写培训课程，并亲自进行培训。她希望帮助更多的人知道，通过 App Engine 开发网络应用是多么容易的一件事。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/jocelyn-becker.jpg",
+        "key": "jocelyn-becker",
+        "name": "Jocelyn Becker",
+        "title": "讲师"
+    }, {
+        "bio": "<p>作为 Google 的开发技术推广工程师，Laurence Moroney 不是正在编写应用、拍摄视频或编写课程，就是在脑海中构想这些事情。他在 Mainsoft、Microsoft 等公司的技术支持部门有过多年的工作经验，具体年数连他自己也记不清了。刚刚进入计算机开发领域时，他为很多不同行业，例如赌场、监狱以及金融服务业编写监控和安保系统 。Laurence 是多本畅销书的作者，包括受大众欢迎的“Legend of the Locust”科幻小说系列，以及许多计算机编程相关书籍。他是 YouTube 频道“Coffee with a Googler”的主持人，你可以通过 @lmoroney 或 +LaurenceMoroney 联系到他。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/laurence-moroney.png",
+        "key": "laurence-moroney",
+        "name": "Laurence Moroney",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Jay Harman 在大学训练火舞表演者时，发现了自己对教学的热情。他拥有数学学位，在专注于计算机科学前，他一直以表演和当家庭教师为生。后来他加入优达学城，成为学员支持团队的一员，直接与学员探讨数据科学、机器学习以及 Android 开发。现在他是一名课程策划，与 Google 一起创建一流的 Android 课程。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/jay-harman.jpg",
+        "key": "jay-harman",
+        "name": "Jay Harman",
+        "title": "讲师"
+    }],
+    "key": "ud876-3",
+    "level": "中级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 114,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>为了最有效地学习本课程，你应当具备 Android 应用开发相关经验。如果你没有 Android 应用开发经验，请先完成 <a href=\"https://cn.udacity.com/course/new-android-fundamentals--ud851\" target=\"_blank\">Android 应用开发</a> 课程，再学习本课程。如果你有兴趣将你的应用发布至 Google Play 商店，我们还建议你学习<a href=\"https://cn.udacity.com/course/advanced-android-app-development--ud855\" target=\"_blank\">高级 Android 应用开发</a>课程。</p>\n\n<p>要跟上课程并参与课程活动，你必须使用最新版本的 <a href=\"https://developer.android.com/sdk/index.html\" target=\"_blank\">Android Studio</a>，其中包含有模拟程序，可用来对应用进行基本测试。为获得最佳体验，你需要使用最新推出的 Android 设备。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "学习如何使用 Google的 AdMob 来为你的应用添加横幅式广告和插播式广告，从而获得收入！",
+    "slug": "monetize-your-android-app-with-ads--ud876-3",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "利用 AdMob 获得收入",
+    "summary": "<p>在本课程中，你将会学习如何使用 Google 的 AdMob  API 展示横幅广告和插播广告，让你的 Android 应用为你带来收入。此课程提供中文版本。</p>\n\n<p>本课程是 Google Play 服务系列课程的一部分。该系列课程介绍多种不同的 Google API，其中每门课程都简短而独立，你可以选择其中任意一门学习，也可以学习全部课程！</p>\n\n<ul>\n<li><a href=\"https://cn.udacity.com/course/google-location-services-on-android--ud876-1\" target=\"_blank\">基于 Android 的 Google 定位服务</a> </li>\n<li><a href=\"https://cn.udacity.com/course/google-analytics-for-android--ud876-2\" target=\"_blank\">Android 上的 Google Analytics</a> </li>\n<li><strong>从 Android 应用的广告中获得收入</strong></li>\n<li><a href=\"https://cn.udacity.com/course/add-google-maps-to-your-android-app--ud876-4\" target=\"_blank\">将 Google 地图添加到 Android 应用中</a> </li>\n<li><a href=\"https://cn.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5\" target=\"_blank\">将 Google 账号登录添加到 Android 应用中</a></li>\n</ul>\n\n<p>喜欢这门课程？你可以继续学习“<a href=\"https://cn.udacity.com/android\" target=\"_blank\">Android 开发工程师</a>”纳米学位！</p>\n",
+    "syllabus": "<h3>Introduction</h3>\n\n<p>Google Play 服务概述，及该系列课程的目标和结构介绍。</p>\n\n<h3>了解 AdMob</h3>\n\n<ul>\n<li>介绍利用应用和 Google AdMob 获得收入的相关模式；</li>\n<li>创建在应用中展示横幅广告和插播广告的代码；</li>\n<li>不只是测试应用，学习如何在你的应用中展示真实广告。</li>\n</ul>\n\n<h3>毕业项目（2个阶段）</h3>\n\n<p><em>本项目假设你已完成本课程，以及<a href=\"https://cn.udacity.com/course/new-android-fundamentals--ud851\" target=\"_blank\">Android 应用开发</a>、<a href=\"https://cn.udacity.com/course/advanced-android-app-development--ud855\" target=\"_blank\">高级 Android 应用开发</a>及<a href=\"https://cn.udacity.com/course/google-location-services-on-android--ud876-1\" target=\"_blank\">Google Play 服务：位置与情境</a>的学习。</em></p>\n\n<p>设计并创建你自己的 Android 应用。</p>\n",
+    "tags": ["android"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud876-3/catalog_entry.teaser_video_6848d4962ac2648bea5fdbb0d630d3c3_480p_1000kbps.mp4"
+            },
+            "480p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud876-3/catalog_entry.teaser_video_6848d4962ac2648bea5fdbb0d630d3c3_480p.mp4"
+            },
+            "480p_ogg": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud876-3/catalog_entry.teaser_video_6848d4962ac2648bea5fdbb0d630d3c3_480p.ogg"
+            },
+            "720p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud876-3/catalog_entry.teaser_video_6848d4962ac2648bea5fdbb0d630d3c3_720p.mp4"
+            }
+        },
+        "youtube_url": "https://www.youtube.com/watch?v=ZxCvTzkwotI"
+    },
+    "title": "从 Android 应用的广告中获得收入（中/英）",
+    "tracks": ["Android"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud421_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 3,
+    "expected_duration_high": 0,
+    "expected_duration_low": 3,
+    "expected_duration_unit": "months",
+    "expected_learning": "<p>没有网络，移动应用只能感知、处理和呈现主机设备本地的数据。 这大大限制了应用程序可以解决的问题的范围，并限制了它们的整体效用。 通过集成网络，应用程序便真正具有了“移动性”—— 它们可以使用流行的 Web 服务与有趣的数据交互，协调多用户活动，并构建将用户爱不释手的体验。</p>\n\n<p>本课程涵盖通过网络进行通信的基本概念，例如 HTTP、JSON 和身份验证。这些概念也可以非常便捷地转移到其他平台、语言和应用程序。此外，它还会模仿你对应用设计的理解，特别是在涉及网络限制时。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud421_image.jpg",
+    "instructors": [{
+        "bio": "<p>Jarrod 擅于尝试与教育相关的一切新事物：他积极主动，倡导改变现有的学习方式。他第一次向现状提出挑战，是帮助哈森生物技术研究所的中学生建立的虚拟科学实验室。在阿拉巴马大学亨茨维尔分校学习计算机科学的时候，他在大学课程之外还经常学习网上课件，这让他受益匪浅。他拥有阿拉巴马大学亨茨维尔分校的计算机科学学士学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/jarrod-parkes.jpg",
+        "key": "jarrod-parkes",
+        "name": "Jarrod Parkes",
+        "title": "讲师"
+    }],
+    "key": "ud421",
+    "level": "高级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 89,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>在位置地图上添加你的当前位置，使其他纳米学位学生知道你的位置。并且，张贴你自己博文、项目或作品集的链接，使其他人可以看到。</p>\n",
+        "image": "",
+        "index": "",
+        "name": "地图位置",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>本课程要求学员具有 iOS 开发经验。你已构建过多个应用，知道如何使用核心 iOS 库，并熟悉模型-视图-控制器（MVC）设计原则。如果你还不熟悉这些概念，可以学习<a href=\"https://cn.udacity.com/course/intro-to-ios-app-development-with-swift--ud585\" target=\"_blank\">用 Swift 进行 iOS 应用开发入门</a>和 <a href=\"https://cn.udacity.com/course/uikit-fundamentals--ud788\" target=\"_blank\">UIKit 基础</a>课程。</p>\n\n<p>你还需要对 Git 有基本了解。具体来说，你要能够克隆每个课程特定的 Git 代码库和检出分支。如果你需要复习 Git 技能，可以学习我们的<a href=\"https://cn.udacity.com/course/how-to-use-git-and-github--ud775\" target=\"_blank\">如何使用 Git 和 GitHub</a> 课程。</p>\n\n<p>你还需要接入一台运行 OS X 10.10 或更高版本的 Mac 计算机。然而，你不需要一台 iPad 或 iPhone 设备来完成练习和项目。所有练习都可以使用 Xcode 的内置 iOS 模拟器完成。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "学习如何在 iOS 应用中加入连网功能，以使它们能够访问全世界的数据。",
+    "slug": "ios-networking-with-swift--ud421",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "网络服务、API 和 JSON",
+    "summary": "<p>在本课中，你将学习如何在 iOS 应用中加入连网功能，以使它们能够访问全世界的数据。你将学习如何利用 API 展示图片和检索电影数据。课程结束时，你将构建“地图位置”应用，使用它与优达学城的其他学生分享有趣链接、项目或其他信息。</p>\n\n<p>喜欢这门课程？加入“<a href=\"https://cn.udacity.com/course/ios-developer-nanodegree--nd003\" target=\"_blank\">iOS 开发者</a>”纳米学位，<a href=\"https://cn.udacity.com/course/ios-developer-nanodegree--nd003\" target=\"_blank\">点此免费体验</a>。</p>\n",
+    "syllabus": "<h3>第 1 课：网络和网络服务</h3>\n\n<p>在本课中，你将学习关于网络的方方面面，以及它们的运作原理。你还将创建使用网络服务的首个应用：“在图书馆睡觉”。该应用使用 Flickr API 检索出在图书馆睡觉的人们的照片。</p>\n\n<h3>第 2 课：构建“Flick Finder”</h3>\n\n<p>在本课中，你将学习如何解析 JSON 数据并向用户展示数据。你将通过构建“Flick Finder”应用展示这些新技能，该应用基于短语或位置展示 Flickr 图像。</p>\n\n<h3>第 3 课：MovieDB 和身份验证</h3>\n\n<p>在本课中，你你将了解用户和匿名访问数据之间的差异。你将通过构建利用电影数据库 API 的“我最喜爱的电影”应用实现上述目的。</p>\n\n<h3>第 4 课：使用 MVC 模式改进网络</h3>\n\n<p>在本课中，你将完善“我最喜爱的电影”应用，来创建“电影管理器”应用。对该应用而言，我们要确保使用良好的 MVC 设计，并了解从网络的角度这意味着什么。</p>\n\n<h3>第 5 课：为“地图位置”应用做准备</h3>\n\n<p>在本课中，你将开始准备最终项目应用--“地图位置”。你还将了解网络可靠性，以及无法连接网络时应用应如何响应。</p>\n",
+    "tags": ["swift", "ios"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "用 Swift 开发 iOS 联网",
+    "tracks": ["iOS"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud518_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 1,
+    "expected_duration_high": 0,
+    "expected_duration_low": 1,
+    "expected_duration_unit": "months",
+    "expected_learning": "<p>Google Developer Relations has worked with thousands of developers in hundreds of startups to help them build successful apps. Along the way, they’ve identified common themes that contribute to successful monetization strategies.</p>\n\n<p>This course combines this expertise with insights from leading startups in multiple industries. From ecommerce to games, this course will guide you through the best practices and principles for monetizing your app. By the end of this course, you’ll be able to:</p>\n\n<ul>\n<li>Choose &amp; implement a monetization strategy relevant to your product</li>\n<li>Set performance metrics &amp; monitor the success of a strategy</li>\n<li>Know when it might be time to change methods</li>\n</ul>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud518_image.jpg",
+    "instructors": [{
+        "bio": "<p>Jessica 从小就爱教别人，她会召集自己的兄弟姐妹们，然后当个小老师，将自己过去一年中在学校学到的东西教给大家。她获得了中央佛罗里达大学电气工程技术学院的理学学士学位。早期，她曾教大家如何使用微控制器和机器人。她还获得了威斯康星大学工程管理领域工程学硕士学位。在闲暇时间内，她喜欢阅读、滑雪和周游世界。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/jessica-uelmen.jpg",
+        "key": "jessica-uelmen",
+        "name": "Jessica Uelmen",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Ido is a Developer Advocate for Google Chrome. In the past 20 years, he started six companies and had a lot of fun developing and scaling large systems. He has a wide array of skills and experience, including HTML5, JavaScript, Java, PHP -- and all aspects of agile development and scaling systems. \nHis last book <a href=\"http://www.amazon.com/Web-Workers-Multithreaded-Programs-JavaScript/dp/1449322131\">Web Workers: Multithreaded Programs in JavaScript</a> will help you sleep better on long flights. You can follow his adventures <a href=\"http://ido-green.appspot.com/\">here.</a></p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ido-green.png",
+        "key": "ido-green",
+        "name": "Ido Green",
+        "title": "讲师"
+    }],
+    "key": "ud518",
+    "level": "中级",
+    "new_release": true,
+    "open_for_enrollment": false,
+    "order": 137,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>This project will help you figure out how your product will make money! With this project, you’ll identify how your product will generate revenue (your monetization strategy) and dig into the details of implementing that strategy and your rationale for choosing it.</p>\n",
+        "image": "",
+        "index": "",
+        "name": "Monetization Plan",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>This course has no formal prerequisites, but you will get a lot more out of the instruction and exercises if you’ve got a product design, or you’ve completed <a href=\"https://cn.udacity.com/course/product-design--ud509\" target=\"_blank\">Product Design</a> before enrolling in this course.</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "Learn how to effectively develop, implement, and measure your monetization strategy, iterating on the model as appropriate.",
+    "slug": "app-monetization--ud518",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "Develop a Sustainable Financial Strategy",
+    "summary": "<p>There is no higher form of user validation than having customers support your product with their wallets. However, the path to a profitable business is not necessarily an easy one. This course blends instruction with real life examples to help you effectively develop, implement, and measure your monetization strategy, iterating on the model as appropriate.</p>\n",
+    "syllabus": "<h3>Lesson 1: Introducing Monetization</h3>\n\n<p>Developing an appropriate monetization strategy is comparable to finding the product/market fit for a new idea. This lesson will get you started on the path to finding that strategy by helping you think about profitability from the very beginning. You will also learn about different monetization models, profit margins, KPIs, and customer acquisition and retention. </p>\n\n<h3>Lesson 2: Monetization Strategies</h3>\n\n<p>They say nothing happens before you make your first dollar. This lesson takes a deep dive into monetization strategies for different platforms, covering freemium, subscription, eCommerce, and Ads across web, games, and native apps. You’ll learn about the tools startups use to implement these strategies and design a plan to execute a model for your own product. </p>\n\n<h3>Lesson 3: Implement a Monetization Plan</h3>\n\n<p>Monetization strategies change over time as the user base grows and the product evolves. In this lesson, you will choose and tailor a monetization strategy for your product and learn how to set up tracking to monitor its effectiveness. Using Google Analytics and other tracking tools, you will begin closely following and iterating based on behavior reports, crashes, exceptions, and app speed. </p>\n\n<h3>Lesson 4: Optimize Your Model</h3>\n\n<p>In the final lesson, you will learn how to react and re-engage users if your monetization strategies don’t originally work. Through a case study with Nir Eyal, you will see how product and monetization are closely tied and how the Hooked Model can be used to optimize your strategy. </p>\n\n<h3>Case Study: Wufoo</h3>\n\n<p>Learn how Kevin Hale got started with Wufoo (sold to SurveyMonkey).</p>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "App Monetization",
+    "tracks": ["非技术类"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud723_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 3,
+    "expected_duration_high": 0,
+    "expected_duration_low": 3,
+    "expected_duration_unit": "months",
+    "expected_learning": "<p>从头构建应用非常耗时间，但是会收获颇丰。不要被课程的周期给吓到了！</p>\n\n<p>这门课程的独特之处在于，大部分时间将花在课堂之外研究你的应用上。我们会为你指个方向，让你去查找资源并取得进步，但是具体的实施过程取决于你自己。</p>\n\n<p>学完这门课程后，你将构建自己的自定义 iOS 应用，并且有信心再来一遍。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud607_image.jpg",
+    "instructors": [{
+        "bio": "<p>Jessica 从小就爱教别人，她会召集自己的兄弟姐妹们，然后当个小老师，将自己过去一年中在学校学到的东西教给大家。她获得了中央佛罗里达大学电气工程技术学院的理学学士学位。早期，她曾教大家如何使用微控制器和机器人。她还获得了威斯康星大学工程管理领域工程学硕士学位。在闲暇时间内，她喜欢阅读、滑雪和周游世界。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/jessica-uelmen.jpg",
+        "key": "jessica-uelmen",
+        "name": "Jessica Uelmen",
+        "title": "讲师"
+    }],
+    "key": "ud607",
+    "level": "高级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 112,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>获得一份 iOS 开发者的工作光有技术能力是不够的；还需要创造力与创新力。现在，请根据你到目前为止所学的纳米学位知识，大胆创想、设计和编写你自己的自定义应用。</p>\n",
+        "image": "",
+        "index": "",
+        "name": "你来决定！",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p><strong>报名参加这门课程，表明你已有 iOS 开发经验。</strong>课程不会涉及应用开发的技术层面，而是指导你如何构建应用。具体来说，这门课程是为 iOS 开发者纳米学位的最终项目奠定基础，前提是你已经掌握以下课程中讲授的概念：</p>\n\n<ul>\n<li><a href=\"https://cn.udacity.com/course/uikit-fundamentals--ud788\" target=\"_blank\">UIKit 基础</a></li>\n<li><a href=\"https://cn.udacity.com/course/ios-networking-with-swift--ud421\" target=\"_blank\">用 Swift 开发 iOS 联网</a></li>\n<li><a href=\"https://cn.udacity.com/course/ios-persistence-and-core-data--ud325\" target=\"_blank\">iOS 持久性和核心数据</a> </li>\n</ul>\n\n<p>同时请注意，向 App Store 提交应用或将应用加载到实体设备上，需要报名学习 Apple 官方的<a href=\"https://developer.apple.com/programs/ios/\" target=\"_blank\">iOS 开发者课程</a>。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "学习应用构建过程，将你的想法变成应用，并发布到 App Store 上！",
+    "slug": "how-to-make-an-ios-app--ud607",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "从草稿板到 App Store",
+    "summary": "<p>你是否拥有构建 iPhone 或 iPad 应用的经验，并且想要从头构建应用，但是不知从哪开始？别再寻觅了！在这门课程里，你将学习构建 iOS 应用的流程，从提出各种想法到将应用发布到 App Store。</p>\n\n<p>喜欢这门课程？加入“<a href=\"https://cn.udacity.com/course/ios-developer-nanodegree--nd003\" target=\"_blank\">iOS 开发者</a>”纳米学位，<a href=\"https://cn.udacity.com/course/ios-developer-nanodegree--nd003\" target=\"_blank\">点此免费体验</a>。</p>\n",
+    "syllabus": "<h3>第 1 课：调查研究</h3>\n\n<p>在第一节课中，你将提出各种应用想法。你将开始思考每个想法中用到的用户界面元素，获取设计方面的用户反馈，并开始思考要使用的相关网络 API 和库。</p>\n\n<h3>第 2 课：构建应用</h3>\n\n<p>在这节课里，你将选择一个想法并根据想法构建应用！我们将给出如何开始、解决不可行的代码以及向 App Store 提交应用方面的提示。</p>\n\n<h3>第 3 课：思考总结</h3>\n\n<p>在最后一节课里，你将思考总结整个流程：哪些进展顺利，哪些值得改进。发现错误并从中汲取经验才能让你不断进步，成为更加优秀的开发者！</p>\n",
+    "tags": ["swift", "ios"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "如何开发 iOS 应用",
+    "tracks": ["iOS"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-georgiatech.svg",
+        "key": "gt",
+        "name": "佐治亚理工学院"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud189_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 5,
+    "expected_duration_high": 0,
+    "expected_duration_low": 5,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>此课程将帮助你了解在当今计算机为现代应用赋予的丰富用户体验中，操作系统所扮演的角色。在学习过程中，我们想着重讲解支持计算机和 OS 提供令人愉快的用户体验的软硬件之间的共生关系。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud189_image.jpg",
+    "instructors": [{
+        "bio": "<p>Ramachandran 博士于 1986 年获得了美国威斯康星大学计算机科学博士。此后他一直在佐治亚理工学院任教，担任计算机学院计算机科学专业教授。他的研究方向为架构设计、编程和并行与分布式系统分析领域。他在 1990 年荣获了美国国家科学基金会“青年研究者总统奖”，1993 年获得佐治亚理工学院优秀博士学位论文指导教师奖，2003 年获得院长嘉许奖，2004 年获得 William Gus Baird 教学奖，并两次因展现出企业家精神获得 Peter A. Freeman 教师奖（2009 年和 2013 年）。他酷爱壁球运动，有时也会跟朋友打打网球！ </p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/kishore-ramachandran.jpg",
+        "key": "kishore-ramachandran",
+        "name": "Kishore Ramachandran",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Charles Brubaker 在 2009 年获得佐治亚理工学院计算机科学博士学位。随后的四年在高中教授计算机科学，同时在亚特兰大的佩斯学院 (Pace Academy) 担任篮球教练。在 2012 年，受优达学城启发，他开始在平板电脑上录制课程，创建在线测试题，并通过系统自动对作业评分向学生提供即时反馈。这次创业的成功让他坚信优达学城代表教育的未来趋势，于是他在 2013 年夏天加入优达学城。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/charles-brubaker.jpg",
+        "key": "charles-brubaker",
+        "name": "Charles Brubaker",
+        "title": "讲师"
+    }],
+    "key": "ud189",
+    "level": "高级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 63,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>学生需完成了本科 OS 课程，或拥有一些行业经验。此课程要求学生熟悉标准教程中的概念，如 Silberschatz 和 Galvin 编著的《操作系统概念》(Operating Systems Concepts)（或同等教程）。学生还需要熟悉 UNIX 和 C 语言编程。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "了解成就了如今先进操作的所有技术进步，涵盖各种平台：手机、多核、并行系统、分布式系统及云计算。",
+    "slug": "advanced-operating-systems--ud189",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "抽象化与虚拟化",
+    "summary": "<p>在此课程中，我们将了解成就了如今先进操作的所有技术进步，涵盖各种平台：手机、多核、并行系统、分布式系统及云计算。</p>\n",
+    "syllabus": "<h3>第 1 课：抽象化</h3>\n\n<ul>\n<li>抽象化原则</li>\n<li>硬件资源</li>\n<li>操作系统功能</li>\n<li>管理 CPU 和内存</li>\n</ul>\n\n<h3>第 2 课：OS 结构</h3>\n\n<ul>\n<li>OS 结构概述</li>\n<li>SPIN 技法</li>\n<li>Exokernel 架构</li>\n<li>L3 微内核</li>\n</ul>\n\n<h3>第 3 课：虚拟化</h3>\n\n<ul>\n<li>虚拟化简介</li>\n<li>内存虚拟化</li>\n<li>CPU 和设备虚拟化</li>\n</ul>\n\n<h3>第 4 课：并行</h3>\n\n<ul>\n<li>共享内存机</li>\n<li>同步</li>\n<li>通信</li>\n<li>轻量级 RPC</li>\n<li>调度</li>\n<li>共享内存的多处理器 OS</li>\n</ul>\n\n<h3>第 5 课：分布式系统</h3>\n\n<ul>\n<li>定义</li>\n<li>Lamport 时钟</li>\n<li>延迟限制</li>\n<li>主动网络</li>\n<li>组件系统</li>\n</ul>\n\n<h3>第 6 课：分布式对象技术</h3>\n\n<ul>\n<li>Spring 操作系统</li>\n<li>Java RMI</li>\n<li>企业 Java Beans</li>\n</ul>\n\n<h3>第 7 课：分布式服务的设计与实现</h3>\n\n<ul>\n<li>全局内存系统<br></li>\n<li>分布式共享内存</li>\n<li>分布式文件系统</li>\n</ul>\n\n<h3>第 8 课：系统恢复</h3>\n\n<ul>\n<li>轻量级可恢复虚拟内存</li>\n<li>Rio Vista </li>\n<li>Quicksilver</li>\n</ul>\n\n<h3>第 9 课：联网大规模计算</h3>\n\n<ul>\n<li>巨大规模服务</li>\n<li>MapReduce</li>\n<li>内容分发网络</li>\n</ul>\n\n<h3>第 10 课：实时和多媒体</h3>\n\n<ul>\n<li>时间敏感 Linux</li>\n<li>持久临时流</li>\n</ul>\n\n<h3>第 11 课：安全</h3>\n\n<ul>\n<li>信息安全原则</li>\n<li>Andrew 系统</li>\n</ul>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "高级操作系统",
+    "tracks": ["佐治亚理工学院计算机科学硕士"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud825_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 4,
+    "expected_duration_high": 0,
+    "expected_duration_low": 4,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>用户希望可以快速下载和有效运行应用。如果该应用在低端设备上，或较差的网络环境中仍能表现出良好的性能，那么该应用的用户群、影响力以及盈利的潜力都会大大增加。专注用户体验进行编程决策的能力，是区别普通 Android 程序员和行业精英的重要特征。</p>\n\n<p>对于一个 Android 应用，即便它在世界范围内都很优秀，如果速度太慢并且耗电太快，用户也会因为这些原因卸载它，并给予差评。性能对用户来说很重要，所以对开发人员也很重要。 </p>\n\n<p>完成这门课程后，你将了解硬件、操作系统和应用代码等方面如何带来性能问题。通过使用分析工具收集数据，辨别和处理瓶颈问题，用户才能获得流畅的60 FPS体验，这样他们才会回头关注你的更多应用。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud825_image.jpg",
+    "instructors": [{
+        "bio": "<p>Colt McAnlis 是 Google 的一名开发技术推广工程师，专注于性能和游戏。在此之前，他是游戏行业的图像程序员，曾供职于<a href=\"http://us.battle.net/hearthstone/en\" target=\"_blank\">暴雪公司</a>、<a href=\"http://www.halowars.com\" target=\"_blank\">微软</a>和 Petroglyph。他曾是<a href=\"http://www.smu.edu/guildhall\" target=\"_blank\"> SMU Guildhall </a>的客座教授，优达学城的讲师，和一名<a href=\"http://www.apress.com/9781430266976\" target=\"_blank\">作者</a>。最近，他一直在教开发人员 <a href=\"http://goo.gl/4ZJkY1\" target=\"_blank\"> Zen of Performance</a>。闲暇之余，他准备着巨蚁从外太空攻击地球（一个游戏）。</p>\n\n<p>你可以在 Google+（+Colt McAnlis）和 Twitter（@duhroach）上关注他。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/colt-mcanlis.jpg",
+        "key": "colt-mcanlis",
+        "name": "Colt McAnlis",
+        "title": "讲师"
+    }, {
+        "bio": "<p>一向热衷于革命性的产品，Chris 早些时候在 IBM、微软和高通从事硬件和软件研发。在优达学城，他致力于鼓励他人将计算机技术作为实现理想的工具。Chris 拥有加州大学圣迭亚哥分校的计算机科学硕士学位和雪城大学的理学学士学位。工作之余，他经常冲浪、听音乐，或者探索新地方，寻找下一餐美食。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/chris_lei.jpg",
+        "key": "chris-lei",
+        "name": "Chris Lei",
+        "title": "优达学城讲师"
+    }],
+    "key": "ud825",
+    "level": "高级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 24,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>为了从课程学到更多的知识，应该具有使用 Java 编程语言在 Android 设备上开发应用的经验，理解 Android 生命周期的基本知识，同时了解如何在终端上进行基本的操作。</p>\n\n<p>为了能够跟上习题，你还需要有一台 Android 设备，并具备 GitHub 操作知识。</p>\n\n<p>如果你从未开发过 Android 应用，在学习本课程之前你可以先学习 <a href=\"https://cn.udacity.com/course/new-android-fundamentals--ud851\" target=\"_blank\">Android 应用开发</a>课程</p>\n\n<p>如果你对 GitHub 不熟悉，可以先学习我们的<a href=\"https://cn.udacity.com/course/how-to-use-git-and-github--ud775\" target=\"_blank\">如何使用 Git 和 Github</a> 课程</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "应用的性能表现对用户很重要，所以这对开发人员十分重要。学会如何识别和处理 Android 应用的瓶颈问题，确保流畅的用户体验。",
+    "slug": "android-performance--ud825",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "优化应用的速度和可用性",
+    "summary": "<p>如果你曾碰到影响应用使用的性能问题，本课程将指导你如何识别和修复它们。在课程结束后，你将学会开发测试，运行分析工具，通过输出找到存在问题的代码，同时制定方案解决性能较差的问题。你还将更深入地理解程序代码如何与 Android 平台交互，这将有助于以后优化应用的性能。</p>\n",
+    "syllabus": "<h3>第零课 — 欢迎！</h3>\n\n<p>课程内容和结构介绍。</p>\n\n<h3>第 1 课 — 渲染</h3>\n\n<p>如何辨别和解决屏幕渲染的性能问题。</p>\n\n<h3>第 2 课 — 计算和存储</h3>\n\n<p>理解代码在程序中如何运行，及如何处理与计算和存储相关的性能问题。</p>\n\n<h3>第 3 课 — 电池</h3>\n\n<p>如何检测和诊断电池问题，以及电池问题为什么对用户很重要。</p>\n",
+    "tags": ["java", "android"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "Android 系统性能",
+    "tracks": ["Android"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud893_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 2,
+    "expected_duration_high": 0,
+    "expected_duration_low": 2,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>人们浏览网络的方式瞬息变化——越来越少的用户会坐在大型显示器前用键盘和鼠标访问网络了。更多情况下，人们使用手机、平板电脑、穿戴式设备、电视等设备浏览网络。将网站设计成响应式网站后，无论用户使用的是何种设备，网站都能正常显示。</p>\n\n<p>在整个课程中，你将创建一个网站，可以在手机、平板电脑和桌面显示屏上正常显示。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": true,
+    "graduate_groups": ["5492052720091136"],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud893_image.jpg",
+    "instructors": [{
+        "bio": "<p>Cameron 是一位充满激情的教育工作者和程序员，非常热爱网页开发。他专门为优达学城创建编程类课程。来此之前，他曾是西雅图创业公司 LearnBIG 的内容主管和网页开发者。他在田纳西州纳什维尔的一所高中教了四年课程，主要教物理和化学。在此期间，他率先利用视频游戏“传送门 2 (Portal 2)”来讲述物理知识。Cameron 荣获了范德堡大学物理和天文学本科学位，并获得贝尔蒙特大学的教育学硕士学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/cameron-pittman.jpg",
+        "key": "cameron-pittman",
+        "name": "Cameron Pittman",
+        "title": "优达学城讲师，高级内容策划"
+    }, {
+        "bio": "<p>Pete 是 Google 的一名技术推广工程师，负责协助 Web 开发人员，使他们的工作更容易。在 <a href=\"https://developers.google.com/web/fundamentals/\" target=\"_blank\">Web 基础</a>和 Google Web 开发者视频等项目中，他主要负责确保开发人员获得他们所需的工具与技能，来建立响应性高的网站与应用及打造出众的用户体验。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/pete-lepage.jpg",
+        "key": "pete-lepage",
+        "name": "Pete LePage",
+        "title": "讲师"
+    }],
+    "key": "ud893",
+    "level": "中级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 68,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>你将使用 HTML 和 CSS 将设计原型变为一个真正的网页。你将开发一个响应式网页，显示你在<a href=\"https://cn.udacity.com/fend\" target=\"_blank\">前端开发纳米学位</a>课程中将完成的每个实战项目的图像、描述和链接。</p>\n",
+        "image": "",
+        "index": "",
+        "name": "搭建作品集网站",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>你应该会阅读和编写 HTML 及 CSS。同时，还会使用浏览器开发者工具（我们使用的是  <a href=\"http://www.google.com/chrome/\" target=\"_blank\">Google Chrome</a>，但其他现代浏览器的开发者工具也足以完成这门课程里的所有任务）检查和修改网站。</p>\n\n<p>如果你不熟悉 HTML 和 CSS，或者需要复习，请学习我们的<a href=\"https://www.udacity.com/ud304\" target=\"_blank\">HTML 和 CSS 入门</a>课程。</p>\n\n<p>对于这门课程，你不需要编写 JavaScript 代码。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "学习如何开发在任何设备上都能完美显示的网站，并将这些策略运用到实践中！",
+    "slug": "responsive-web-design-fundamentals--ud893",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "在任何设备上提供极佳体验",
+    "summary": "<p>在这门课程里，你将与 Google 的 Pete LePage 一起学习响应式设计的基础知识！你将创建自己的响应式网页，并且可以在任何设备上正常显示，无论是手机、平板电脑还是桌面设备或任何其他设备。</p>\n\n<p>首先，你将学习响应式网站需要具备什么条件，以及一些适用于各种设备的常见响应式设计模式。然后，你将学习如何使用视口标记和 CSS 媒体查询创建自己的响应式布局。在此期间，你将学习添加大型和小型断点，并优化文本以便于阅读。此课程提供中文版本。</p>\n\n<p>喜欢这门课程？你可以继续学习“<a href=\"https://cn.udacity.com/fend\" target=\"_blank\">前端开发工程师</a>”纳米学位！</p>\n",
+    "syllabus": "<h3>概览</h3>\n\n<p>这门课程由 5 节课组成。第一节课会概述响应式设计，并介绍一种方式来帮助你从桌面优先设计思路转变成响应式设计。第 2、3、4、5 节课将介绍重要的响应式设计理论概念，并且会布置大量的练习，帮助你运用所学的知识。</p>\n\n<h3>第 1 课：为什么要响应式</h3>\n\n<p>什么是响应式网络设计，为何重要？我们的设计应面向何种设备？如何充分利用每种设备的特性向用户提供绝佳的体验？你还需要准备好开发环境。</p>\n\n<p>涉及内容：</p>\n\n<ul>\n<li>什么是响应式设计？</li>\n<li>为什么响应式设计适用于任何设备？</li>\n<li>在浏览器中进行远程调试和模拟</li>\n</ul>\n\n<h3>第 2 节课：从小屏幕开始</h3>\n\n<p>最佳开始方式是从小屏幕起步，然后逐步扩大。在这节课里，我们将介绍让网站在小屏幕上实现最佳效果的关键组件，包括设置视口、添加内容并根据视口调整内容大小。你将开始构建家乡网站项目，确保该网站在小屏幕上能完美呈现。</p>\n\n<p>涉及内容：</p>\n\n<ul>\n<li>为什么从小屏幕开始，然后逐步扩展到大屏幕？</li>\n<li>什么是视窗（viewport）？</li>\n<li>根据视窗调整内容大小\n\n<ul>\n<li>避免使用固定大小的内容</li>\n</ul></li>\n<li>什么是触摸对象，为何触摸对象要大</li>\n</ul>\n\n<h3>第 3 课：逐步扩大</h3>\n\n<p>针对小屏幕优化网页后，现在该思考下如何在大屏幕上正常显示这些网页了。你将学习如何使用 CSS 媒体查询添加断点，从而根据屏幕尺寸或其他设备特性更改布局。</p>\n\n<p><strong>涉及内容：</strong></p>\n\n<ul>\n<li>CSS 媒体查询</li>\n<li>什么是断点，如何选择断点</li>\n<li>使用CSS Flexbox 修改布局</li>\n</ul>\n\n<h3>第 4 课：常见响应式模式</h3>\n\n<p>现在你已经掌握了响应式设计基本知识，将学习各大网站使用的一些常见布局设计模式，并将这些模式运用到实践中，使用这节课介绍的模式为平板电脑和桌面设备布局创建断点。</p>\n\n<p>涉及内容：</p>\n\n<ul>\n<li>最灵活的模式</li>\n<li>列内容往下排模式</li>\n<li>布局切换模式</li>\n<li>屏幕以外的空间利用模式</li>\n</ul>\n\n<h3>第 5 课：优化</h3>\n\n<p>学习小型断点策略，了解如何调整元素的外边距和内边距，并增大字体大小，使其在特定布局中看起来更自然。你还将学习处理表格和实现最佳文本显示效果的策略。学完这节课后，你将最后一次改进家乡网站，添加更多断点，使网站体验更出色。</p>\n\n<p>涉及内容：</p>\n\n<ul>\n<li>小型断点</li>\n<li>优化文本布局\n\n<ul>\n<li>字体大小</li>\n<li>最佳行长</li>\n</ul></li>\n<li>响应式表格，以及处理这些表格的策略</li>\n</ul>\n",
+    "tags": ["html", "css"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud893/catalog_entry.teaser_video_70838836906b7d47902fafff0052ea22_480p_1000kbps.mp4"
+            },
+            "480p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud893/catalog_entry.teaser_video_70838836906b7d47902fafff0052ea22_480p.mp4"
+            },
+            "480p_ogg": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud893/catalog_entry.teaser_video_70838836906b7d47902fafff0052ea22_480p.ogg"
+            },
+            "720p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud893/catalog_entry.teaser_video_70838836906b7d47902fafff0052ea22_720p.mp4"
+            }
+        },
+        "youtube_url": "https://www.youtube.com/watch?v=7DJLa4owtIU"
+    },
+    "title": "响应式网站设计基础（中/英）",
+    "tracks": ["网站开发"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-georgiatech.svg",
+        "key": "gt",
+        "name": "佐治亚理工学院"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud809_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 5,
+    "expected_duration_high": 0,
+    "expected_duration_low": 5,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>Healthcare is the largest industry in the US. Spurred by new federal programs and incentives, the adoption of health IT is growing very rapidly, leading to many new career and entrepreneurial opportunities. The increasing use of modern web, mobile and sensor technologies in health informatics is also growing rapidly and is leading to many new and innovative approaches. Students who are trained and well-qualified in this field are in great demand.</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud809_image.jpg",
+    "instructors": [{
+        "bio": "<p>After decades in the commercial Health Informatics (HIT) industry, Mark joined Georgia Tech in 2007. In addition to teaching, he helps facilitate interdisciplinary research in healthcare delivery. He is involved with the Tennenbaum Institute in research exploring healthcare process mining. He is also involved in community outreach aimed at the wider and deeper adoption of HIT to improve the quality and efficiency of care delivery. He has authored two books on HIT, is an Associate Editor of the IEEE Journal of Biomedical and Health Informatics and a contributor to the Information Week HealthCare blog.</p>\n\n<p>Mark received his BS degree from MIT and his MD degree from the Medical University of South Carolina (MUSC).</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/mark-braunstein.jpg",
+        "key": "mark-braunstein",
+        "name": "Mark Braunstein",
+        "title": "讲师"
+    }, {
+        "bio": "<p>来自北卡莱罗纳州的 Matt 是一名科学爱好者和坚定的科学怀疑论者。他弹钢琴，学习哲学，仍然期待着塞尔达传说的虚拟现实版。Matt 对从入门到大学各水平的生物医药有很深研究。在获得国际中学毕业会考的证书后，Matt 在东卡莱罗纳大学学习生物学和西班牙语。杜克大学取得细胞和分子生物学博士学位后，在加利福尼亚旧金山大学进行生物学博士后研究。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/matthew-cook.jpg",
+        "key": "matthew-cook",
+        "name": "Matthew Cook",
+        "title": "讲师"
+    }],
+    "key": "ud809",
+    "level": "初级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 133,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>The course is self-contained so there are no academic prerequisites. A knowledge of web programming (e.g. Java, Javascript, C++, C#) is required by at least some members of each team to do the team project.</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "This survey course provides a broad, forward-facing overview of contemporary health informatics within the context of the US healthcare delivery system.",
+    "slug": "health-informatics-in-the-cloud--ud809",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "Applications and Analysis",
+    "summary": "<p><i>This class is offered as CS6440 at Georgia Tech where it is a part of the <a href=\"http://www.omscs.gatech.edu/\">Online Masters Degree (OMS)</a>. Taking this course here will not earn credit towards the OMS degree.</i></p>\n\n<p>This is a survey course designed to provide a broad, forward-facing overview of contemporary health informatics, a specialized field of computing that seeks to improve the quality and efficiency of healthcare delivery. To understand health informatics (HIT) you also need to have at least a basic understanding of the complex and highly regulated US healthcare industry. The course is designed for students from diverse backgrounds and who have not been previously exposed to HIT. It is divided into three sections:</p>\n\n<p>The US healthcare delivery and the key role of the federal government in promoting HIT adoption</p>\n\n<p>The core technologies that drive all contemporary HIT systems and tools</p>\n\n<p>The real world applications of HIT from electronic medical and personal health records to exploiting digital data aggregated from them for research and other purposes</p>\n",
+    "syllabus": "<h3>Lesson 1: The US Healthcare System</h3>\n\n<p>This lesson will discuss unique and the complex nature of the US healthcare system: its key problems, the specific challenges presented by chronic disease, the major disconnect between the health system’s capabilities and the demands of chronic disease management, and the hope that a combination of new incentives, health IT adoption, and new models of care can bridge this disconnect leading to a more efficient, effective, safer and more patient-centered US system of care.</p>\n\n<h3>Lesson 2: Federal Policies &amp; Initiatives</h3>\n\n<p>This lesson will focus on the important details of the specific programs that the federal government has put into place to spur health IT adoption by eligible providers and hospitals as well as the role played by financial incentives that reward performance, rather than the quantity of procedures. </p>\n\n<h3>Lesson 3: Health Information Exchange</h3>\n\n<p>This lesson will focus on the rationale for and the major challenges of health information exchange (HIE). We will discuss the various ways of classifying HIE, how to differentiate the various HIE architectures, and the Indiana Health Information Exchange as a premier example including descriptions of its key services. We will discuss new approaches and technologies with a particular emphasis on Direct HIE, a new technology based on secure email and encrypted attachments.</p>\n\n<h3>Lesson 4: Privacy, Security and Trust</h3>\n\n<p>This lesson focuses on the keys issues of privacy, security, and trust in a world of digital records and health information exchange. Students will understand the key role that patient engagement plays in chronic disease prevention and management and the concerns patients have about sharing their health data. They will also explore the various privacy consent models. Data segmentation will be discussed as a key challenge for obtaining patient consent under what may be the most acceptable model. The concept of public key infrastructure (PKI) including the roles of the public key, private key, registration authority and certificate authority will be covered.</p>\n\n<h3>Lesson 5A: Data Standards</h3>\n\n<p>We divide the discussion of standards into those for health data and those for achieving its sharing by fostering interoperability. This lesson focuses on data standards after reviewing the rationale for standards and the evolutions that have been taking place in their use, technology and structure. Students will be able to recognize the difference between a classification and an ontology. They will be familiar with the key data standards (including ICD, CPT, LOINC and SNOMED). They will also gain an overview of the differences between standards based on EDI/X12 and XML.</p>\n\n<h3>Lesson 5B: Interoperability Standards</h3>\n\n<p>This lesson builds on Lesson 5A on data standards to show how these data are transmitted within messages using HL7 and packaged into CCDA-based clinical documents for sharing via HIE. We’ll briefly introduce even more advanced standards with a particular emphasis on clinical decision support (CDS, an important technology for the future) and the key elements of and remaining challenges with standards to support CDS. We’ll also discuss more facile next generation approaches based on web technologies and approaches. </p>\n\n<h3>Lesson 6: Clinical Data Collection and Visualization Challenges</h3>\n\n<p>Students should understand the key roles that data plays in medical practice and the root causes of common data quality issues in general and the specific root causes of data quality issues with respect to electronic health records. They should understand the high level challenges of efficiently and accurately collecting high quality, comprehensive clinical data from physicians and of visualizing digital health data in a way that supports the provider’s mental model. They should understand the key roles that information technology plays in the future vision of healthcare.</p>\n\n<h3>Lesson 7: Empowering the Patient</h3>\n\n<p>Students should understand the key role that support for patients can play so they can achieve behavior change, adhere to their prescribed treatments and generate data to help their providers more continuously manage their chronic diseases. They should understand patient interests. They should understand the key information technology tools now available to patients including patient health records, portals, social networking, in home technologies and mobile devices and sensors. They should have a detailed functional understanding of personal health records and their potential as app platforms. They should understand the potential role of social networking in patient education and care management. They should understand the various telemedicine modalities being developed and offered for use by patients at home.</p>\n\n<h3>Lesson 8: Population Health Management</h3>\n\n<p>Students should understand the difference between individual patient management, population management and public health. They should understand the technologies for aggregating data, the kinds of data that are collected and the kinds of reports that are required for population and public health management.</p>\n\n<h3>Lesson 9: Data Query in a Federated Environment</h3>\n\n<p>Students should understand the challenges of data query and aggregation in an environment where care providers are using disparate and non-interoperable EHRs. They should be familiar with and understand the differences among the distributed query technologies. They should be familiar with the distributed query standards and the various open source query frameworks reviewed in this lesson.</p>\n\n<h3>Lesson 10: Big Data Meets Healthcare</h3>\n\n<p>Students should understand the concept of “big data”; the common technical approaches to modeling and simulation and the common applications of each. They should be familiar with the specific case studies of analytic applications to healthcare problems as diverse as improved clinical decision support, understanding clinical processes, modeling care spaces and providing optimal patient-specific treatments.</p>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "Health Informatics in the Cloud",
+    "tracks": ["佐治亚理工学院计算机科学硕士"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-georgiatech.svg",
+        "key": "gt",
+        "name": "佐治亚理工学院"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 16,
+    "expected_duration_high": 0,
+    "expected_duration_low": 16,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>This class is built on a number of pedagogical strategies, including project-based learning, authenticity, and apprenticeship. The ultimate goal, supported by these strategies, is that through this class you will make an actual contribution to the field of educational research, and start a project that could be continued even after the semester is over through academic publications, ongoing research programmes, start-up businesses, or deployment within the OMSCS program.</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud915_image.png",
+    "instructors": [{
+        "bio": "<p>David Joyner 在佐治亚理工学院完成了其以人为中心的计算专业博士学位，擅长于在探索性的学习环境中为学生提供自动反馈和评估。他加入优达学城后主要从事按学生的能力和学习进度设计练习、课题和（将有一天！）整个课程。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/david-joyner.jpg",
+        "key": "david-joyner",
+        "name": "David Joyner",
+        "title": "佐治亚理工学院博士，优达学城课程策划"
+    }],
+    "key": "ud915",
+    "level": "初级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 110,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>In order to succeed in this class, you should be able to answer yes to the following questions:</p>\n\n<ul>\n<li>Have you already fulfilled the foundational requirement for the program?\nAre you comfortable with writing several essays throughout the course of the class, including personal reflections, article responses, project proposals, and project reports?</li>\n<li>Are you comfortable with a class that requires significant participation via forum interactions and peer-to-peer feedback opportunities?</li>\n<li>Are you comfortable working in a group; or, alternatively, are you comfortable taking on a significantly-sized project on your own?</li>\n<li>Are you passionate about education, and ideally, do you already have some preliminary ideas regarding what tools you might like to build or questions you might like to research as part of this class?</li>\n<li>Are you comfortable with a class built on large, open-ended, student-driven projects rather than smaller, more narrowly-defined assignments and exams?</li>\n</ul>\n\n<p>Note that prior experience with EdTech is not required beyond your prior OMS coursework. Note also that because they project is very open-ended, you&#39;ll be able to define a project that is realistic within your technical qualifications. So, no specific programming knowledge is required. If you choose more of a research-oriented track, you may not need to do any programming at all.</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "This class is an an introductory course about educational technology offered as CS6460 at Georgia Tech where it is a part of the Online Masters Degree (OMS).",
+    "slug": "educational-technology--ud915",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "Offered at Georgia Tech as CS6460",
+    "summary": "<p><i>This class is offered as CS6460 at Georgia Tech where it is a part of the <a href=\"http://www.omscs.gatech.edu/\">Online Masters Degree (OMS)</a>. Credit for taking this course is conferred only on those that enroll in the degree. The text in the following sections comes from the syllabus for CS6460, located <a href=\"https://www.udacity.com/wiki/ud915\">here</a>.</i></p>\n\n<p>This class is simultaneously an introductory course about educational technology and an advanced, project-oriented class on designing or researching technology&#39;s intersection with education. As such, the course provides information about a large number of topics within educational technology, including pedagogical strategies, research methodologies, current tools, open problems, and broader issues. The scope of the material provided goes beyond what any one person could reasonably learn in a semester. Instead, you will select those areas that appeal to you or that support your ultimate project ideas. For example, if you&#39;re interested in research, you may focus on the applicable research methodologies to your chosen area of investigation, relevant pedagogical strategies or theories, and the current state-of-the-art within that community. If you&#39;re interested in design, you may focus on the relevant pedagogical strategies or theories for your chosen domain, the current popular tools within that domain, and open problems that need to be addressed.</p>\n",
+    "syllabus": "<p>A learning goal is what you should know by the end of the class. The broad learning goal for this class is that, by the end of the class, you will have the requisite knowledge to make a real contribution to the Educational Technology field.</p>\n\n<p>Even established experts in the field do not know everything, however, and neither will you. Instead, by the end of this class, you will have sufficient knowledge to contribute to the field in some way, though not every way. This means the learning goal of the class is determined in part by your own goals in taking this class:</p>\n\n<ul>\n<li>Are you interested in understanding how technology can help education more theoretically? Then your learning goals would include knowledge of research methodologies, promising pedagogical strategies, and current theories in the community.</li>\n<li>Are you interested in designing technologies that can help learners learn better? Then your learning goals would include knowledge of pedagogical strategies, current state-of-the-art tools, and the open problems in education and technology.</li>\n<li>Are you interested in evaluating existing technologies? Then your learning goals would include knowledge of research methodologies in user testing, current state-of-the-art tools, and broader issues surrounding the impact of such tools.</li>\n<li>Are you interested in contributing to the education enterprise more broadly, even if it isn&#39;t at the point of learning? Then your learning goals would include knowledge of the current problems in the field, broader issues surrounding the use of tools in supporting education, and the present tools that address those problems.</li>\n</ul>\n\n<p>By achieving these learning goals, you will end the class with the knowledge necessary to contribute to the portion of educational technology in which you are most interested.</p>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "Educational Technology",
+    "tracks": ["佐治亚理工学院计算机科学硕士"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud875B_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 1,
+    "expected_duration_high": 0,
+    "expected_duration_low": 1,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>在你的app上添加 Google Play 功能，可以提高客户的参与度和货币化。例如，喜剧中心（Comedy Central）发现较之一般用户，Chromecast用户的视频收看率高出50%，app访问率高出1.5倍。同样，Haystack TV发现安卓电视用户每周收看视频的时间为80分钟，而仅使用手机的用户为每周40分钟。对于研发人员而言最好的情况是 Google Play 和安卓电视具有丰富的函式库可以帮你完成大部分的“体力活儿”。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud875B_image.jpg",
+    "instructors": [{
+        "bio": "<p>Timothy Jordan领导着 Google 公司普适计算的扩展研发员后援部，普适计算包括安卓穿戴系统、 Google 眼镜、安卓电视、 Google Play 以及安卓车载系统。他的目标是帮助研发员在 Google 平台研发成功，特别是跨设备服务。他热衷于解决问题并相信通过科学和艺术可以改善人们的生活。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/timothy-jordan.png",
+        "key": "timothy-jordan",
+        "name": "Timothy Jordan",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Wayne Piekarski是 Google 的研发员后援，致力于安卓及普适计算。他在穿戴系统计算、户外增强现实技术及3D用户界面及可移动设备的学术领域和行业领域工作了15年。他在 Google 的职责是使研发人员对移动及可穿戴系统的新技术保持兴奋并确保研发人员在工作中使用正确的工具和信息。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/wayne-piekarski.png",
+        "key": "wayne-piekarski",
+        "name": "Wayne Piekarski",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Joshua Gordon是 Google 的研发员后援。他对教学和教育工作充满激情。他曾参加过从显微镜到巨型激光设备等多个项目，还教授过多门计算机学科。他的爱好包括骑自行车、跑步及户外探险。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/joshua-gordon.png",
+        "key": "joshua-gordon",
+        "name": "Joshua Gordon",
+        "title": "讲师"
+    }, {
+        "bio": "<p>一次在计算机夏令营当讲师的经历，让 James Williams 爱上教学工作。他在闲暇时间还参加障碍赛或越野赛，同时他还是《HTML5 游戏编程》的作者，这本书被翻译成了中文和韩文。他拥有计算机科学的本科和硕士学位，以及法语的本科学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/james-williams.jpg",
+        "key": "james-williams",
+        "name": "James Williams",
+        "title": "讲师"
+    }],
+    "key": "ud875B",
+    "level": "高级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 134,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>为了最有效地学习本课程，你应当具备 Android 应用开发相关经验。如果你没有 Android 应用开发经验，请先完成 <a href=\"https://cn.udacity.com/course/new-android-fundamentals--ud851\" target=\"_blank\">Android 应用开发</a> 课程，再学习本课程。如果你有兴趣将你的应用发布至 Google Play 商店，我们还建议你学习<a href=\"https://cn.udacity.com/course/advanced-android-app-development--ud855\" target=\"_blank\">高级 Android 应用开发</a>课程。</p>\n\n<p>要跟上课程并参与课程活动，你必须使用最新版本的 <a href=\"https://developer.android.com/sdk/index.html\" target=\"_blank\">Android Studio</a>，其中包含有模拟程序，可用来对应用进行基本测试。为获得最佳体验，你需要使用最新推出的 Android 设备。</a> </p>\n\n<p>我们通过 GitHub 共享代码。因此，你应当熟悉使用 GitHub 获取代码。如果你缺乏该背景知识，请学习我们的<a href=\"https://cn.udacity.com/course/how-to-use-git-and-github--ud775\" target=\"_blank\">如何使用 Git 与 GitHub</a> 课程。 </p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "跟着你的用户，深入他们的客厅！这门课程将为你展示如何扩展你已有的 Android 应用，让它在 Android TV 和/或 Google Cast 上也能工作。",
+    "slug": "android-tv-and-google-cast-development--ud875B",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "让你的应用在大屏幕上运行",
+    "summary": "<p>客户在哪儿你就去哪儿：客厅！通过 Google Play 和 Android 电视，你可以在你的应用上添加大屏幕和影院体验。这门课程向你展示如何将现有的 Android 应用于 Android 电视和 Google Play 。你可以利用这两项技术，而不必重新编写你的应用。此课程提供中文版本。</p>\n\n<p>这门课程是普适计算系列的一部分。作为一门单独的短期课程，你可以学习其中的一门或学习全部课程！</p>\n\n<ul>\n<li><a href=\"https://cn.udacity.com/course/android-wear-development--ud875A\" target=\"_blank\">Android Auto 开发</a></li>\n<li><strong>Android TV 和 Google Cast 开发</strong></li>\n<li><a href=\"https://cn.udacity.com/course/android-auto-development--ud875C\" target=\"_blank\">Android Auto 开发</a></li>\n</ul>\n\n<p>喜欢这门课程？你可以继续学习“<a href=\"https://cn.udacity.com/android\" target=\"_blank\">Android 开发工程师</a>”纳米学位！</p>\n",
+    "syllabus": "<h3>简介</h3>\n\n<p>课程结构及目标概览及样本app的介绍 </p>\n\n<h3>客厅</h3>\n\n<h4>第 1 部分：CHROMECAST 和电视的 Google Play </h4>\n\n<h4>第 2 部分：安卓电视的深入学习</h4>\n\n<h4>第 3 部分：安卓电视的游戏</h4>\n\n<p>Chromecast 及电视的安卓电视平台及 Google Play 概览</p>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud875B/catalog_entry.teaser_video_11f15edece2b028d95745a0638dfc97d_480p_1000kbps.mp4"
+            },
+            "480p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud875B/catalog_entry.teaser_video_11f15edece2b028d95745a0638dfc97d_480p.mp4"
+            },
+            "480p_ogg": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud875B/catalog_entry.teaser_video_11f15edece2b028d95745a0638dfc97d_480p.ogg"
+            },
+            "720p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud875B/catalog_entry.teaser_video_11f15edece2b028d95745a0638dfc97d_720p.mp4"
+            }
+        },
+        "youtube_url": "https://www.youtube.com/watch?v=ai4CdKUZ6KI"
+    },
+    "title": "Android TV 和 Google Cast 开发（中/英）",
+    "tracks": ["Android"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud989_banner.png",
+    "capped": true,
+    "enables_profiles": false,
+    "expected_duration": 6,
+    "expected_duration_high": 0,
+    "expected_duration_low": 6,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>很多开发者一头扎进了项目，而不去思考所编写代码的组织结构。破解项目很简单，但是最优秀的开发者会花额外的时间来思考应用的组织结构，并遵守合理的组织结构方法。</p>\n\n<p>为了编写简洁的代码并成功应聘下一份工作或获得晋升，你需要熟练掌握组织技巧，同时需要将这些技巧运用到你的项目中。能够编写清晰简洁、整齐有序代码的软件开发者难以寻觅，如果你掌握了代码组织技巧，绝对会从众多候选人中脱颖而出。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": true,
+    "graduate_groups": ["6370285405601792"],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud989_image.jpg",
+    "instructors": [{
+        "bio": "<p>在技术人员、动作图像师和音频工程师等岗位间兜兜转转后，Ben 最终来到了优达学城，成为一名网络开发者和前端课程开发者。他联合主持了 <a href=\"http://geekspeak.org\" target=\"_blank\">GeekSpeak</a>，这是一个关于科学与技术的电台节目和播客，每周举办一次。他还会唱歌、弹奏钢琴、竖笛和吉他。当他没有讲课、开发或做电台节目时，就会写写歌，录制音乐，摆弄下木制品，烘焙甜点，并周游世界。他总是爱笑。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ben-jaffe.jpg",
+        "key": "ben-jaffe",
+        "name": "Ben Jaffe",
+        "title": "讲师"
+    }],
+    "key": "ud989",
+    "level": "高级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 70,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>你将开发一个单页应用，展示你所在街区或你想要参观的街区的地图。然后你将向此应用添加其他功能，包括：地图标记，用于标识你要参观的著名位置或地点；搜索功能，用于快速找到这些位置；以及一个列表视图，用于简单浏览所有位置。然后，你将调查并实现提供每个位置附加信息的第三方 API（如街景图像、维基百科文章、Yelp 评论等）。</p>\n",
+        "image": "",
+        "index": "",
+        "name": "街区地图",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>这门课程面向的是具有一定的 JavaScript 经验并了解 JavaScript 库（例如 jQuery）的中级网络开发者。</p>\n\n<p>学员还必须熟练掌握 HTML 和 CSS，具有创建静态网页的经验。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "了解代码组织结构的重要性，以及如何使用 Vanilla JavaScript 或组织性库或框架来实现条理性。",
+    "slug": "javascript-design-patterns--ud989",
+    "starter": false,
+    "student_groups": ["6387601132486656"],
+    "subtitle": "在无序的世界里保持代码的条理性",
+    "summary": "<p>这门课程介绍了如何组织代码的方法（既是字面意思，又是引申含义）。你将学习在编写 JavaScript 时分离关注点的重要性，同时还有机会去实践操作。分离关注点可以借助组织性库或框架来实现，当然也可以不借助二者。我们将学习如何不借助组织性库或框架来分离关注点，然后再一起研究一个组织性库。你还将学习如何自己研究其他库和框架的策略。</p>\n\n<p>学完这门课程后，你将通过个人体验了解到组织代码的重要性，以及如何通过 Vanilla JavaScript 或组织性库/框架来实现这一点。你的应用将不仅对你的用户来说，看起来整洁专业，而且对于任何查看你的应用源代码的人来说，同样如此。此课程提供中文版本。</p>\n\n<p>喜欢这门课程？你可以继续学习“<a href=\"https://cn.udacity.com/fend\" target=\"_blank\">前端开发工程师</a>”纳米学位！</p>\n",
+    "syllabus": "<h3>第 1 课：改变预期</h3>\n\n<p>首先，我们将按照你已经知道的方式构建一个项目：不采用总体性组织方法。具体来说，我们将讨论当我们不使用组织模型时，会很容易遇到的疑难点。然后，我们将讨论未来可以对我们有帮助的范式，并查看关于这一范式的一些示例。</p>\n\n<h3>第 2 课：代码重构</h3>\n\n<p>我们将花一些时间讨论如何将新的范式运用到在第 1 课中完成的项目，然后我们将使用新的组织范式重新构建该项目。</p>\n\n<h3>第 3 课：使用组织性库</h3>\n\n<p>我们将学习如何使用组织性库 KnockoutJS 来组织代码结构，并减少我们的项目中的样板代码。最终形成的应用会整齐有序、易于理解，并且可扩展。</p>\n\n<h3>第 4 课：阅读不熟悉的代码</h3>\n\n<p>在最后一节课里，我们将花些时间讨论如何阅读并非自己所编写的代码，甚至可能用到了你不熟悉的库/框架。阅读代码是开发者必须具备的最重要的技能之一，这节课将指导你如何开始掌握这一技能。</p>\n",
+    "tags": ["javascript"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "JavaScript 设计模式（中/英）",
+    "tracks": ["网站开发"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-hackreactor.svg",
+        "key": "hackreactor",
+        "name": "Hack Reactor"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud015_banner.png",
+    "capped": true,
+    "enables_profiles": false,
+    "expected_duration": 5,
+    "expected_duration_high": 0,
+    "expected_duration_low": 5,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>作为前端工程师，JavaScript 将是你的工具箱里最重要的语言之一。熟练掌握该语言将使你能够编写有效、高性能的网络应用。在这门课程里，你将学习用 JavaScript 编写面向对象代码的多种方式。</p>\n\n<p>你将构建各种 JavaScript 对象，并了解不同的继承模型对代码的执行和内存模型有何影响。你将使用这些功能编写有效利用内存的代码，并使自己的代码更简洁、更具模块性。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": true,
+    "graduate_groups": ["6393864857845760"],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud015_image.png",
+    "instructors": [{
+        "bio": "<p>Michael 是一名自学成才的全栈 Web 开发者和开源倡导者。在加入优达学城之前，他已有 10 年的工作经历，为世界上一些要求最严苛的情报组织开发机密应用。由于之前的工作性质，他目前仍拥有有效的绝密安全许可，除非你也有同等许可，否则关于他的信息我们只能告诉你这么多。他在业余时间喜欢打彩弹、玩视频游戏，以及花时间陪 3 个可爱的孩子玩耍。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/michael-wales.jpg",
+        "key": "michael-wales",
+        "name": "Michael Wales",
+        "title": "优达学城讲师，课程策划"
+    }, {
+        "bio": "<p>Marcus Phillips 是 Hack Reactor 12 周沉浸式编程学校的院长和首席技术官。该学校既提供现场学习课程，又提供在线课程。他是一位全能人才，但是主要侧重于 JavaScript 技术和改善他的“快速提升”教学方法。最近，他从技术方面编辑了最新版 Eloquent JS，并且开展了 JSConf 和 HTML5 DevConf 培训活动。在联合创办 Hack Reactor 之前，Marcus 开展过多项技术培训项目，并在 Twitter 公司负责开发 JavaScript 框架内部组件。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/marcus-phillips.jpg",
+        "key": "marcus-phillips",
+        "name": "Marcus Phillips",
+        "title": "讲师"
+    }],
+    "key": "ud015",
+    "level": "中级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 62,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>我们将向你提供一些视觉资源和游戏主循环引擎；你必须使用这些工具向游戏添加一些实体，包括玩家人物与敌人，以重现经典小游戏《青蛙过河》(Frogger)。</p>\n",
+        "image": "",
+        "index": "",
+        "name": "经典街机游戏克隆",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>这门课程面向的是初学者和中级网络开发者，需要了解 JavaScript 语法。具体来说，你应该知道如何编写控制结构，如何编写简单的函数，并知道 JavaScript 中的不同变量类型。同时能够阅读具有这些功能的现有 JavaScript 代码，并预测代码运行结果。如果你需要复习这些知识，请参阅我们的 <a href=\"https://cn.udacity.com/course/javascript-basics--ud804\" target=\"_blank\">JavaScript 基础</a>课程！</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "构建各种 JavaScript 对象，并了解它们的继承模型对应用的内存模型有何影响。使你的代码更简洁、更具模块性。",
+    "slug": "object-oriented-javascript--ud015",
+    "starter": false,
+    "student_groups": ["5292172762415104", "6621302804185088", "bd-ud015-students"],
+    "subtitle": "编写可重复使用和易于维护的代码",
+    "summary": "<p>你是否遇到过以下情形：认认真真地编写 JavaScript 代码，但是却发现文件乱的一锅粥，在整个应用中到处复制粘贴代码？肯定有更好的方法吧？</p>\n\n<p>没错，是有更好的方法。借助面向对象的编程技能，你将能够使用可重复利用的代码块（称为库）构建网站，就像用砖头盖房子一样。这门课程旨在指导网络开发者如何利用 JavaScript 中的各种面向对象编程功能，更重要的是，如何编写可重复利用和可维护的库，让你的工作更便利。此课程提供中文版本。</p>\n\n<p>喜欢这门课程？你可以继续学习“<a href=\"https://cn.udacity.com/fend\" target=\"_blank\">前端开发工程师</a>”纳米学位！</p>\n",
+    "syllabus": "<h3>第 1课：作用域和闭合</h3>\n\n<p>首先，我们将讨论 JavaScript 的变量作用域，包括词法作用域（编写代码时变量的可用性）以及动态作用域（代码实际运行时变量的可用性）。然后我们将讨论闭合。闭合是只有少数语言（包括 JavaScript）才具有的功能，经常被错误地理解但是非常有用。</p>\n\n<h3>第 2 课：关键字 “this”</h3>\n\n<p>你将深入学习 JavaScript 面向对象的功能，首先学习的是参数 “this”。你将学习在各种不同的代码结构中如何判断 “this” 的值，为何将 “this” 看做参数比当成关键字更容易理解。</p>\n\n<h3>第 3 课：原型代理</h3>\n\n<p>你可能已经用到了 JavaScript 的某个继承模型：原型代理！在这节课里，你将更深入地学习这一独特 JavaScript 功能，JavaScript 如何在内部使用该功能，以及如何利用它来减少应用内存消耗。</p>\n\n<h3>第 4 课：重复利用代码</h3>\n\n<p>你可以采用多种方式编写简洁、可维护和重复利用的 JavaScript 代码。在这节课里，你将练习多种方法。首先，我们将使用基本函数编写库，了解装饰器模式。然后，我们将重构该库，使其变成有效的的原型伪类继承模型。最后，我们将学习类的继承，编写从我们之前定义过的对象中直接继承而来的对象。</p>\n",
+    "tags": ["javascript"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "面向对象的 Javascript 编程（中/英）",
+    "tracks": ["网站开发"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud875A_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 2,
+    "expected_duration_high": 0,
+    "expected_duration_low": 2,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>如果你准备成为一名安卓研发人员，从能够利用你现有的研发经验到能够使用户随时随地使用你的app，你还有几步要走。通过这门课程你将了解将你现有的app延伸至安卓穿戴智能手表有多么简单。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud875A_image.jpg",
+    "instructors": [{
+        "bio": "<p>Wayne Piekarski是 Google 的研发员后援，致力于安卓及普适计算。他在穿戴系统计算、户外增强现实技术及3D用户界面及可移动设备的学术领域和行业领域工作了15年。他在 Google 的职责是使研发人员对移动及可穿戴系统的新技术保持兴奋并确保研发人员在工作中使用正确的工具和信息。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/wayne-piekarski.png",
+        "key": "wayne-piekarski",
+        "name": "Wayne Piekarski",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Joshua Gordon是 Google 的研发员后援。他对教学和教育工作充满激情。他曾参加过从显微镜到巨型激光设备等多个项目，还教授过多门计算机学科。他的爱好包括骑自行车、跑步及户外探险。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/joshua-gordon.png",
+        "key": "joshua-gordon",
+        "name": "Joshua Gordon",
+        "title": "讲师"
+    }, {
+        "bio": "<p>一次在计算机夏令营当讲师的经历，让 James Williams 爱上教学工作。他在闲暇时间还参加障碍赛或越野赛，同时他还是《HTML5 游戏编程》的作者，这本书被翻译成了中文和韩文。他拥有计算机科学的本科和硕士学位，以及法语的本科学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/james-williams.jpg",
+        "key": "james-williams",
+        "name": "James Williams",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Timothy Jordan领导着 Google 公司普适计算的扩展研发员后援部，普适计算包括安卓穿戴系统、 Google 眼镜、安卓电视、 Google Play 以及安卓车载系统。他的目标是帮助研发员在 Google 平台研发成功，特别是跨设备服务。他热衷于解决问题并相信通过科学和艺术可以改善人们的生活。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/timothy-jordan.png",
+        "key": "timothy-jordan",
+        "name": "Timothy Jordan",
+        "title": "讲师"
+    }],
+    "key": "ud875A",
+    "level": "高级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 124,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>通过建立 Android 穿戴系统的 Sunshine 表盘使用户能一眼就了解天气情况。</p>\n",
+        "image": "",
+        "index": "",
+        "name": "无处不在",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>为了最有效地学习本课程，你应当具备 Android 应用开发相关经验。如果你没有 Android 应用开发经验，请先完成 <a href=\"https://cn.udacity.com/course/new-android-fundamentals--ud851\" target=\"_blank\">Android 应用开发</a> 课程，再学习本课程。如果你有兴趣将你的应用发布至 Google Play 商店，我们还建议你学习<a href=\"https://cn.udacity.com/course/advanced-android-app-development--ud855\" target=\"_blank\">高级 Android 应用开发</a>课程。</p>\n\n<p>要跟上课程并参与课程活动，你必须使用最新版本的 <a href=\"https://developer.android.com/sdk/index.html\" target=\"_blank\">Android Studio</a>，其中包含有模拟程序，可用来对应用进行基本测试。为获得最佳体验，你需要使用最新推出的 Android 设备。</a> </p>\n\n<p>我们通过 GitHub 共享代码。因此，你应当熟悉使用 GitHub 获取代码。如果你缺乏该背景知识，请学习我们的<a href=\"https://cn.udacity.com/course/how-to-use-git-and-github--ud775\" target=\"_blank\">如何使用 Git 与 GitHub</a>课程。 </p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "学习如何将你的应用扩展至 Android Wear 智能手表上，让你的用户无论何时何地，都能在他们需要的时候找到你的应用。",
+    "slug": "android-wear-development--ud875A",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "让你的应用在智能手表上运行",
+    "summary": "<p>将你的应用用于 Android 智能手表可以使用户随时随地使用你的应用。在学习过程中，你可以将现有的安卓开发经验用于 Android Wear 的研发。这门课程可以带你入门、学习应用结构以及了解穿戴设备及配套手机或云之间的信息共享。我们还会让你了解设计优良用户体验所需的知识，包括如何利用 Android 穿戴设备可随时显示这一优势。此课程提供中文版本。</p>\n\n<p>这门课程是普适计算系列的一部分。作为一门单独的短期课程，你可以学习其中的一门或学习全部课程！</p>\n\n<ul>\n<li><strong>Android Wear 开发</strong></li>\n<li><a href=\"https://cn.udacity.com/course/android-tv-and-google-cast-development--ud875B\" target=\"_blank\">Android TV 和 Google Cast 开发</a></li>\n<li><a href=\"https://cn.udacity.com/course/android-auto-development--ud875C\" target=\"_blank\">Android Auto 开发</a></li>\n</ul>\n\n<p>喜欢这门课程？你可以继续学习“<a href=\"https://cn.udacity.com/android\" target=\"_blank\">Android 开发工程师</a>”纳米学位！</p>\n",
+    "syllabus": "<h3>简介</h3>\n\n<p>课程结构及目标概览及样本应用的介绍 </p>\n\n<h3>Wearables</h3>\n\n<h4>第 1 部分：通知同步</h4>\n\n<h4>第 2 部分：手表应用</h4>\n\n<h4>第 3 部分：表盘</h4>\n\n<p>如何设计并延伸可穿戴应用，以及如何建立 Sunshine 应用表盘。</p>\n\n<h4>可穿戴项目</h4>\n\n<p>设计并拓展 sunshine 应用为可穿戴设备上的应用</p>\n",
+    "tags": ["android"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud875A/catalog_entry.teaser_video_0cdcb812092aa52c5be08a70e2a29189_480p_1000kbps.mp4"
+            },
+            "480p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud875A/catalog_entry.teaser_video_0cdcb812092aa52c5be08a70e2a29189_480p.mp4"
+            },
+            "480p_ogg": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud875A/catalog_entry.teaser_video_0cdcb812092aa52c5be08a70e2a29189_480p.ogg"
+            },
+            "720p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud875A/catalog_entry.teaser_video_0cdcb812092aa52c5be08a70e2a29189_720p.mp4"
+            }
+        },
+        "youtube_url": "https://www.youtube.com/watch?v=Lnbo0YrFMfs"
+    },
+    "title": "Android Wear 开发（中/英）",
+    "tracks": ["Android"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud585_banner.png",
+    "capped": true,
+    "enables_profiles": false,
+    "expected_duration": 1,
+    "expected_duration_high": 0,
+    "expected_duration_low": 1,
+    "expected_duration_unit": "months",
+    "expected_learning": "<p>本课程可以帮助你成为 iOS 开发者，建立对 iOS 生态系统的基本理解。你还将积累 Swift 的使用经验，这是苹果专为移动开发者创建的编程语言。</p>\n",
+    "faq": "Before course development started, we asked you what questions you had about Apple's Swift language. Here are the answers to your most burning questions:\n\n### Why is the language called Swift?\nThe language was designed with two goals in mind: to be (1) swift to code, and (2) swift to execute. In terms of speed, Swift compiles Swift code to optimized native code depending on target device. In terms of learning curve, the Swift syntax was designed to be clean and easy to read. \n\n### Should I learn Swift or Objective-C?\nSwift! Apple has made it clear that Swift is the cornerstone of the future of iOS development. Plus, you can still utilize Objective-C files alongside Swift code, so you won’t miss out on any pre-existing libraries and code.\n\n### How easy is Swift to learn?\nSwift was designed to be friendly for new programmers, and as a result it is incredibly easy to learn. <a href=\"https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/\">According to Apple</a>, Swift is the “first industrial-quality systems programming language that is as expressive and enjoyable as a scripting language.” Some have even <a href=\"http://www.zdnet.com/why-apples-swift-might-be-the-new-basic-and-thats-no-small-thing-7000030186/\" target=\"_blank\">called Swift the new BASIC</a>.\n\n### Is it fast?\n<a href=\"http://www.apple.com/swift/\" target=\"_blank\">Apple boasts</a> that Swift is up to 2.6x faster than Objective-C and 8.4x faster than Python 2.7. And why should you care about how quickly code executes? Well, faster running code makes for more efficient and smoother running apps, which makes for a better experience for your user.\n\n### Why did Apple decide to create a new language?\nObjective-C has been Apple’s primary programming language for app writing since OS X was created. In that time, programming languages and practices changed drastically, especially in mobile development. Rather than adopt a new, already existing language, Apple created a new language tailored specifically for development on their own hardware.\n\n### Can I create an app in Swift and submit it to the App Store?\nAbsolutely! In fact, you were able to as soon as Xcode 6 and iOS 8 launched.\n\n### Why was there a need to go from Objective-C to Swift?\nAs mentioned in the answer to question five, after 20 years, Objective-C was starting to show it’s age. Plus, Objective-C is a difficult language for new programmers to learn, so the barrier to entry is pretty high. Swift provides a modern language tailor-made for Apple hardware.\n\n### How Stable is Swift?\nAs with any new language, there is a potential for bugs. While you may encounter some trouble with the Swift language, the majority of issues were addressed before the 1.0 release.\n\nThe thing to most look out for is changes to the Swift language during each update. For example, when updating from 1.0 to 1.1, Apple introduced a new feature: <a href=\"https://developer.apple.com/swift/blog/?id=17\" target=\"_blank\">failable initializers</a>. You can expect that the language will change as more people use it and give feedback to Apple. Stay apprised of changes using the <a href=\"https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/RevisionHistory.html#//apple_ref/doc/uid/TP40014097-CH40-XID_1655\" target=\"_blank\">revision history for *The Swift Programming Language*</a>.\n\n### What other languages is it similar to?\nSwift is probably most similar in look and feel to Ruby or Python. Though you’ll also probably recognize some C syntax. \n\n### Is it compatible with iOS 6 & 7?\nSwift can be run on iOS 7, but not iOS 6.",
+    "featured": true,
+    "features": null,
+    "full_course_available": true,
+    "graduate_groups": ["4864889830506496"],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud585_image.jpg",
+    "instructors": [{
+        "bio": "<p>Kunal Chawla 在德克萨斯大学奥斯汀分校获得计算机科学学士学位之后，先做了三年程序员，然后决定转入教育领域。他在中学讲授自然科学课程，参加 Google 的远程学习计划，并在加入优达学城之前，获得了斯坦福大学的教育技术硕士学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/kunal-chawla.jpg",
+        "key": "kunal-chawla",
+        "name": "Kunal Chawla",
+        "title": "优达学城讲师"
+    }],
+    "key": "ud585",
+    "level": "中级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 87,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>构建一个 iPhone 应用来记录你和你的朋友的对话，并让用户可以选择过滤器回放音频，让自己听起来像是花栗鼠或黑武士！</p>\n",
+        "image": "",
+        "index": "",
+        "name": "完美音调",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>本课程要求学员之前有编程经验。具体来说，你应该充分理解诸如变量、if 语句、循环、函数和类等编程概念，如果你完全是编程新手，建议先学习我们的<a href=\"https://cn.udacity.com/course/intro-to-computer-science--cs101\" target=\"_blank\">计算机科学导论</a>和<a href=\"https://cn.udacity.com/course/programming-foundations-with-python--ud036\" target=\"_blank\">编程基础：Python</a> 课程。</p>\n\n<p>你还需要一台运行 OS X 10.10 或更高版本的 Mac 计算机。</p>\n\n<p>你不需要使用实体设备（即 iPhone 或 iPad）来创建应用。我们会在 Mac 上使用模拟器，它可以在计算机上模拟手机上的电话功能。在课程结尾，我们将还将介绍如何将你开发的应用下载到 iPhone 上（如果你有实体 iOS 设备的话）。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "学习构建你的第一个 iPhone 应用，迈出成为 iOS 开发者的第一步。",
+    "slug": "intro-to-ios-app-development-with-swift--ud585",
+    "starter": false,
+    "student_groups": ["4761823366086656", "5717374585536512", "bd-ud585-students"],
+    "subtitle": "构建你的第一个 iPhone 应用",
+    "summary": "<p>在本课程中，我们将创建一个记录你和朋友间对话的 iPhone 应用，而且让你的声音听起来像花栗鼠或黑武士达斯·维德（Darth Vader，电影《星球大战》中的人物）一样。</p>\n\n<p>本课程将向你介绍如何用 Swift（这是由苹果推出的一款编程语言）进行 iOS 应用开发，迈出成为 iOS 开发者的第一步。</p>\n\n<p>喜欢这门课程？加入“<a href=\"https://cn.udacity.com/course/ios-developer-nanodegree--nd003\" target=\"_blank\">iOS 开发者</a>”纳米学位，<a href=\"https://cn.udacity.com/course/ios-developer-nanodegree--nd003\" target=\"_blank\">点此免费体验</a>。</p>\n",
+    "syllabus": "<h3>第 1 课：简介（1 小时）</h3>\n\n<p>在本课中，你需要运行 Xcode，这是用于编写 iOS 应用的环境。你还要学习通过识别重要语法阅读 Swift 编码。</p>\n\n<h3>第 2 课：创建应用初始版本（3 小时）</h3>\n\n<p>在本课中，你要通过在电话屏幕的精确位置上添加按钮、图像和文本，创建应用的简化版本。你将了解模型-视图-控制器 (MVC） 架构及其在应用开发中的实际应用。</p>\n\n<p>我们将向你介绍以下 iOS 类：</p>\n\n<ul>\n<li>UIButton</li>\n<li>UILabel</li>\n<li>NSLayoutConstraint</li>\n<li>UIView</li>\n<li>UIViewController</li>\n</ul>\n\n<p>我们还将在此课中向你介绍以下框架：</p>\n\n<ul>\n<li>UIKit</li>\n</ul>\n\n<h3>第 3a 课：应用中两个屏幕间的切换（2 小时）</h3>\n\n<p>在本课中，你将学习如何在应用两个屏幕间进行顺畅切换。在学习这节课程的过程中，我们将讨论生命周期视图，包括如何加载不同对象至应用，以及如何处理与内存不足相关的事件。</p>\n\n<p>我们将在此课中向你介绍以下 iOS 类：</p>\n\n<ul>\n<li>UINavigationController</li>\n</ul>\n\n<h3>第 3b 课：音频播放（4 小时）</h3>\n\n<p>在本课中，我们会播放著名电影中的简短音频片段，并更改该电影片段，使其超快速或慢速播放。这时，你还将通过创作公开性博客帖子，论述如何在 Swift 中完成具体任务，从而获得专业开发者的身份。</p>\n\n<p>我们将在此课中向你介绍以下 iOS 类：</p>\n\n<ul>\n<li>AVAudioPlayer</li>\n</ul>\n\n<p>我们还将向你介绍如下框架：</p>\n\n<ul>\n<li>AVFoundation</li>\n</ul>\n\n<h3>第 4a 课：记录音频（2 小时）</h3>\n\n<p>在本课中，你要通过学习在应用上记录声音完成收尾工作。这时，我们要探索一个名为 Delegates 的强大的 iOS 概念，它会让应用创建变得容易。</p>\n\n<p>我们将在此课中向你介绍以下 iOS 类：</p>\n\n<ul>\n<li>AVAudioRecorder</li>\n</ul>\n\n<h3>第 4b 课：添加花栗鼠和黑武士音效(3 小时)</h3>\n\n<p>在本课中，我们将学习如何改变在第 4a 课中记录的音频的音调。这种更改会让人的声音听起来像花栗鼠或黑武士。在课程结束时，你将具备在手机上安装应用的专业知识。</p>\n\n<p>我们将在此课中向你介绍以下 iOS 类：</p>\n\n<ul>\n<li>AVAudioEngine</li>\n<li>AVAudioPlayerNode</li>\n<li>AVAudioUnitTimePitch</li>\n</ul>\n\n<h3>最终版本应用提交（1 小时）</h3>\n\n<p>在最后一课，你要确保你的应用根据我们规定的标准运作，并且还会有机会向自己的应用添加新的功能。我们还会与你分享包含外部评审人员代码完善建议的代码评审文档。我们会要求你实施这些建议以改进代码，并为上架应用商店做好准备。最后，为修完本课程，你要向优达学城讲师提交应用，以使我们对你的作业进行综合评估。</p>\n",
+    "tags": ["swift", "ios"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud585/catalog_entry.teaser_video_f8b67e306fba031dedd765372f4f2a89_480p_1000kbps.mp4"
+            },
+            "480p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud585/catalog_entry.teaser_video_f8b67e306fba031dedd765372f4f2a89_480p.mp4"
+            },
+            "480p_ogg": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud585/catalog_entry.teaser_video_f8b67e306fba031dedd765372f4f2a89_480p.ogg"
+            },
+            "720p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud585/catalog_entry.teaser_video_f8b67e306fba031dedd765372f4f2a89_720p.mp4"
+            }
+        },
+        "youtube_url": "https://www.youtube.com/watch?v=bOxlCjM5gw8"
+    },
+    "title": "用 Swift 进行 iOS 应用开发入门",
+    "tracks": ["iOS"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud875C_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 1,
+    "expected_duration_high": 0,
+    "expected_duration_low": 1,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>如果你已经是一名安卓研发人员，你需要进一步学习才能让你现有的媒体或消息app用于安卓车载系统。学习这门课程你会知道将你现有的app用于车载系统是多么简单。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud875C_image.jpg",
+    "instructors": [{
+        "bio": "<p>Timothy Jordan领导着 Google 公司普适计算的扩展研发员后援部，普适计算包括安卓穿戴系统、 Google 眼镜、安卓电视、 Google Play 以及安卓车载系统。他的目标是帮助研发员在 Google 平台研发成功，特别是跨设备服务。他热衷于解决问题并相信通过科学和艺术可以改善人们的生活。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/timothy-jordan.png",
+        "key": "timothy-jordan",
+        "name": "Timothy Jordan",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Wayne Piekarski是 Google 的研发员后援，致力于安卓及普适计算。他在穿戴系统计算、户外增强现实技术及3D用户界面及可移动设备的学术领域和行业领域工作了15年。他在 Google 的职责是使研发人员对移动及可穿戴系统的新技术保持兴奋并确保研发人员在工作中使用正确的工具和信息。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/wayne-piekarski.png",
+        "key": "wayne-piekarski",
+        "name": "Wayne Piekarski",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Joshua Gordon是 Google 的研发员后援。他对教学和教育工作充满激情。他曾参加过从显微镜到巨型激光设备等多个项目，还教授过多门计算机学科。他的爱好包括骑自行车、跑步及户外探险。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/joshua-gordon.png",
+        "key": "joshua-gordon",
+        "name": "Joshua Gordon",
+        "title": "讲师"
+    }, {
+        "bio": "<p>一次在计算机夏令营当讲师的经历，让 James Williams 爱上教学工作。他在闲暇时间还参加障碍赛或越野赛，同时他还是《HTML5 游戏编程》的作者，这本书被翻译成了中文和韩文。他拥有计算机科学的本科和硕士学位，以及法语的本科学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/james-williams.jpg",
+        "key": "james-williams",
+        "name": "James Williams",
+        "title": "讲师"
+    }],
+    "key": "ud875C",
+    "level": "高级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 139,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>为了最有效地学习本课程，你应当具备 Android 应用开发相关经验。如果你没有 Android 应用开发经验，请先完成 <a href=\"https://cn.udacity.com/course/new-android-fundamentals--ud851\" target=\"_blank\">Android 应用开发</a> 课程，再学习本课程。如果你有兴趣将你的应用发布至 Google Play 商店，我们还建议你学习<a href=\"https://cn.udacity.com/course/advanced-android-app-development--ud855\" target=\"_blank\">高级 Android 应用开发</a>课程。</p>\n\n<p>要跟上课程并参与课程活动，你必须使用最新版本的 <a href=\"https://developer.android.com/sdk/index.html\" target=\"_blank\">Android Studio</a>，其中包含有模拟程序，可用来对应用进行基本测试。为获得最佳体验，你需要使用最新推出的 Android 设备。</a> </p>\n\n<p>我们通过 GitHub 共享代码。因此，你应当熟悉使用 GitHub 获取代码。如果你缺乏该背景知识，请学习我们的<a href=\"https://cn.udacity.com/course/how-to-use-git-and-github--ud775\" target=\"_blank\">如何使用 Git 与 GitHub</a>课程。 </p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "让用户在外出时也可以使用 Android！学习在 Android Auto 上开发和运行你的媒体和消息应用。",
+    "slug": "android-auto-development--ud875C",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "让你的应用在车辆中运行",
+    "summary": "<p>在 Android Auto 系统推广你的媒体或消息应用，可以让你的客户在外出时也能使用。学习这门课程可以让在车内使用应用如同扩展现有代码一样简单。这门课程将详细解释如何开始并覆盖媒体及消息应用。此课程提供中文版本。</p>\n\n<p>这门课程是普适计算系列的一部分。作为一门单独的短期课程，你可以学习其中的一门或学习全部课程！</p>\n\n<ul>\n<li><a href=\"https://cn.udacity.com/course/android-wear-development--ud875A\" target=\"_blank\">Android Wear 开发</a></li>\n<li><a href=\"https://cn.udacity.com/course/android-tv-and-google-cast-development--ud875B\" target=\"_blank\">Android TV 和 Google Cast 开发</a></li>\n<li><strong>Android Auto 开发</strong></li>\n</ul>\n\n<p>喜欢这门课程？你可以继续学习“<a href=\"https://cn.udacity.com/android\" target=\"_blank\">Android 开发工程师</a>”纳米学位！</p>\n",
+    "syllabus": "<h3>简介</h3>\n\n<p>课程结构及目标概览及样本应用的介绍 </p>\n\n<h3>Auto</h3>\n\n<h4>第1部分 - 消息APP</h4>\n\n<h4>第2部分 - 媒体APP</h4>\n\n<p>将你的应用扩展至汽车并进行测试。</p>\n",
+    "tags": ["android"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud875C/catalog_entry.teaser_video_e08297ce15cb21331e11d50ef8fdebd4_480p_1000kbps.mp4"
+            },
+            "480p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud875C/catalog_entry.teaser_video_e08297ce15cb21331e11d50ef8fdebd4_480p.mp4"
+            },
+            "480p_ogg": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud875C/catalog_entry.teaser_video_e08297ce15cb21331e11d50ef8fdebd4_480p.ogg"
+            },
+            "720p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud875C/catalog_entry.teaser_video_e08297ce15cb21331e11d50ef8fdebd4_720p.mp4"
+            }
+        },
+        "youtube_url": "https://www.youtube.com/watch?v=WITvSEavevI"
+    },
+    "title": "Android Auto 开发（中/英）",
+    "tracks": ["Android"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 8,
+    "expected_duration_high": 0,
+    "expected_duration_low": 8,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>如果你是一名 Android 开发者，而且你的应用需要具有以下特性：</p>\n\n<ul>\n<li>在线数据存储</li>\n<li>多用户间实时同步</li>\n<li>邮件/密码及 OAuth 提供方身份验证</li>\n<li>数据允许和安全</li>\n<li>离线数据访问</li>\n</ul>\n\n<p>这门课程就是为你准备的！</p>\n\n<p>Firebase 是存储和管理数据的强大入门工具。仅需几行代码，就可以读取和写入自己定制的 Firebase 后台所有需要的数据。</p>\n\n<p>另外，Firebase 还有免费 Plan，你可以马上开始构建多用户应用软件。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud009_image.jpg",
+    "instructors": [{
+        "bio": "<p>JP 是 Google 的一名项目经理。他的工作是专注于生成数据并报告在线培训，决定如何提高学生体验，帮助确定最好的教学内容和更新，确定最佳的 ROE（Return on Engagement）。他曾开发过 ILT，讲授在线课程，传授知识，协助公司建立认证和培训合作伙伴项目。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/jp-souchak.jpg",
+        "key": "jp-souchak",
+        "name": "JP Souchak",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Lyla Fujiwara 是优达学城的课程策划之一，他在三个大洲教授数学和计算机科学。在加入优达学城之前，她在卢旺达担任和平部队志愿者，在那里她与 Gashora 女子学院的高材生们一起工作。工作之余，她喜欢跳舞、财迷、画画、桌游以及在半岛周围骑自行车。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/lyla-fujiwara.jpg",
+        "key": "lyla-fujiwara",
+        "name": "Lyla Fujiwara",
+        "title": "优达学城课程策划"
+    }],
+    "key": "ud009",
+    "level": "高级",
+    "new_release": true,
+    "open_for_enrollment": false,
+    "order": 49,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>你必须熟练掌握 Java 和 Android 框架（具有开发 Android 应用或同等水平）。</p>\n\n<p>熟悉 Git，使用开源 web API，习惯 Android 开发环境也有助于应用开发。<a href=\"https://www.udacity.com/wiki/ud009/prerequisites\" target=\"_blank\">课程材料页</a>提供了更详细的先修条件和要求列表。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "本课程将教你何时以及为什么选择 Firebase 作为 Android 应用的后端。",
+    "slug": "firebase-essentials-for-android--ud009",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "构建一个购物单应用",
+    "summary": "<p>在本课程中，你将学习如何使用 Firebase。Firebase 是一种云后端，而且是后台服务的首选。Firebase 可以迅速同步你的数据并运行多用户应用。这一点很重要，因为如今几乎所有移动应用都要求身份验证和实时数据更新。</p>\n\n<p>首先，我们将演示如何在 Firebase 中写入和读取数据。然后教你如何允许用户登录，并同时获取相关数据，以及编写数据查询和筛选器。你会学习如何利用 Firebase 的离线功能，掌握快速数据检索数据库设计。最后，学习如何使用 Firebase 的安全和规则语言，以保护数据安全，增加数据访问允许。</p>\n\n<p>在这门课程中，你会设计一款多名用户间实时存储并分享数据、进行身份验证和授权用户的 Android 应用。</p>\n",
+    "syllabus": "<h3>第 1 课</h3>\n\n<p>在本课中，设置 Firebase 并读写你的初始数据。</p>\n\n<p><strong>主题包括：</strong></p>\n\n<ul>\n<li>课程描述和要求</li>\n<li>设置 Firebase</li>\n<li>写入初始 Firebase 数据</li>\n<li>数据在 Firebase 中如何运行</li>\n<li>读取初始 Firebase 数据</li>\n<li>Firebase 中已有旧的 Java 对象</li>\n<li>何时将 Firebase 作为堆栈的一部分</li>\n</ul>\n\n<h3>第 2 课</h3>\n\n<p>在本课中，你将学会读写所有输入和输出数据，包括显示与 Firebase 数据库同步的数据列表。</p>\n\n<p><strong>主题包括：</strong></p>\n\n<ul>\n<li>写入</li>\n<li>读取</li>\n<li>调试</li>\n<li>Firebase 和 FirebaseUI 中的列表</li>\n<li>读写数据最佳操作</li>\n</ul>\n\n<h3>第 3 课</h3>\n\n<p>在本课中，你将学习如何使用邮件和密码登录和 Google 登录来创建用户帐号。然后根据用户注册信息显示不同信息。</p>\n\n<p><strong>主题包括：</strong></p>\n\n<ul>\n<li>通过邮件和密码创建用户并登录</li>\n<li>用户使用 Google 登录</li>\n<li>用户退出</li>\n<li>如何存储特定用户数据</li>\n<li>如何使用用户数据</li>\n<li>基本登录安全和重置用户密码</li>\n</ul>\n\n<h3>第 4 课（即将开放）</h3>\n\n<p>在本课中，你将学习如何构建数据库架构，以便快速查询数据以及将数据分类。你将学习使用新的数据结构实现共享功能。你将学习通过添加 ShoppingList++ 分类和基本的自动完成，实现 Firebase 的过滤和分类功能。</p>\n\n<p><strong>主题包括：</strong></p>\n\n<ul>\n<li>Firebase 使用 orderBy 实现分类</li>\n<li>如何以及为何反规范化数据</li>\n<li>处理 Firebase 中的多对多关系</li>\n<li>使用 IndexOn 和 OrderByValue 实现更快速搜索</li>\n<li>范围、Start At、End At 和限制查询</li>\n<li>Firebase 基本搜索</li>\n</ul>\n\n<h3>第 5 课（即将开放）</h3>\n\n<p>在本课中，你将了解 Firebase 如何处理离线访问，以及如何使用内置安全和允许规则保护数据安全。</p>\n\n<p><strong>主题包括：</strong></p>\n\n<ul>\n<li>Firebase 离线访问</li>\n<li>安全规则</li>\n<li>安全规则表达</li>\n<li>安全规则的身份验证检查</li>\n<li>Firebase 的数据有效性</li>\n</ul>\n",
+    "tags": ["android", "firebase", "java"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "Android Firebase 基础",
+    "tracks": ["Android"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-georgiatech.svg",
+        "key": "gt",
+        "name": "佐治亚理工学院"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud600_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 16,
+    "expected_duration_high": 0,
+    "expected_duration_low": 16,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>本课内容将把你带进强化学习研究社区。你也将有机会受教于两位教授，Charles Isbell和Michael Littman，他们都是该研究领域的世界顶级专家。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud600_image.png",
+    "instructors": [{
+        "bio": "<p>Charles Isbell 是佐治亚理工学院交互式计算学院的教授和高级副院长。他热衷于研究人工智能，特别是在创建必须与大量其他智能代理程序（一些程序可能是人类）共存与互动的自动代理程序方面。最近，他的精力转向了自适应建模，尤其是在活动发现(不同于活动识别)、可扩展协作、支持自适应代理程序快速原型设计的开发环境方面。他正在开发适应性编程语言，试图理解向非专业作家,设计师和开发人员提供机器学习工具的意义。他有时也参与回力网球、举重和极限飞盘活动。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/charles-isbell.jpg",
+        "key": "charles-isbell",
+        "name": "Charles Isbell",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Michael Littman 是布朗大学计算机科学教授。他也讲授优达学城在处理社交网络的算法课程（CS215）。在2012年加入布朗大学之前，他于2009年-2012年期间担任罗格斯大学计算机科学系主任，领导了罗格斯实验室实际强化学习（RL3）项目。他是美国人工智能协会 (AAAI) 研究员，曾担任 AAAI 2013年会议及2009年机器学习国际会议的程序主席,并获得了杜克大学和罗格斯大学的校级教学奖。Charles Isbell 曾教授他对回力网球、举重和极限飞盘，但是他并不擅长其中的任何一项。不过他却非常擅长歌唱和杂技。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/michael-littman.jpg",
+        "key": "michael-littman",
+        "name": "Michael Littman",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Chris Pryby 是佐治亚理工学院在线硕士学位课程的开发者，对建立未来网络教育具有饱满热情。他拥有佐治亚大学的数学学士学位和计算机科学学士学位，以及乔治亚理工学院的数学博士学位。自 2011 年起，Chris 又开始练习武术，并在韩国合气道中获得了一级黑带的成绩。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/chris-pryby.jpg",
+        "key": "chris-pryby",
+        "name": "Chris Pryby",
+        "title": "讲师"
+    }],
+    "key": "ud600",
+    "level": "高级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 33,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>智能汽车是我们在不远的将来就能看到的一种自驾驶出租车，它可以把人们从一个任意位置摆渡到另一个任意位置。在该项目中，你将运用强化学习方法训练智能车学会驾驶。</p>\n",
+        "image": "",
+        "index": "",
+        "name": "训练智能车学会驾驶",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>在学习本课内容之前，你应已进修过研究生水平的机器学习课程，并应在以前的计算机科学领域课程或论坛中接触过强化学习的内容。</p>\n\n<p>另外，在本课内容中你将大量密集地使用Java程序设计语言。如果你不熟悉Java，我们建议你先回顾优达学城的<a href=\"https://cn.udacity.com/course/intro-to-java-programming--cs046\">“Java程序设计”</a>课程材料，提前赶上进度。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "更深入地学习机器学习，成为强化学习研究社区中的一份子。",
+    "slug": "reinforcement-learning--ud600",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "Offered at Georgia Tech as CS 8803",
+    "summary": "<p>如果你对机器学习感兴趣，且渴望从理论的角度认识它，你就应该选择本课内容。通过经典论文与更多近期作品的结合，你将从计算机技术的角度探索自动化决策的内涵。你将在单智能体计划和多智能体计划中检测其中存在的有效算法，以及从经验中习得最优决策的方法。本课内容结束时，你将有能力从已发表的强化学习论文中复制出属于自己的学术成果。</p>\n喜欢这门课程？加入“<a href=\"https://cn.udacity.com/mlnd/\" target=\"_blank\">机器学习工程师</a>”纳米学位。",
+    "syllabus": "<ul>\n<li>强化学习基础知识</li>\n<li>BURLAP入门</li>\n<li>TD Lambda</li>\n<li>价值与政策迭代的收集</li>\n<li>奖励塑造</li>\n<li>探索</li>\n<li>泛化</li>\n<li>部分可观测的机械化数据处理系统（MDPs）</li>\n<li>选项</li>\n<li>博弈论课题</li>\n<li>更多强化学习的模型课题</li>\n</ul>\n",
+    "tags": ["machine learning"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "强化学习",
+    "tracks": ["佐治亚理工学院计算机科学硕士"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud855_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 6,
+    "expected_duration_high": 0,
+    "expected_duration_low": 6,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>作为专业的<a href=\"https://cn.udacity.com/android\" target=\"_blank\">Android 开发者</a>，你必须为用户创建生产——就绪的应用。本课将让你明白作为公司的程序开发小组、独立的应用开发人员或者只是一个利用Android开发最优方法的程序员，交付已完成的应用意味着什么。</p>\n\n<p>By the end of the course, you&#39;ll be able to identify critical areas for improvement in an app, and implement the necessary changes and refinements to ensure it meets Android&#39;s Core App Guidelines prior to shipping.</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud855_image.jpg",
+    "instructors": [{
+        "bio": "<p>Ian Lake 是 Google 的开发技术推广工程师，他的工作聚焦Android开发最优方法。在参加马拉松比赛和回答堆栈溢出问题时，他从事Android支持库文件界面开发并为所有Android开发者改进了开发经验。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ian-lake.png",
+        "key": "ian-lake",
+        "name": "Ian Lake",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Joanna Smith 是 Google 的开发技术推广工程师，他努力传播 Android 的最优方法。他曾是德克萨斯州的骄傲（比大多数猫还小的狗），并一直坚定不移地帮助开发者创建优质的 Android 应用。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/joanna-smith.png",
+        "key": "joanna-smith",
+        "name": "Joanna Smith",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Jay Harman 在大学训练火舞表演者时，发现了自己对教学的热情。他拥有数学学位，在专注于计算机科学前，他一直以表演和当家庭教师为生。后来他加入优达学城，成为学员支持团队的一员，直接与学员探讨数据科学、机器学习以及 Android 开发。现在他是一名课程策划，与 Google 一起创建一流的 Android 课程。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/jay-harman.jpg",
+        "key": "jay-harman",
+        "name": "Jay Harman",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Dan Galpin 是一名 Android 开发技术推广工程师，他主要从事 Android 的性能调节、开发者培训，以及游戏开发。他在移动领域的工作经验已经超过10年，手机堆栈的每个层面他几乎都涉及过。有视频表明他曾参与音乐剧制作，但他本人却予以否认。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/dan-galpin.png",
+        "key": "dan-galpin",
+        "name": "Dan Galpin",
+        "title": "讲师"
+    }],
+    "key": "ud855",
+    "level": "高级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 27,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>两个应用投入生产，将其从功能状态转换为生产就绪状态。为完成此操作需要找出并处理错误案例，添加可及性特征、考虑本地化、添加小部件以及添加文档</p>\n",
+        "image": "",
+        "index": "",
+        "name": "超级二重唱：两个应用投入生产",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>为了从本课学到最多的知识，至少需要 1—2 年的Java经验，以及开发 Android 应用经验。如果你不具备 Android 开发经验，请先学习本课的预备课，即报名参加该课程前请先学习<a href=\"https://cn.udacity.com/course/new-android-fundamentals--ud851\" target=\"_blank\">开发Android应用课程</a>。</p>\n\n<p>访问Android设备会让你受益匪浅，但是如果你乐意也可以使用模拟器。</p>\n\n<p>我们通过 GitHub 共享代码。因此，你应当熟悉使用 GitHub 获取代码。如果你缺乏该背景知识，请学习我们的<a href=\"https://cn.udacity.com/course/how-to-use-git-and-github--ud775\" target=\"_blank\">如何使用 Git 与 GitHub</a>课程。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "通过添加库集成、材料设计、小工具、接收云端信息和更多的功能，让你的应用成为产品级的软件。",
+    "slug": "advanced-android-app-development--ud855",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "开发并发布你的应用",
+    "summary": "<p>本课程将向你讲解应用投入生产、 Sunshine 项目的使用以及我们在<a href=\"https://cn.udacity.com/course/new-android-fundamentals--ud851\" target=\"_blank\">Android 应用开发</a>课程中所创建的天气应用。学完Android的 <a href=\"http://developer.android.com/distribute/essentials/quality/core.html\" target=\"_blank\">核心应用质量指南</a>，我们能确认待执行的生产标准，然后解决遇到的每个问题，直到 Sunshine 项目可以在 Google Play 商店上发布为止。在此过程中，我们将向大家介绍许多工具和概念，包括材料设计方法、图像——处理、性能剖析及其他。此课程提供中文版本。</p>\n\n<p>喜欢这门课程？你可以继续学习“<a href=\"https://cn.udacity.com/android\" target=\"_blank\">Android 开发工程师</a>”纳米学位！</p>\n",
+    "syllabus": "<h3>第 1 课：产品质量</h3>\n\n<p>产品质量标准概况，本课的目标和结构介绍。 </p>\n\n<h3>第 2 课：整合点和错误案例 </h3>\n\n<p>确认并解决整合点，包括离线/服务器整合，以及在 Sunshine 项目应用中验证用户输入。 </p>\n\n<h3>第 3 课：可及性和本地化</h3>\n\n<p>通过增加应用可及性和本地化的简单化，从而拓展你的应用的观众。 </p>\n\n<h3>第 4 课：库文件界面</h3>\n\n<p>利用库文件介面处理图像，并允许用户利用自定义图标使其 Sunshine 项目经验个性化。</p>\n\n<h3>第 5 课：  Google 云信息传送</h3>\n\n<p>执行信息接收器，并学习如何利用 Google 云信息传送界面将信息发送到 Sunshine 项目。 </p>\n\n<h3>第 6 课：材料设计</h3>\n\n<p>将材料设计原则应用到 Sunshine 项目任务的转换、关键线路和布局。 </p>\n\n<h3>第 7 课：创建整体经验</h3>\n\n<p>创建并执行尺寸可变的小部件和浸入式的墙纸图像。 </p>\n\n<h3>第 8 课：性能</h3>\n\n<p>在Android Studio中利用性能分析工具确认性能漏洞。</p>\n\n<h3>最终项目</h3>\n\n<p>你需要将两个应用投入生产，将其从功能状态转换为生产就绪状态。此举涉及找出和处理错误案例、添加可及性特征和库文件界面。</p>\n",
+    "tags": ["java", "android"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud855/catalog_entry.teaser_video_cd78a28d63ea430c1edd89ee81d91bb7_480p_1000kbps.mp4"
+            },
+            "480p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud855/catalog_entry.teaser_video_cd78a28d63ea430c1edd89ee81d91bb7_480p.mp4"
+            },
+            "480p_ogg": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud855/catalog_entry.teaser_video_cd78a28d63ea430c1edd89ee81d91bb7_480p.ogg"
+            },
+            "720p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud855/catalog_entry.teaser_video_cd78a28d63ea430c1edd89ee81d91bb7_720p.mp4"
+            }
+        },
+        "youtube_url": "https://www.youtube.com/watch?v=5pltH5NWYgw"
+    },
+    "title": "高级 Android 应用开发（中/英）",
+    "tracks": ["Android"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud876-2_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 2,
+    "expected_duration_high": 0,
+    "expected_duration_low": 2,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>如果你想成为一名专业的<a href=\"https://cn.udacity.com/android\" target=\"_blank\">Android 开发者</a>，知道你的用户是谁、他们在哪里，以及他们如何使用你的应用至关重要。因此，你需用知道如何访问和管理你的应用的 Google Analytics。 </p>\n\n<p>本课程将介绍如何在你的应用中使用 Google Analytics，以及如何使用 Tag Manager 向你的应用发送更新信息，并管理你的 Google Analytics 的标签。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud876-2_image.png",
+    "instructors": [{
+        "bio": "<p>Jocelyn Becker 在2004年为首个外部 Google API（Adwords API）编写了开发者文档。在那之后，她一直在致力于 Google API 的文档编写及开发者培训工作。在过去的几年中，她一直在为 Google Cloud 相关产品编写培训课程，并亲自进行培训。她希望帮助更多的人知道，通过 App Engine 开发网络应用是多么容易的一件事。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/jocelyn-becker.jpg",
+        "key": "jocelyn-becker",
+        "name": "Jocelyn Becker",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Magnus Hyttsten 在 Google 担任开发技术推广工程师。他是一个坚定不移的软件技术专家，也是一个产品营销狂热者，喜欢在快节奏的环境中工作。加入 Google 之前，他在电信产业的一家公司工作。这家公司是他与别人共同创立的，自2000年便担任其CTO。他酷爱数据中心、静态类型编程语言、科技传播、以及其他还未有人尝试过的事情。目前，他非常热衷于移动设备连接至云端相关问题。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/magnus-hyttsten.jpg",
+        "key": "magnus-hyttsten",
+        "name": "Magnus Hyttsten",
+        "title": "讲师"
+    }, {
+        "bio": "<p>作为 Google 的开发技术推广工程师，Laurence Moroney 不是正在编写应用、拍摄视频或编写课程，就是在脑海中构想这些事情。他在 Mainsoft、Microsoft 等公司的技术支持部门有过多年的工作经验，具体年数连他自己也记不清了。刚刚进入计算机开发领域时，他为很多不同行业，例如赌场、监狱以及金融服务业编写监控和安保系统 。Laurence 是多本畅销书的作者，包括受大众欢迎的“Legend of the Locust”科幻小说系列，以及许多计算机编程相关书籍。他是 YouTube 频道“Coffee with a Googler”的主持人，你可以通过 @lmoroney 或 +LaurenceMoroney 联系到他。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/laurence-moroney.png",
+        "key": "laurence-moroney",
+        "name": "Laurence Moroney",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Jay Harman 在大学训练火舞表演者时，发现了自己对教学的热情。他拥有数学学位，在专注于计算机科学前，他一直以表演和当家庭教师为生。后来他加入优达学城，成为学员支持团队的一员，直接与学员探讨数据科学、机器学习以及 Android 开发。现在他是一名课程策划，与 Google 一起创建一流的 Android 课程。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/jay-harman.jpg",
+        "key": "jay-harman",
+        "name": "Jay Harman",
+        "title": "讲师"
+    }],
+    "key": "ud876-2",
+    "level": "中级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 138,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>为了最有效地学习本课程，你应当具备 Android 应用开发相关经验。如果你没有 Android 应用开发经验，请先完成 <a href=\"https://cn.udacity.com/course/new-android-fundamentals--ud851\" target=\"_blank\">Android 应用开发</a> 课程，再学习本课程。如果你有兴趣将你的应用发布至 Google Play 商店，我们还建议你学习<a href=\"https://cn.udacity.com/course/advanced-android-app-development--ud855\" target=\"_blank\">高级 Android 应用开发</a>课程。</p>\n\n<p>要跟上课程并参与课程活动，你必须使用最新版本的 <a href=\"https://developer.android.com/sdk/index.html\" target=\"_blank\">Android Studio</a>，其中包含有模拟程序，可用来对应用进行基本测试。为获得最佳体验，你需要使用最新推出的 Android 设备。 </p>\n\n<p>我们通过 GitHub 共享代码，因此，你应当熟悉使用 GitHub 获取代码。如果你缺乏该背景知识，请学习我们的<a href=\"https://cn.udacity.com/course/how-to-use-git-and-github--ud775\" target=\"_blank\">如何使用 Git 与 GitHub</a>课程。 </p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "你的用户都分布在世界的哪些角落？他们是如何使用你的应用的？想知道这些问题的答案，你需要学习这门课！",
+    "slug": "google-analytics-for-android--ud876-2",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "整合 Google Analytics 与 Tag Manager",
+    "summary": "<p>世界上哪些地区的人正在使用你的应用？他们使用频率最高的操作是什么？他们如何在你的应用里前进和返回？在本课程中，你将了解如何将相关代码添加至你的移动应用，从而向 Google Analytics 发送使用数据，找出此类问题的答案。</p>\n\n<p>课程还包括如何利用 Google Tag Manager 在无需重新部署 APK 的情况下，向你的应用发送最新信息，以及管理你的所有 Google Analytics 标签。此课程提供中文版本。</p>\n\n<p>本课程是 Google Play 服务系列课程的一部分。该系列课程介绍多种不同的 Google API，其中每门课程都简短而独立，你可以选择其中任意一门学习，也可以学习全部课程！</p>\n\n<ul>\n<li><a href=\"https://cn.udacity.com/course/google-location-services-on-android--ud876-1\" target=\"_blank\">基于 Android 的 Google 定位服务</a></li>\n<li><strong>Android 上的 Google Analytics</strong></li>\n<li><a href=\"https://cn.udacity.com/course/monetize-your-android-app-with-ads--ud876-3\" target=\"_blank\">从 Android 应用的广告中获得收入</a> </li>\n<li><a href=\"https://cn.udacity.com/course/add-google-maps-to-your-android-app--ud876-4\" target=\"_blank\">将 Google 地图添加到 Android 应用中</a> </li>\n<li><a href=\"https://cn.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5\" target=\"_blank\">将 Google 账号登录添加到 Android 应用中</a></li>\n</ul>\n\n<p>喜欢这门课程？你可以继续学习“<a href=\"https://cn.udacity.com/android\" target=\"_blank\">Android 开发工程师</a>”纳米学位！</p>\n",
+    "syllabus": "<h3>简介</h3>\n\n<p>Google Play 服务概述及此系列服务的目标及结构介绍。</p>\n\n<h3>第 1 课 — Analytics入门</h3>\n\n<p>开通 Google Analytics 账号，更新你的应用，以追踪所有页面的浏览量。</p>\n\n<h3>第 2 课 — 非自动活动追踪</h3>\n\n<p>发送事件追踪数据，并追踪你的用户如何完成整个购物过程。</p>\n\n<h3>第 3 课 — Tag Manager介绍</h3>\n\n<p>无需重新部署代码，使用 Tag Manager 更新你的应用中的数值。很酷，不是吗？</p>\n\n<h3>第 4 课 — 整合 Google Analytics 与 Tag Manager</h3>\n\n<p>使用 Tag Manager 管理你的应用中的 Analytics 标签。</p>\n\n<h3>毕业项目（2个阶段）</h3>\n\n<p><em>本项目假设你已完成本课程，以及<a href=\"https://cn.udacity.com/course/new-android-fundamentals--ud851\" target=\"_blank\">Android 应用开发</a>、<a href=\"https://cn.udacity.com/course/advanced-android-app-development--ud855\" target=\"_blank\">高级 Android 应用开发</a>及<a href=\"https://cn.udacity.com/course/google-location-services-on-android--ud876-1\" target=\"_blank\">Google Play 服务：位置与情境</a>的学习。</em></p>\n\n<p>设计、创建你自己的安卓应用。</p>\n",
+    "tags": ["android"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud876-2/catalog_entry.teaser_video_1195b4501564ada1d909da781ab39734_480p_1000kbps.mp4"
+            },
+            "480p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud876-2/catalog_entry.teaser_video_1195b4501564ada1d909da781ab39734_480p.mp4"
+            },
+            "480p_ogg": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud876-2/catalog_entry.teaser_video_1195b4501564ada1d909da781ab39734_480p.ogg"
+            },
+            "720p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud876-2/catalog_entry.teaser_video_1195b4501564ada1d909da781ab39734_720p.mp4"
+            }
+        },
+        "youtube_url": "https://www.youtube.com/watch?v=mbwty7t7B0Y"
+    },
+    "title": "Android 上的 Google Analytics（中/英）",
+    "tracks": ["Android"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud325_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 2,
+    "expected_duration_high": 0,
+    "expected_duration_low": 2,
+    "expected_duration_unit": "months",
+    "expected_learning": "<p>Just like computers, your iPhone has two types of memory: main memory (RAM) and the hard drive. In all the apps you’ve written, you’ve interacted with RAM, but this memory is limited, and it’s important that the apps you design use it as efficiently as possible. To use the RAM efficiently it is important to be able to store data on the hard drive.</p>\n\n<p>It is also important for your apps to maintain state when they are turned off. The apps you’ve built probably aren’t persistent, meaning that they don’t save their state to the device’s hard drive. As RAM is volatile, data is lost when the app stops running. In this course, you’ll learn how to persist the state of the device using NSKeyedArchiver and Core Data.</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud325_image.jpg",
+    "instructors": [{
+        "bio": "<p>Jason Schatz was a Java developer until he was charmed by the first iPhones. He has been developing apps as a consultant ever since. He enjoys writing and teaching software in equal measure, and thinks the transition to Swift will be excellent for both. He has a M.S. in Computer Science from U.C. Davis and is a faculty member at City College of San Francisco.</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/jason-schatz.jpg",
+        "key": "jason-schatz",
+        "name": "Jason Schatz",
+        "title": "讲师"
+    }],
+    "key": "ud325",
+    "level": "高级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 121,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>无需离开家门便能周游世界！凭借这款应用，你可以锁定地图上的某个位置，然后调出与该位置相关的 Flickr 图片。你将使用核心数据存储位置和图片。</p>\n",
+        "image": "",
+        "index": "",
+        "name": "虚拟旅行者",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>This course assumes extensive iOS experience. Specifically, you’ve built several apps, know how to use core iOS libraries, and are familiar with networking and MVC design principles. <a href=\"https://cn.udacity.com/course/intro-to-ios-app-development-with-swift--ud585\" target=\"_blank\">Introduction to iOS App Development with Swift</a>, <a href=\"https://cn.udacity.com/course/uikit-fundamentals--ud788\" target=\"_blank\">UIKit Fundamentals</a>, and <a href=\"https://cn.udacity.com/course/ios-networking-with-swift--ud421\" target=\"_blank\">iOS Networking with Swift</a> are good courses to take if you need to familiarize yourself with these concepts. </p>\n\n<p>The course also assumes basic familiarity with git. Specifically, you will need to be able to clone git repositories and checkout branches specific to each lesson. <a href=\"https://cn.udacity.com/course/how-to-use-git-and-github--ud775\" target=\"_blank\">How to Use Git &amp; GitHub</a> is a great option if you need to brush up on these skills.</p>\n\n<p>You will need access to a Mac computer running OS X 10.9 or later. However, you do not need an iPad or iPhone to complete the activities. All exercises can be completed using the iOS simulator built into Xcode.</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "Persisting data is a core skill for any iOS developer. Learn how to store app data to your device's hard drive using two common techniques: Core Data & NSKeyedArchiver.",
+    "slug": "ios-persistence-and-core-data--ud325",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "Storing Your App’s Data",
+    "summary": "<p>Persisting data is a core skill for any iOS developer. This course will teach you two techniques for storing data to your device’s hard drive: the NSKeyedArchiver method and the more complex, but robust Core Data.</p>\n\n<p>喜欢这门课程？加入“<a href=\"https://cn.udacity.com/course/ios-developer-nanodegree--nd003\" target=\"_blank\">iOS 开发者</a>”纳米学位，<a href=\"https://cn.udacity.com/course/ios-developer-nanodegree--nd003\" target=\"_blank\">点此免费体验</a>。</p>\n",
+    "syllabus": "<h3>Lesson 1: NSUserDefaults</h3>\n\n<p>In this lesson, you’ll learn about the memory applications for each state in an app’s life cycle. You’ll also learn to persist an app in the “not running” state using NSUserDefaults and the Documents Directory.</p>\n\n<p>We’ll introduce you to the following iOS classes in this lesson:</p>\n\n<ul>\n<li>NSUserDefaults</li>\n<li>NSFileManager</li>\n</ul>\n\n<h3>Lesson 2: NSCoder/NSKeyedArchiver</h3>\n\n<p>In this lesson, you’ll learn to persist arrays and dictionaries to the Documents directory, and persist custom structs using a Keyed Archiver.</p>\n\n<p>We’ll introduce you to the following iOS classes in this lesson:</p>\n\n<ul>\n<li>NSKeyedArchiver</li>\n<li>NSKeyedUnarchiver</li>\n</ul>\n\n<p>We’ll also introduce you to the following protocol:</p>\n\n<ul>\n<li>NSCoding</li>\n</ul>\n\n<h3>Lesson 3: Persistent Objects &amp; Core Data</h3>\n\n<p>In this lesson, you’ll be introduced to the Core Data framework, Apple’s favorite framework for the model class. You’ll learn how Core Data manages its stack using a pre-built app, “Favorite Actors.”</p>\n\n<p>We’ll introduce you to the following iOS classes in this lesson:</p>\n\n<ul>\n<li>NSManagedObject</li>\n<li>NSManagedObjectContext</li>\n<li>NSFetchRequest</li>\n</ul>\n\n<h3>Lesson 4: Core Data from Scratch</h3>\n\n<p>In this lesson, you’ll learn how to create a Core Data stack from the ground up. You will also learn how to specify relationships between you your Core Data managed objects. By the end, you’ll be proficient enough to describe every element in a Core Data project.</p>\n\n<p>We’ll introduce you to the following iOS classes in this lesson:</p>\n\n<ul>\n<li>NSManagedObjectModel</li>\n<li>NSPersistentStoreCoordinator</li>\n</ul>\n\n<h3>Lesson 5: Smart Architecture with Core Data</h3>\n\n<p>In this lesson, you’ll learn how Core Data relates to MVC design as Apple envisioned it. You will learn how to architect apps so that controller objects are notified whenever the data stored in Core Data changes, allowing the controllers to keep the views updated in ways that keep your code trim and extensible. </p>\n\n<p>We’ll introduce you to the following iOS classes in this lesson:</p>\n\n<ul>\n<li>NSFetchResultsController</li>\n<li>NSFetchResultsControllerDelegate</li>\n</ul>\n",
+    "tags": ["swift", "ios"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "iOS Persistence and Core Data",
+    "tracks": ["iOS"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-georgiatech.svg",
+        "key": "gt",
+        "name": "佐治亚理工学院"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud810_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 4,
+    "expected_duration_high": 0,
+    "expected_duration_low": 4,
+    "expected_duration_unit": "months",
+    "expected_learning": "<p>图像变得在计算中无处不在。有时候我们会忘记图像往往会捕捉物理场景中反射的光。这节课将帮助你了解图像形成与分析的基础知识，以及获得在远超像素级的层面提取信息的能力。对于想要以情景感知方式操作图像，或在来自多个情景的图像需要以适当的方式进行组合或组织时， 这些技能非常有用。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": true,
+    "graduate_groups": ["6389656274337792"],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud810_image.png",
+    "instructors": [{
+        "bio": "<p>Aaron Bobick 博士于2015年1月1日加入圣路易斯华盛顿大学，担任工程与应用科学学院院长和 James M. McKelvey 教授。在加入华盛顿大学之前，他在佐治亚理工学院交互计算学院担任教授并是该学院的创始主席，自1999年起便在此执教。他拥有麻省理工学院数学（1981 年）和计算机科学（1981 年）理学士学位及认知科学（1987 年）博士学位。他于 1992 年加入麻省理工学院媒体实验室教员队伍，是计算机视觉行为识别的先驱。1999 年，Bobick 教授加入佐治亚理工学院，成为 GVU 中心主任，这是一所在计算机视觉、图形、普适计算和人机交互 (HCI) 领域享有国际盛誉的研究中心。2005年，交互计算学院创立，Bobick 教授担任创始主席。Bobick 不仅是美国电子电气工程师协会 (IEEE) 会士，并享有美国计算机协会杰出科学家称号。他曾担任多数国际计算机视觉会议的高级领域主席，包括 IEEE 计算机视觉与模式识别会议的项目主席。此外，他还曾担任多类监督为主的计算机视觉和医学影像技术公司的顾问委员会或董事会成员。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/aaron-bobick.jpg",
+        "key": "aaron-bobick",
+        "name": "Aaron Bobick",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Irfan Essa 是位于美国佐治亚州亚特兰大的佐治亚理工学院交互计算 (iC) 学院的一名教授及计算学院 (CoC) 副院长。Essa 教授主要从事计算机视觉、计算机图形、计算感知、机器人与计算机动画、机器学习与社会计算，对视频分析与制作（例如：计算摄影学与视频、基于图像的建模与绘制等）、人机交互、人工智能、计算行为/社会科学和计算新闻学研究具有潜在影响。他在领先刊物与会议场所上发表过超过 150 篇关于这些话题的学术文章，其中一些曾获得最佳论文奖。他曾荣获美国自然科学基金委杰出青年学者奖 (NSF CAREER) 并选为美国电子电气工程师协会 (IEEE) 会士。此外，他还曾在迪斯尼研究中心 (Disney Research) 和 Google Research 担任扩展研究咨询职位及担任过卡内基梅隆大学机器人研究所兼职教员。他分别在 1990 年和 1994 年取得理学硕士和博士学位，之后在麻省理工学院媒体实验室担任研究教员（1988 年至 1996 年），后于 1996 年加入佐治亚理工学院教师队伍。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/irfan-essa.png",
+        "key": "irfan-essa",
+        "name": "Irfan Essa",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Arpan 致力于寻找解决日常问题的计算机解决方案。他对人机交互、机器人和认知科学拥有浓厚的兴趣。他获得了北卡罗莱纳州立大学的博士学位，专注于生物启发计算机视觉的研究。在优达学城，他投入了大量时间，除了为自动化工作流程设置了一些小项目外，还为他主讲的课程设计交互练习。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/arpan-chakraborty.jpg",
+        "key": "arpan-chakraborty",
+        "name": "Arpan Chakraborty",
+        "title": "北卡罗莱纳州立大学博士，优达学城课程策划"
+    }],
+    "key": "ud810",
+    "level": "中级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 21,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<ul>\n<li>数据结构：你将编写代码来构建图像、特征和几何结构的表达式。</li>\n<li>采用 NumPy 的 Matlab 和/或 Python 的充分工作知识。教学视频有时使用 Matlab 进行示范，因为讲师年纪较大，偷懒未做更换。问题集将在 Matlab 和 Python 中完成。如下方的资源备注中所提到，你可以使用 Matlab 或开源版本 Octave。</li>\n<li>此课程不只要求你掌握计算机科学 (CS) 相关知识，你还需要掌握：线性代数、矢量计算和线性代数（是的，我又说了一遍线性代数）。</li>\n<li>无需提前具备计算机视觉处理知识，但是若有信号处理相关经验更好。</li>\n</ul>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "这门课程将带你走进计算机视觉的的世界，教授基础知识、应用方法和机器学习分类。",
+    "slug": "introduction-to-computer-vision--ud810",
+    "starter": false,
+    "student_groups": ["gt-cs4495-spring"],
+    "subtitle": "佐治亚理工学院提供 CS6476",
+    "summary": "<p>此课程介绍了计算机视觉，包括图像形成、摄像机成像几何、特征检测与匹配、多视图几何（包括立体法、运动估计与跟踪）和分类的基本原理。我们将开发基本应用方法，包括寻找图像中的已知模型、通过立体法进行深度恢复、摄像机标定、图像稳定、自动对齐（如全景照片）、跟踪和行为识别。计算机视觉 (CV) 的机器学习方面我们不会涉及太多，此分类理论在机器学习 (ML) 课程中学习效果最好。</p>\n\n<p>本课程的重点在于激发方法的直觉和数学思维，通过问题集了解理论与实践之间的差别。幻灯片中的算法都非常完美。但是记住 <a href=\"http://yogiberramuseum.org/just-for-fun/yogisms/\">Yogi Berra</a> 曾经说过的话：理论上来说，理论和实践是没有差别的，但在实践中却并非如此。（爱因斯坦也说过类似的话，但谁对真实生活了解更多？）在此课程中，大多数时候你不需要应用高层次的库函数，只需使用低到中层算法来分析图像和提取结构信息。</p>\n",
+    "syllabus": "<p>以下是单元大纲，分为 10 个部分：</p>\n\n<h3>第 1 部分：简介</h3>\n\n<ul>\n<li>1A 简介</li>\n</ul>\n\n<h3>第 2 部分：计算机视觉的图像处理</h3>\n\n<ul>\n<li>2A 线性图像处理</li>\n<li>2B 模型拟合</li>\n<li>2C 频域分析</li>\n</ul>\n\n<h3>第 3 部分：摄像机模型和视图</h3>\n\n<ul>\n<li>3A 摄像机模型</li>\n<li>3B 立体几何</li>\n<li>3C 摄像机标定</li>\n<li>3D 多视图</li>\n</ul>\n\n<h3>第 4 部分：图像特征</h3>\n\n<ul>\n<li>4A 特征检测</li>\n<li>4B 特征描述器</li>\n<li>4C 模型拟合</li>\n</ul>\n\n<h3>第 5 部分：灯光</h3>\n\n<ul>\n<li>5A 光度测定</li>\n<li>5B 亮度</li>\n<li>5C 明暗成形</li>\n</ul>\n\n<h3>第 6 部分：图像移动</h3>\n\n<ul>\n<li>6A 概述</li>\n<li>6B 光流</li>\n</ul>\n\n<h3>第 7 部分：跟踪</h3>\n\n<ul>\n<li>7A 跟踪简介</li>\n<li>7B 参数化模型</li>\n<li>7C 非参数化模型</li>\n<li>7D 跟踪考虑因素</li>\n</ul>\n\n<h3>第 8 部分： 分类与识别</h3>\n\n<ul>\n<li>8A 识别简介</li>\n<li>8B 分类：生成模型</li>\n<li>8C 分类：判别模型</li>\n<li>8D 行为识别</li>\n</ul>\n\n<h3>第 9 部分：有用方法</h3>\n\n<ul>\n<li>9A 颜色空间与分割</li>\n<li>9B 二值形态学</li>\n<li>9C 3D 感知</li>\n</ul>\n\n<h3>第 10 部分：人类视觉系统</h3>\n\n<ul>\n<li>10A 视网膜</li>\n<li>10B 大脑中的视觉</li>\n</ul>\n\n",
+    "tags": ["machine learning"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "计算机视觉概论",
+    "tracks": ["佐治亚理工学院计算机科学硕士"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/sjsu.png",
+        "key": "sjsu",
+        "name": "圣何塞州立大学"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ma006_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 4,
+    "expected_duration_high": 0,
+    "expected_duration_low": 4,
+    "expected_duration_unit": "months",
+    "expected_learning": "<p>理解并学会数学推理的语言、模型和工具。\n</p>\n\n<p>\n利用数据和单位进行推理并解决问题。\n</p>\n\n<p>\n确定、分析、扩展和创建模式及函数。\n</p>\n\n<p>\n通过以下多种演示确定函数关系：图形、图表、表格和公式。\n</p>\n\n<p>\n利用数学推理和逻辑解答方程式，并写出对等形式。\n</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ma006_image.jpg",
+    "instructors": [{
+        "bio": "<p>Sandra DeSousa 是圣何塞州立大学和圣何塞城市学院的兼职讲师。在过去 6 年内，她一直都在教授发展数学（包括小课堂和大讲堂）。她最喜欢向苦学的学生讲授代数，因为她喜欢听到学生说“听明白了”。她始终都在尝试新的不同教学方法，帮助学生取得成功，并且非常开心能够与优达学城合作。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/sandra-desousa.jpg",
+        "key": "sandra-desousa",
+        "name": "Sandra DeSousa",
+        "title": "讲师"
+    }, {
+        "bio": "<p>在 2008 年从埃默里大学毕业后，Chris 担起了高校招生工作，并持续了一年时间，后来来到奥克兰的高中教授数学。他非常喜爱学习，并相信每个人都应该获得良好的教育。2012 年，Chris 加入了优达学城，开始向成千上万的学员讲授课程，并与大家分享解决问题的快乐。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/chris-saden.jpg",
+        "key": "chris-saden",
+        "name": "Chris Saden",
+        "title": "优达学城讲师"
+    }],
+    "key": "ma006",
+    "level": "初级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 136,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>几乎没有先修条件！学员应该知道乘法表，并能够熟练地加减整数（例如 -7–16）。纸和笔才是最好的工具，而不是计算器。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "通过直观呈现和解决问题学习代数的基本知识！我们将介绍丰富的各种内容，从分数到因子再到函数。",
+    "slug": "visualizing-algebra--ma006",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "模式和问题",
+    "summary": "<p>在整个课程中，我们将使用代数量化和描述周围的世界。你有没有思考过，你的闪存盘可以装下多少首歌曲？学完本课程后，你将掌握更扎实的技能，能够为问题建模、分析模式，并使用代数得出结论。</p>\n",
+    "syllabus": "<p>第 1 单元：复习基础知识</p>\n\n<p>第 2 单元：等式和不等式</p>\n\n<p>第 3 单元：线性方程的图表</p>\n\n<p>第 4 单元：方程式体系</p>\n\n<p>第 5 单元：指数和多项式</p>\n\n<p>第 6 单元：因式分解</p>\n\n<p>第 7 单元：有理表达式</p>\n\n<p>第 8 单元：开方和根数</p>\n\n<p>第 9 单元：解答二次方程式</p>\n\n<p>第 10 单元：二次方程式和应用</p>\n\n<p>第 11 单元：圆锥曲线</p>\n\n<p>第 12 单元：倒数、指数和对数</p>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ma006/catalog_entry.teaser_video_cff6f860cb1605e6e6025cada35a60bf_480p_1000kbps.mp4"
+            },
+            "480p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ma006/catalog_entry.teaser_video_638f0412c1ed86b923d7279f1c1a3390_480p.mp4"
+            },
+            "480p_ogg": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ma006/catalog_entry.teaser_video_638f0412c1ed86b923d7279f1c1a3390_480p.ogg"
+            },
+            "720p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ma006/catalog_entry.teaser_video_638f0412c1ed86b923d7279f1c1a3390_720p.mp4"
+            }
+        },
+        "youtube_url": "https://www.youtube.com/watch?v=JDlu4CM9bDg"
+    },
+    "title": "可视化代数",
+    "tracks": ["非技术类"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-georgiatech.svg",
+        "key": "gt",
+        "name": "佐治亚理工学院"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud098_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 3,
+    "expected_duration_high": 0,
+    "expected_duration_low": 3,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>Highlights of the course include a deep coverage of:</p>\n\n<ul>\n<li>cache systems and strategies</li>\n<li>how virtual memory is implemented</li>\n<li>the FAT and ext2 file systems</li>\n<li>the pthreads interface</li>\n<li>the network protocol stack and the architecture of the Internet.</li>\n</ul>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": true,
+    "graduate_groups": ["4614160013852672"],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud098_image.jpg",
+    "instructors": [{
+        "bio": "<p>Charles Brubaker 在 2009 年获得佐治亚理工学院计算机科学博士学位。随后的四年在高中教授计算机科学，同时在亚特兰大的佩斯学院 (Pace Academy) 担任篮球教练。在 2012 年，受优达学城启发，他开始在平板电脑上录制课程，创建在线测试题，并通过系统自动对作业评分向学生提供即时反馈。这次创业的成功让他坚信优达学城代表教育的未来趋势，于是他在 2013 年夏天加入优达学城。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/charles-brubaker.jpg",
+        "key": "charles-brubaker",
+        "name": "Charles Brubaker",
+        "title": "讲师"
+    }],
+    "key": "ud098",
+    "level": "中级",
+    "new_release": true,
+    "open_for_enrollment": false,
+    "order": 125,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>No prior knowledge of Operating System concepts is assumed; however, the course is dense, since it is intended as a refresher for the student who already has some exposure to OS concepts.</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "This course covers the essential Operating Systems concepts students need in preparation for the rest of the GT \"Advanced Operating Systems\" sequence.",
+    "slug": "gt-refresher-advanced-os--ud098",
+    "starter": false,
+    "student_groups": ["6215315832700928", "gt-cs6210", "gt-cs6210-spring", "gtpe-cs6210-spring"],
+    "subtitle": "Optional background course for GT CS6210",
+    "summary": "<p>The course covers the basics of Memory Systems, File Systems, Multithreaded Programming, and Networking. Together these form a strong foundation from which the student can understand cutting edge research in the areas of Virtualization, Distributed Systems, and Internet-scale services in the GT <em>Advanced Operating Systems</em> sequence.</p>\n",
+    "syllabus": "<h3>Lesson 1: Memory Systems</h3>\n\n<h3>Lesson 2: File Systems</h3>\n\n<h3>Lesson 3: Multithreaded Programming</h3>\n\n<h3>Lesson 4: Networking</h3>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "GT - Refresher - Advanced OS",
+    "tracks": ["佐治亚理工学院计算机科学硕士"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud837_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 4,
+    "expected_duration_high": 0,
+    "expected_duration_low": 4,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>可能你现在是一名技术消费者，这门课程将帮助你成为一名技术创造者。你的创造力只受限于你的想象力！</p>\n\n<p>Android 系统驱动着全球 14 亿部、82% 以上智能手机，为世界各地的开发人员提供了令人难以置信的创新机会。未来第一次登录互联网的数十亿人中大部分都将是通过移动设备。编写 Android 应用，能够为你提供去赢得这些用户的最好机会，影响你的社区，甚至影响我们的世界。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": true,
+    "graduate_groups": ["5101269289271296"],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud837_screenshot.jpg",
+    "instructors": [{
+        "bio": "<p>Katherine Kuan 是 Google 的开发技术推广工程师。在此之前，她是 Android Apps 团队的软件工程师，针对 Google Keep、Google Play 和 People app（之前叫作 Contacts）。她非常热衷于帮助别人编写能改进他们的社区的应用。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/katherine_kuan.jpg",
+        "key": "katherine-kuan",
+        "name": "Katherine Kuan",
+        "title": "Google Android 技术导师"
+    }, {
+        "bio": "<p>Kunal Chawla 在德克萨斯大学奥斯汀分校获得计算机科学学士学位之后，先做了三年程序员，然后决定转入教育领域。他在中学讲授自然科学课程，参加 Google 的远程学习计划，并在加入优达学城之前，获得了斯坦福大学的教育技术硕士学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/kunal-chawla.jpg",
+        "key": "kunal-chawla",
+        "name": "Kunal Chawla",
+        "title": "优达学城讲师"
+    }, {
+        "bio": "<p>Lyla Fujiwara 是优达学城的课程策划之一，他在三个大洲教授数学和计算机科学。在加入优达学城之前，她在卢旺达担任和平部队志愿者，在那里她与 Gashora 女子学院的高材生们一起工作。工作之余，她喜欢跳舞、财迷、画画、桌游以及在半岛周围骑自行车。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/lyla-fujiwara.jpg",
+        "key": "lyla-fujiwara",
+        "name": "Lyla Fujiwara",
+        "title": "优达学城课程策划"
+    }],
+    "key": "ud837",
+    "level": "初级",
+    "new_release": false,
+    "open_for_enrollment": true,
+    "order": 3,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>在这个项目中，你将编写自己的 Android 应用——从概念阶段一直到构建出完整的应用，并择机在 Google Play 应用商店发布。你的目标是创建一个教育类应用，根据你选择的特定主题，向用户传授五项新技能。</p>\n",
+        "image": "",
+        "index": "",
+        "name": "最终项目：五项新技能",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>如果你刚刚接触编程，不知道应该从哪里开始，那么这门课程正好适合你！ </p>\n\n<p>我们将使用 Android Studio 软件编写应用，所以，为了学习本课程，你应该拥有一台可以运行 Android Studio 的电脑（详细信息，请参阅 Android Studio 的<a href=\"https://developer.android.com/sdk/index.html#Requirements\" target=\"_blank\">系统要求</a>）。别担心，你不需要提前安装 Android Studio 软件，作为课程的一部分，我们将提供详细的安装说明。</p>\n\n<p>在学习过程中能使用 Android 设备将会很有帮助，但也不是必需的。</p>\n\n<p>最后，<strong>最重要的</strong>前提是学习新技能的强烈愿望，相信你具备这样的热情！</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "学习 Android 和 Java 编程基础知识，迈出你成为 Android 应用开发者之旅的第一步！",
+    "slug": "android-development-for-beginners--ud837",
+    "starter": true,
+    "student_groups": ["6742491451883520", "4989014816063488", "bd-ud837-students"],
+    "subtitle": "如何编写 Android 应用",
+    "summary": "<p>学习 Android 和 Java 编程基础知识，迈出你成为 Android 应用开发者之旅的第一步！</p>\n\n<p>本课程专门为刚开始学习编程，并希望学习如何编写 Android 应用的学员量身设计。学习本课程，你不需要任何编程经验。如果你一直使用智能手机上网和与朋友聊天，那么，你就是我们完美的目标学员！</p>\n\n<p>学习任何新技能都会面临挑战。在学习编写 Android 应用的旅途上，我们将与你携手并肩。但是，为了在本课程的学习中取得最大收获，你必须对学习充满热情，并在你的日程表上安排学习时间。</p>\n\n<p>在本课程结束时，你将编写两个简单（但功能强大）的应用，并且可以与你的朋友分享。我们还希望你能通过这门课程，学习到足够的基础知识，以决定如何最好地在你的 Android 应用开发者职业旅程中前进，如果你对这一职业情有独钟。此课程提供中文版本。</p>\n\n<p>喜欢这门课程？你可以继续学习“<a href=\"https://cn.udacity.com/android\" target=\"_blank\">Android 开发工程师</a>”纳米学位！</p>\n",
+    "syllabus": "<h3>第 1 课 — 构建布局</h3>\n\n<p>在手机屏幕上布置你的应用。在这节课程中，你将学习使用 XML 标记语言布置 Android 应用。你将创建视图，即显示文本和图像的 Android 应用布局基本构建块。然后，你将在这些屏幕上对你的文本和图像进行定位。这种高度互动课程，鼓励通过优达学城 XML 自定义图标程序中的编码挑战进行试验。</p>\n\n<h3>习题 1</h3>\n\n<p>为你的手机创建一个生日贺卡应用。你将首先安装 Android Studio，一个专业开发人员用于编写 Android 应用的专用程序。然后，从你的电脑中将你创建的简单应用转移到你的手机。之后，你将运用在第 1 课中学习到的所有概念构建你的生日贺卡应用，并安装在你的手机上，向你的朋友和家人展示。</p>\n\n<h3>第 2 课 — 为应用添加交互功能</h3>\n\n<p>利用Java，创建一个交互式咖啡订购应用！你将从在Java中编写简单的语句开始，为你的应用添加交互功能。然后，你将添加能触发事件的按钮。你将最终使用编程的基本概念——变量，去跟踪订购的所有咖啡饮料。</p>\n\n<h3>习题 2</h3>\n\n<p>通过创建一个篮球比赛得分跟踪应用，巩固在第 2 课中学习到的技能。该习题的第一部分将巩固如何编写和使用变量，然后再开始编写应用。</p>\n\n<h3>第 3 课 — 使用 Android Framework 框架和控制流</h3>\n\n<p>更深入地利用 Android Framework，完成完全使用 Java 的咖啡订购应用！你会更详细地了解 Android 如何在后台工作，完成学习面向对象编程的若干最初步骤。你将为应用增加给咖啡添加配料的功能，并显示客户购买咖啡时的详细订单。</p>\n",
+    "tags": ["java", "android"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "Android 开发入门（中/英）",
+    "tracks": ["Android"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 3,
+    "expected_duration_high": 0,
+    "expected_duration_low": 3,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>用户体验经常受到网络连接不佳的影响，而开发者很少能够重视起用户体验。开发者在构建应用时使用的是可靠的互联网和运行速度很快的计算机。他们在理想环境下体验自己创建的应用，几乎始终都优先考虑在线情况。但是如果你真的侧重于用户体验，就需要了解你的应用在所有情形下的运行情况。因此构建优先考虑离线情况的应用非常关键。</p>\n\n<p>为了构建外观和体验始终正常（而不是在最佳情形下）的应用，你不仅需要学习新的技巧和工具，还需要改变方法和思维方式。这门课程将帮助你实现这些。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud899_image.png",
+    "instructors": [{
+        "bio": "<p>Michael 是一名自学成才的全栈 Web 开发者和开源倡导者。在加入优达学城之前，他已有 10 年的工作经历，为世界上一些要求最严苛的情报组织开发机密应用。由于之前的工作性质，他目前仍拥有有效的绝密安全许可，除非你也有同等许可，否则关于他的信息我们只能告诉你这么多。他在业余时间喜欢打彩弹、玩视频游戏，以及花时间陪 3 个可爱的孩子玩耍。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/michael-wales.jpg",
+        "key": "michael-wales",
+        "name": "Michael Wales",
+        "title": "优达学城讲师，课程策划"
+    }],
+    "key": "ud899",
+    "level": "中级",
+    "new_release": true,
+    "open_for_enrollment": false,
+    "order": 103,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>你将构建一个应用，允许用户选择启程和抵达火车站，并查看列车、时刻和行程持续时间。提供默认列车时刻表，以供在应用离线情况下使用。如果存在网络连接，应用将查询提供列车和列车晚点信息“实时”状态更新的终端，获取最新信息。</p>\n",
+        "image": "",
+        "index": "",
+        "name": "公共交通应用",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>这门课程面向的是具有 JavaScript 经验的网络开发者，包括以下经验：</p>\n\n<ul>\n<li>面向对象的 JavaScript</li>\n<li>使用原生 Promise</li>\n<li>从终端运行 Node 网络服务器</li>\n</ul>\n\n<p>学员还应该熟练掌握 HTML 和 CSS，具有创建网络应用方面的经验。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "学习如何使用 Service Workers 和 IndexedDB 开发离线优先的网络应用。",
+    "slug": "offline-web-applications--ud899",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "使用 IndexedDB 和 Service Worker",
+    "summary": "<p>这门课程主要侧重于用户体验，让开发者明白优先考虑离线情况是确保应用能够在所有情形下（而不是理想情况下）都能正常运转的最佳方式。你将学习判断网络连接优良、很差、断断续续和断开之间的区别，并学会制作可以在这些条件下切换自如的应用。</p>\n\n<p>你将运用在这门课程里学到的技能构建一款可以同时在联网状态和离线状态下正常运转的应用，并在联网时加载新的数据。你将成为缓存大师！你的网络应用就像原生应用一样与网络进行互动。这样的话，即使在网络连接受到影响的传统情形下也能提供更佳的用户体验，例如位于火车隧道中，需要使用有无数人使用的会议 Wi-Fi，或者经过没有移动信号的通信盲区。</p>\n",
+    "syllabus": "<p>第 1 课：优先考虑离线情况的好处</p>\n\n<p>第 2 课：介绍 Service Worker</p>\n\n<p>第 3 课：IndexedDB 和缓存</p>\n",
+    "tags": ["javascript"],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "离线网络应用",
+    "tracks": ["网站开发"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-google.svg",
+        "key": "google",
+        "name": "Google"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud882_banner.png",
+    "capped": false,
+    "enables_profiles": false,
+    "expected_duration": 2,
+    "expected_duration_high": 0,
+    "expected_duration_low": 2,
+    "expected_duration_unit": "weeks",
+    "expected_learning": "<p>快速加载和自适应内容可以提高转化率。网络上的图片远不止 <code>&lt;img&gt;</code> 这么简单。<code>srcset</code> 等属性、使用 CSS 的标记技巧、字体和内嵌图片以及全新的 <code>&lt;picture&gt;</code> 元素现在可以帮助你为用户打造最棒的体验。这门课程将帮助你制作最高品质的图片，同时图片大小非常小。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": false,
+    "graduate_groups": [],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud882_image.png",
+    "instructors": [{
+        "bio": "<p>Cameron 是一位充满激情的教育工作者和程序员，非常热爱网页开发。他专门为优达学城创建编程类课程。来此之前，他曾是西雅图创业公司 LearnBIG 的内容主管和网页开发者。他在田纳西州纳什维尔的一所高中教了四年课程，主要教物理和化学。在此期间，他率先利用视频游戏“传送门 2 (Portal 2)”来讲述物理知识。Cameron 荣获了范德堡大学物理和天文学本科学位，并获得贝尔蒙特大学的教育学硕士学位。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/cameron-pittman.jpg",
+        "key": "cameron-pittman",
+        "name": "Cameron Pittman",
+        "title": "优达学城讲师，高级内容策划"
+    }, {
+        "bio": "<p>Sam Dutton 是 Google 的一名开发大使。他还每月在 <a href=\"http://medianews.me\" target=\"_blank\">medianews.me</a> 上发布媒体技术简报，并负责维护 <a href=\"http://simpl.info\" target=\"_blank\">simpl.info</a>，后者主要提供最简单的 HTML、CSS 和 JavaScript 示例。Sam 出生在南澳大利亚，在悉尼上的大学，从 1986 年起一直定居在伦敦。他设计并编写了大量的网站，包括之前版本的 <a href=\"http://itn.co.uk\" target=\"_blank\">itn.co.uk</a> 和 <a href=\"http://deccaclassics.com\" target=\"_blank\">deccaclassics.com</a>。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/sam-dutton.png",
+        "key": "sam-dutton",
+        "name": "Sam Dutton",
+        "title": "讲师"
+    }],
+    "key": "ud882",
+    "level": "中级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 98,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [{
+        "description": "<p>你将使用 HTML 和 CSS 将设计原型变为一个真正的网页。你将开发一个响应式网页，显示你在前端开发课程中将完成的每个实战项目的图像、描述和链接。</p>\n",
+        "image": "",
+        "index": "",
+        "name": "搭建作品集网站",
+        "short_summary": ""
+    }],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>你应该掌握简单的 HTML、CSS 和 JavaScript。具有图片制作和处理工具使用经验更佳。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "学习如何让图片成为响应式设计工作流程的一部分。",
+    "slug": "responsive-images--ud882",
+    "starter": false,
+    "student_groups": [],
+    "subtitle": "文件更小、加载速度更快",
+    "summary": "<p>你知道吗？加载网页时，平均 <strong>60%</strong> 以上的流量都来加载图片。</p>\n\n<p>在这门课程里，你将学习如何在现代网络环境中使用图片，以便你的图片在任何设备上都看起来效果更棒，并且快速加载。</p>\n\n<p>在学习期间，你将掌握各种技能和技巧，能够轻松地将响应式图片整合到你的开发流程中。学完这门课程后，你将能够开发可以适应不同的视口尺寸及使用场景的图片。此课程提供中文版本。</p>\n\n<p>喜欢这门课程？你可以继续学习“<a href=\"https://cn.udacity.com/fend\" target=\"_blank\">前端开发工程师</a>”纳米学位！</p>\n",
+    "syllabus": "<h3>第 1 课：准备工作</h3>\n\n<p>在开始制作自适应图片之前，你需要先调试移动设备。这节课将帮助你熟悉开发者工具和移动调试功能。</p>\n\n<h3>第 2 课：单位、格式和环境</h3>\n\n<p>如果没有衡量标准，何来优化？在这节课里，你将对比网络上的各种图片，并使用不同的单位来衡量这些图片。</p>\n\n<p>同时，你还将设置开发环境，以便响应式图片完全整合到你的工作流程中。</p>\n\n<p>学完这节课后，你将开始构建响应式博客项目，并有机会将学到的响应式图片知识运用到实践中！</p>\n\n<p>涉及内容：</p>\n\n<ul>\n<li>图片大小</li>\n<li>文件类型</li>\n<li>自动化工具</li>\n</ul>\n\n<h3>第 3 课：带标记的图片</h3>\n\n<p>并非所有图片都必须是 .JPG 或 .PNG 格式。这节课将学习使用标记（例如 CSS）和图标字体来创建响应式图像。虽然标记非常强大，因为它们本身就是响应式的，但是经常体积极小，比传统图片体积要小得多！</p>\n\n<p>学完这节课后，你将用标记技巧来替代外部图片，并利用字体图标向响应式博客项目中添加社交媒体图标！</p>\n\n<p>涉及内容</p>\n\n<ul>\n<li>CSS 技巧</li>\n<li>内连图片</li>\n<li>Unicode</li>\n<li>图标字体</li>\n</ul>\n\n<h3>第 4 节课：完全响应式</h3>\n\n<p>最后精彩时刻到了！在这节课里，你将使用新的 <code>&lt;picture&gt;</code> 元素使你的图片完全自适应！在此期间，你将用到 <code>srcset</code> 和 <code>sizes</code> 属性。同时还将学习为什么 <code>alt</code> 属性对于视力受损的用户很重要。</p>\n\n<p>学完这节课后，你将通过实施 <code>&lt;picture&gt;</code> 在各种屏幕宽度和像素比的设备上清晰展示的图片，创建一个完全自适应的博客项目。</p>\n\n<p>涉及内容：</p>\n\n<ul>\n<li><code>&lt;picture&gt;</code></li>\n<li><code>sizes</code> 属性</li>\n<li><code>srcset</code> 属性</li>\n<li><code>alt</code> 属性</li>\n</ul>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud882/catalog_entry.teaser_video_7cc36d1bb9c46ae0c2b60de229e795de_480p_1000kbps.mp4"
+            },
+            "480p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud882/catalog_entry.teaser_video_7cc36d1bb9c46ae0c2b60de229e795de_480p.mp4"
+            },
+            "480p_ogg": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud882/catalog_entry.teaser_video_7cc36d1bb9c46ae0c2b60de229e795de_480p.ogg"
+            },
+            "720p_mp4": {
+                "uri": "http://d17h27t6h515a5.cloudfront.net/alt/Node.ud882/catalog_entry.teaser_video_7cc36d1bb9c46ae0c2b60de229e795de_720p.mp4"
+            }
+        },
+        "youtube_url": "https://www.youtube.com/watch?v=1NiVmiMNp-U"
+    },
+    "title": "响应式图片（中/英）",
+    "tracks": ["网站开发"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}, {
+    "affiliates": [{
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/logo-color-georgiatech.svg",
+        "key": "gt",
+        "name": "佐治亚理工学院"
+    }],
+    "apply_required": false,
+    "available": true,
+    "banner_image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud805_banner.png",
+    "capped": true,
+    "enables_profiles": false,
+    "expected_duration": 3,
+    "expected_duration_high": 0,
+    "expected_duration_low": 3,
+    "expected_duration_unit": "months",
+    "expected_learning": "<p>软件工程不仅仅是编程，也不只是构建一个技术栈。</p>\n\n<p>本课程介绍软件工程作为一个迭代、系统过程的概念。在学到开发生命周期、设计过程和软件测试时，你将学习使用 Github 和 Eclipse。</p>\n\n<p>此课程将向你展示从技术层面理解软件产品所需的技能和过程，使你成为工程团队中更有效的开发人员。</p>\n",
+    "faq": "",
+    "featured": false,
+    "features": null,
+    "full_course_available": true,
+    "graduate_groups": ["4759564184977408"],
+    "hero_video": "",
+    "hero_video_poster": "",
+    "hero_video_id": "",
+    "hiring_affiliates": null,
+    "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/ud805_image.jpg",
+    "instructors": [{
+        "bio": "<p>Alessandro (Alex) Orso 是佐治亚理工学院计算机学院的一名教授。他拥有意大利米兰理工大学的理科硕士和哲学博士学位。Alex 的研究领域为软件工程，侧重软件测试和程序分析。他已经在学术界和工业界教授软件工程相关的课程超过 15 年（以三种不同的语言教学）。他热衷于开发能提升软件可靠性、安全性和可信赖性的技术与工具，并在真实系统中验证这些技术。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/alex-orso.png",
+        "key": "alex-orso",
+        "name": "Alex Orso",
+        "title": "讲师"
+    }, {
+        "bio": "<p>Sarah Spikes 在斯坦福大学获得计算机科学学士和硕士学位，并花大量时间担任助教工作。她在 Google 担任过两年的软件工程师，对教学的热爱让她加入优达学城。在闲暇时间，她喜欢音乐剧表演、制作果汁冰糕和攀岩。</p>\n",
+        "image": "https://s3.cn-north-1.amazonaws.com.cn/static-assets/sarah-spikes.jpg",
+        "key": "sarah-spikes",
+        "name": "Sarah Spikes",
+        "title": "讲师"
+    }],
+    "key": "ud805",
+    "level": "中级",
+    "new_release": false,
+    "open_for_enrollment": false,
+    "order": 93,
+    "public_listing": true,
+    "program_syllabus": {
+        "detail_pdf_url": "",
+        "lessons": null,
+        "syllabus_prep": "",
+        "syllabus_prereq": "",
+        "projects": null,
+        "related_courses": null
+    },
+    "projects": [],
+    "related_degree_keys": [],
+    "required_knowledge": "<p>最好非常熟悉 Android 开发（如不熟悉，可以学习我们的 <a href=\"https://cn.udacity.com/course/new-android-fundamentals--ud851\" target=\"_blank\">Android 应用开发</a>课程）。</p>\n",
+    "selling_points": {
+        "images_url": null,
+        "selling_keys": null
+    },
+    "short_summary": "这门课程将探索需求工程、架构和设计、测试和维护以及软件质量。",
+    "slug": "software-development-process--ud805",
+    "starter": false,
+    "student_groups": ["6693798396035072", "5373213853351936"],
+    "subtitle": "从创意到产品",
+    "summary": "<p><i>此课程在佐治亚理工学院的课程编号为 CS6300，是该校<a href=\"http://www.omscs.gatech.edu/\">在线硕士学位 (OMS) </a>的一部分。在此学习这门课程并不会获得 OMS学位的学分。</i></p>\n\n<p>在这门课程中，你将学习如何为开发项目选择和实现理想的软件过程。通过 Orso 教授引人入胜的举例讲解和与行业内部人士的访谈对话，你将学习软件工程的概念和实践知识。本课程涵盖需求工程、架构和设计、测试和维护以及软件质量。</p>\n\n<p>本课程的目标是帮助你掌握必要的技能，来定义需求、设置集成开发环境（IDE）、学习 Git（和 Github！），并使用统一建模语言（UML）设计和构建一个 Android 应用。我们还将呈现几个对软件项目发布前的准备工作较为重要的测试实践和重构技术。</p>\n\n<p>虽然每个使用软件的人都应具备这些技能，但它们对于软件工程师和工程经理来说尤为重要。</p>\n",
+    "syllabus": "<h3>第 1 课：介绍和概述</h3>\n\n<ul>\n<li>软件工程的重要性</li>\n<li>软件工程学科</li>\n<li>软件危机</li>\n<li>软件阶段</li>\n</ul>\n\n<h3>第 2 课：生命周期模型</h3>\n\n<ul>\n<li>简介</li>\n<li>需求工程（Requirements Engineering）</li>\n<li>设计</li>\n<li>维护</li>\n<li>软件过程模型介绍</li>\n<li>瀑布型过程</li>\n<li>螺旋型过程</li>\n<li>进化式原型过程</li>\n<li>统一软件开发过程</li>\n<li>敏捷开发模式</li>\n<li>选择模式</li>\n<li>生命周期文档</li>\n</ul>\n\n<h3>第 3 课：集成开发环境</h3>\n\n<ul>\n<li>Eclipse 简介</li>\n<li>集成开发环境（IDE） 概述</li>\n<li>插件</li>\n<li>Eclipse 演示：创建 Java 项目</li>\n<li>Eclipse 演示：创建类</li>\n<li>Eclipse 演示：运行配置</li>\n<li>Eclipse 演示：调试</li>\n</ul>\n\n<h3>第 4 课：版本控制系统</h3>\n\n<ul>\n<li>John Britton 访谈</li>\n<li>版本控制系统介绍</li>\n<li>两种主要的版本控制系统（VCS）类型</li>\n<li>Git 入门</li>\n<li>Git 工作流</li>\n<li>Git 演示：Git 入门</li>\n<li>Git 演示：Git + Eclipse</li>\n<li>Git 演示：Github</li>\n<li>Git 回顾：本地代码库</li>\n<li>Git 回顾：远程代码库</li>\n</ul>\n\n<h3>第 5 课：需求工程</h3>\n\n<ul>\n<li>Jane Cleland-Huang 访谈</li>\n<li>一般需求工程定义</li>\n<li>软件密集型系统</li>\n<li>功能性和非功能性需求</li>\n<li>用户和系统需求</li>\n<li>建模需求</li>\n<li>分析需求</li>\n<li>需求优先级</li>\n<li>需求工程过程</li>\n</ul>\n\n<h3>第 6 课：OO 软件和 UML</h3>\n\n<ul>\n<li>面向对象概念简介</li>\n<li>UML 结构图：类图</li>\n<li>类图：创建提示</li>\n<li>UML 结构图：组件图</li>\n<li>UML 结构图：部署图</li>\n<li>UML 行为图：用例</li>\n<li>使用案例图：创建提示</li>\n<li>UML 行为图：序列</li>\n<li>UML 行为图：状态转换图</li>\n</ul>\n\n<h3>第 7 课：软件架构</h3>\n\n<ul>\n<li>Nenad Medvidovic 访谈</li>\n<li>什么是软件架构？</li>\n<li>规定性与描述性架构</li>\n<li>架构演变</li>\n<li>架构退化</li>\n<li>架构恢复</li>\n<li>架构元素</li>\n<li>组件、连接器和配置</li>\n<li>部署架构视角</li>\n</ul>\n\n<h3>第 8 课：分析与设计概述</h3>\n\n<ul>\n<li>分析要求</li>\n<li>优化类和属性</li>\n<li>添加属性</li>\n<li>识别操作</li>\n<li>优化类图</li>\n</ul>\n\n<h3>第 9 课：设计模式</h3>\n\n<ul>\n<li>模式目录</li>\n<li>模式格式</li>\n<li>工厂方法模式</li>\n<li>策略模式</li>\n<li>选择模式</li>\n<li>负设计模式</li>\n</ul>\n\n<h3>第 10 课：统一软件过程</h3>\n\n<ul>\n<li>用例驱动</li>\n<li>初始阶段</li>\n<li>精化阶段</li>\n<li>构造阶段</li>\n<li>移交阶段</li>\n<li>阶段和迭代</li>\n</ul>\n\n<h3>第 11 课：常见概念</h3>\n\n<ul>\n<li>故障、过失和错误</li>\n<li>验证方法</li>\n<li>各种方法的优缺点</li>\n<li>测试简介</li>\n<li>单元测试级别</li>\n<li>Alpha 和 Beta 测试</li>\n<li>黑白盒测试简介</li>\n</ul>\n\n<h3>第 12 课：黑盒测试</h3>\n\n<ul>\n<li>系统功能测试方法</li>\n<li>测试数据选择</li>\n<li>类别分区方法</li>\n<li>制定和评估测试用例规格</li>\n<li>按测试用例规格生成测试用例</li>\n<li>基于模型的测试</li>\n<li>有限状态机</li>\n</ul>\n\n<h3>第 13 课：白盒测试</h3>\n\n<ul>\n<li>覆盖标准简介</li>\n<li>声明覆盖</li>\n<li>控制流程图</li>\n<li>测试标准包含</li>\n<li>修订的条件（MC）/判定覆盖（DC）</li>\n</ul>\n\n<h3>第 14 课：敏捷开发方法</h3>\n\n<ul>\n<li>变更的成本</li>\n<li>敏捷软件开发</li>\n<li>极限编程（XP）</li>\n<li>XP 的价值和原则</li>\n<li>先行测试开发</li>\n<li>重构</li>\n<li>结对编程</li>\n<li>连续集成</li>\n<li>测试策略</li>\n<li>Scrum 高级阶段</li>\n</ul>\n\n<h3>第 15 课：软件重构</h3>\n\n<ul>\n<li>重构原因</li>\n<li>重构演示</li>\n<li>重构风险</li>\n<li>重构成本</li>\n<li>什么时候不该重构</li>\n</ul>\n",
+    "tags": [],
+    "teaser_video": {
+        "transcodings": {
+            "480p_1000kbps_mp4": {},
+            "480p_mp4": {},
+            "480p_ogg": {},
+            "720p_mp4": {}
+        }
+    },
+    "title": "软件开发流程",
+    "tracks": ["佐治亚理工学院计算机科学硕士", "软件工程"],
+    "why_nd_summary": "",
+    "why_nd_data": ""
+}]

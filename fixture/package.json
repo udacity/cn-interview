@@ -1,0 +1,38 @@
+{
+  "name": "cn-interview",
+  "version": "1.0.0",
+  "description": "Coding tests for Udacity Shanghai Office",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "standard **/*.js",
+    "test": "tap test/*.test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/udacity/cn-interview.git"
+  },
+  "keywords": [
+    "Coding",
+    "tests"
+  ],
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "author": "xeodou@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udacity/cn-interview/issues"
+  },
+  "homepage": "https://github.com/udacity/cn-interview#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "request": "^2.81.0",
+    "urllib": "^2.21.2"
+  },
+  "devDependencies": {
+    "standard": "^10.0.1",
+    "tap": "^10.3.1"
+  }
+}
