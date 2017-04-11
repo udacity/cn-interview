@@ -1,0 +1,260 @@
+@charset "UTF-8";
+* {
+  box-sizing: border-box;
+}
+
+blockquote,
+body,
+button,
+dd,
+dl,
+dt,
+fieldset,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+input,
+legend,
+li,
+ol,
+p,
+pre,
+td,
+textarea,
+th,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font: 12px/1.5 Microsoft Yahei, 微软雅黑;
+  color: #333;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+}
+
+em {
+  font-style: normal;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  border: 0;
+}
+
+button,
+input,
+select,
+textarea {
+  font-size: 100%;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.wrapper {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.top {
+  width: 100%;
+  height: 100px;
+  padding: 20px;
+}
+
+.top-title {
+  display: inline-block;
+  font-size: 32px;
+  color: #307699;
+}
+
+.search {
+  float: right;
+  width: 454px;
+  height: 44px;
+  font-size: 18px;
+  color: #666;
+  border: 1px solid #ddd;
+  margin-top: 10px;
+}
+
+.search input[type="text"] {
+  float: left;
+  width: 400px;
+  height: 42px;
+  border: 0;
+  outline: none;
+  padding: 0 15px;
+}
+
+.search button {
+  float: left;
+  width: 52px;
+  height: 42px;
+  border: 0;
+  outline: 0;
+  background: url(img/search_ico.png) center no-repeat;
+  cursor: pointer;
+}
+
+.main {
+  margin-top: 20px;
+}
+
+.left-nav {
+  float: left;
+  width: 320px;
+}
+
+.classify {
+  width: 320px;
+}
+
+.classify h3 {
+  font-size: 12px;
+  color: #666;
+  padding-left: 20px;
+}
+
+.classify ul li a {
+  display: inline-block;
+  width: 100%;
+  height: 24px;
+  line-height: 24px;
+  font-size: 14px;
+  color: #399cc8;
+  padding-left: 20px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.classify ul li a:hover {
+  background: #f3f3f3;
+}
+
+.separate-line {
+  display: block;
+  width: 280px;
+  height: 1px;
+  background: #dcdcdc;
+  margin: 20px auto;
+}
+
+.content {
+  float: right;
+  width: 880px;
+}
+
+.introduction {
+  width: 100%;
+  height: 190px;
+  background: #1f8fc1;
+  padding: 10px;
+}
+
+.introduction h3 {
+  font-size: 32px;
+  color: #fff;
+  font-weight: normal;
+  margin: 15px 0;
+}
+
+.introduction p {
+  font-size: 16px;
+  color: #fff;
+}
+
+.course-list {
+  margin-top: 20px;
+}
+
+.course-item {
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
+
+.course-item:after {
+  display: table;
+  content: '';
+  clear: both;
+}
+
+.course-img {
+  float: left;
+  width: 202px;
+}
+
+.course-img img {
+  border: 1px solid #ddd;
+}
+
+.course-info {
+  float: left;
+  width: 650px;
+  padding-left: 30px;
+}
+
+.course-title {
+  display: inline-block;
+}
+
+.course-title h3 {
+  font-size: 18px;
+  color: #399cc8;
+  font-weight: normal;
+}
+
+.course-title .course-num {
+  color: #666;
+}
+
+.course-level {
+  float: right;
+  margin-right: 30px;
+  font-size: 15px;
+  color: #333;
+}
+
+.summary {
+  margin-top: 20px;
+}
+
+.summary h3 {
+  font-size: 18px;
+  color: #000;
+  font-weight: normal;
+}
+
+.summary p {
+  margin-top: 15px;
+  font-size: 16px;
+  color: #666;
+}
