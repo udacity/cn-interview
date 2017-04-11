@@ -20,7 +20,7 @@ module.exports = () => {
   router.get('/courses', (req, res, next) => {
     const {level, track} = req.query
     res.json(courses.filter(c => level ? level === c.level : true)
-      .filter(c => track ? !~c.tracks.indexOf(track) : true))
+      .filter(c => track ? !!~c.tracks.indexOf(track) : true))
   })
 
   return router
