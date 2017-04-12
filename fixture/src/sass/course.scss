@@ -131,7 +131,10 @@ $font-color: #399cc8;
 .course-img {
   float: left;
   width: 202px;
+  height: 107px;
   img {
+    width: 200px;
+    height: 105px;
     border: 1px solid #ddd;
   }
 }
@@ -145,9 +148,11 @@ $font-color: #399cc8;
 .course-title {
   display: inline-block;
   h3 {
-    font-size: 18px;
-    color: $font-color;
-    font-weight: normal;
+    a {
+      font-size: 18px;
+      color: $font-color;
+      font-weight: normal;
+    }
   }
   .course-num {
     color: #666;
@@ -157,20 +162,37 @@ $font-color: #399cc8;
 .course-level {
   float: right;
   margin-right: 30px;
-  font-size: 15px;
-  color: #333;
+  span {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: #dcdcdc;
+    margin-bottom: -3px;
+  }
+  span.dark {
+    background: #666;
+  }
+  p {
+    display: inline-block;
+    font-size: 15px;
+    color: #333;
+    margin-left: 8px;
+  }
 }
 
-.summary {
-  margin-top: 20px;
+.course-summary {
+  margin-top: 10px;
   h3 {
     font-size: 18px;
     color: #000;
     font-weight: normal;
+    margin-bottom: 5px;
   }
   p {
-    margin-top: 15px;
     font-size: 16px;
+    color: #666;
+  }
+  a {
     color: #666;
   }
 }

@@ -42,15 +42,11 @@ app.get('/', function(req, res, next) {
 })
 
 app.get('/courses', function(req, res, next) {
-  console.log(req.headers.host + '/api' + req.url);
   urllib.request(req.headers.host + '/api' + req.url, {dataType: 'json'}, function (err, data, result) {
     if (err) {
       throw err; // you need to handle error
     }
-    // console.log(data)
     const option = qs.parse(req.url.substring(9))
-    console.log(option);
-    console.log(option.level);
     res.render('course', {title: 'Course List', course: data, link: option})
   });
 })

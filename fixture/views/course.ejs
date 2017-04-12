@@ -10,8 +10,8 @@
     <div class="top">
       <div class="top-title">免费课程和纳米学位项目</div>
       <div class="search">
-        <input type="text" placeholder="搜索感兴趣的课程">
-        <button type="submit"></button>
+        <input id="searchText" type="text" placeholder="搜索感兴趣的课程">
+        <button id="submit" type="submit" onclick="filter()"></button>
       </div>
     </div>
     <div class="main">
@@ -21,7 +21,7 @@
           <ul>
             <% if (link.level) { %>
               <li><a href="/courses?level=<%= link.level %>&track=数据科学">数据科学</a></li>
-              <li><a href="/courses?level=<%= link.level %>&track=Andriod">Andriod</a></li>
+              <li><a href="/courses?level=<%= link.level %>&track=Android">Andriod</a></li>
               <li><a href="/courses?level=<%= link.level %>&track=网站开发">网站开发</a></li>
               <li><a href="/courses?level=<%= link.level %>&track=软件工程">软件工程</a></li>
               <li><a href="/courses?level=<%= link.level %>&track=IOS">IOS</a></li>
@@ -30,7 +30,7 @@
               <li><a href="/courses?level=<%= link.level %>">全部课程</a></li>
             <% } else { %>
               <li><a href="/courses?track=数据科学">数据科学</a></li>
-              <li><a href="/courses?track=Andriod">Andriod</a></li>
+              <li><a href="/courses?track=Android">Andriod</a></li>
               <li><a href="/courses?track=网站开发">网站开发</a></li>
               <li><a href="/courses?track=软件工程">软件工程</a></li>
               <li><a href="/courses?track=IOS">IOS</a></li>
@@ -44,10 +44,17 @@
         <div class="classify">
           <h3>难度</h3>
           <ul>
-            <li><a href="javascript:">全部</a></li>
-            <li><a href="javascript:">初级</a></li>
-            <li><a href="/courses?level=中级">中级</a></li>
-            <li><a href="javascript:">高级</a></li>
+            <% if (link.track) { %>
+              <li><a href="/courses?&track=<%= link.track %>">全部</a></li>
+              <li><a href="/courses?level=初级&track=<%= link.track %>">初级</a></li>
+              <li><a href="/courses?level=中级&track=<%= link.track %>">中级</a></li>
+              <li><a href="/courses?level=高级&track=<%= link.track %>">高级</a></li>
+            <% } else { %>
+              <li><a href="/">全部</a></li>
+              <li><a href="/courses?level=初级">初级</a></li>
+              <li><a href="/courses?level=中级">中级</a></li>
+              <li><a href="/courses?level=高级">高级</a></li>
+            <% } %>
           </ul>
         </div>
       </div>
@@ -60,22 +67,37 @@
           <% course.forEach(function(item) { %>
             <div class="course-item">
               <div class="course-img">
-                <img src="/images/course_img01.png" alt="">
+                <img src="<%= item.image %>" alt="">
               </div>
               <div class="course-info">
                 <div class="course-title">
-                  <h3><%= item.title %></h3>
-                  <p class="course-num">5个项目</p>
+                  <h3><a href="javascript:"><%= item.title %></a></h3>
+                  <p class="course-num"><%= item.projects.length %>个项目</p>
                 </div>
-                <div class="course-level"><%= item.level %></div>
-                <div class="summary">
-                  <h3><%= item.short_summary %></h3>
+                <div class="course-level">
+                  <% if (item.level === '高级') { %>
+                    <span class="dark"></span>
+                    <span class="dark"></span>
+                    <span class="dark"></span>
+                  <% } else if (item.level === '中级') { %>
+                    <span class="dark"></span>
+                    <span class="dark"></span>
+                    <span></span>
+                  <% } else if (item.level === '初级') { %>
+                    <span class="dark"></span>
+                    <span></span>
+                    <span></span>
+                  <% } %>
+                  <p><%= item.level %></p>
+                </div>
+                <div class="course-summary">
+                  <h3><%= item.subtitle %></h3>
                   <p><%- item.summary %></p>
                 </div>
               </div>
             </div>
           <% })%>
-<!--           <div class="course-item">
+          <!-- <div class="course-item">
             <div class="course-img">
               <img src="/images/course_img01.png" alt="">
             </div>
@@ -95,6 +117,8 @@
       </div>
     </div>
   </div>
+  <script src="/js/jquery-1.10.2.min.js"></script>
+  <script src="/js/search.js"></script>
 </body>
 </html>
 
