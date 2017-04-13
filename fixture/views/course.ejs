@@ -9,10 +9,10 @@
   <div class="wrapper">
     <div class="top">
       <div class="top-title">免费课程和纳米学位项目</div>
-      <div class="search">
-        <input id="searchText" type="text" placeholder="搜索感兴趣的课程">
-        <button id="submit" type="submit" onclick="filter()"></button>
-      </div>
+      <form class="search" action="/search">
+        <input name="key" type="text" placeholder="搜索感兴趣的课程">
+        <button type="submit"></button>
+      </form>
     </div>
     <div class="main">
       <div class="left-nav">
@@ -97,28 +97,10 @@
               </div>
             </div>
           <% })%>
-          <!-- <div class="course-item">
-            <div class="course-img">
-              <img src="/images/course_img01.png" alt="">
-            </div>
-            <div class="course-info">
-              <div class="course-title">
-                <h3>深度学习（中/英）</h3>
-                <p class="course-num">5个项目</p>
-              </div>
-              <div class="course-level">中级</div>
-              <div class="summary">
-                <h3>这门课程将带你走进计算机视觉的的世界，教授基础知识、应用方法和机器学习分类。</h3>
-                <p>在整个课程中，我们将使用代数量化和描述周围的世界。你有没有思考过，你的闪存盘可以装下多少首歌曲？学完本课程后，你将掌握更扎实的技能，能够为问题建模、分析模式，并使用代数得出结论。</p>
-              </div>
-            </div>
-          </div> -->
         </div>
       </div>
     </div>
   </div>
-  <script src="/js/jquery-1.10.2.min.js"></script>
-  <script src="/js/search.js"></script>
 </body>
 </html>
 

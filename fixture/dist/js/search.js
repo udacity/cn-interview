@@ -1,1 +1,0 @@
-function filter(){for(var e=[],r=$("#searchText").val(),s=0;s<courses.length;s++){courses[s].querySelector(".course-title h3 a").innerText.indexOf(r)>-1&&e.push(courses[s])}list.html(e)}var courses=$(".course-item"),list=$(".course-list");$("#searchText").keyup(function(e){13===e.keyCode&&filter()});
