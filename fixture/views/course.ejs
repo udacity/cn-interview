@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title><%= title %></title>
+  <link rel="stylesheet" href="/css/course.css">
+</head>
+<body>
+  <div class="wrapper">
+    <div class="top">
+      <div class="top-title">免费课程和纳米学位项目</div>
+      <form class="search" action="/search">
+        <input name="key" type="text" placeholder="搜索感兴趣的课程">
+        <button type="submit"></button>
+      </form>
+    </div>
+    <div class="main">
+      <div class="left-nav">
+        <div class="classify">
+          <h3>类别</h3>
+          <ul>
+            <% if (link.level) { %>
+              <li><a href="/courses?level=<%= link.level %>&track=数据科学">数据科学</a></li>
+              <li><a href="/courses?level=<%= link.level %>&track=Android">Andriod</a></li>
+              <li><a href="/courses?level=<%= link.level %>&track=网站开发">网站开发</a></li>
+              <li><a href="/courses?level=<%= link.level %>&track=软件工程">软件工程</a></li>
+              <li><a href="/courses?level=<%= link.level %>&track=IOS">IOS</a></li>
+              <li><a href="/courses?level=<%= link.level %>&track=佐治亚理工学院计算机科学硕士">佐治亚理工学院计算机科学硕士</a></li>
+              <li><a href="/courses?level=<%= link.level %>&track=非技术类">非技术类</a></li>
+              <li><a href="/courses?level=<%= link.level %>">全部课程</a></li>
+            <% } else { %>
+              <li><a href="/courses?track=数据科学">数据科学</a></li>
+              <li><a href="/courses?track=Android">Andriod</a></li>
+              <li><a href="/courses?track=网站开发">网站开发</a></li>
+              <li><a href="/courses?track=软件工程">软件工程</a></li>
+              <li><a href="/courses?track=IOS">IOS</a></li>
+              <li><a href="/courses?track=佐治亚理工学院计算机科学硕士">佐治亚理工学院计算机科学硕士</a></li>
+              <li><a href="/courses?track=非技术类">非技术类</a></li>
+              <li><a href="/">全部课程</a></li>
+            <% } %>
+          </ul>
+        </div>
+        <span class="separate-line"></span>
+        <div class="classify">
+          <h3>难度</h3>
+          <ul>
+            <% if (link.track) { %>
+              <li><a href="/courses?&track=<%= link.track %>">全部</a></li>
+              <li><a href="/courses?level=初级&track=<%= link.track %>">初级</a></li>
+              <li><a href="/courses?level=中级&track=<%= link.track %>">中级</a></li>
+              <li><a href="/courses?level=高级&track=<%= link.track %>">高级</a></li>
+            <% } else { %>
+              <li><a href="/">全部</a></li>
+              <li><a href="/courses?level=初级">初级</a></li>
+              <li><a href="/courses?level=中级">中级</a></li>
+              <li><a href="/courses?level=高级">高级</a></li>
+            <% } %>
+          </ul>
+        </div>
+      </div>
+      <div class="content">
+        <div class="introduction">
+          <h3>全部纳米学位项目和单项课程</h3>
+          <p>学习由Google、亚马逊、Facebook等全球领先科技企业参与制作的纳米学位和单项课程，从零开始成为人工智能、机器学习、无人驾驶车、机器开发工程师，或网站开发、移动开发工程师和数据分析师。获得行业领导者的认可和认证，成为改变世界的抢手人才。</p>
+        </div>
+        <div class="course-list">
+          <% course.forEach(function(item) { %>
+            <div class="course-item">
+              <div class="course-img">
+                <img src="<%= item.image %>" alt="">
+              </div>
+              <div class="course-info">
+                <div class="course-title">
+                  <h3><a href="javascript:"><%= item.title %></a></h3>
+                  <p class="course-num"><%= item.projects.length %>个项目</p>
+                </div>
+                <div class="course-level">
+                  <% if (item.level === '高级') { %>
+                    <span class="dark"></span>
+                    <span class="dark"></span>
+                    <span class="dark"></span>
+                  <% } else if (item.level === '中级') { %>
+                    <span class="dark"></span>
+                    <span class="dark"></span>
+                    <span></span>
+                  <% } else if (item.level === '初级') { %>
+                    <span class="dark"></span>
+                    <span></span>
+                    <span></span>
+                  <% } %>
+                  <p><%= item.level %></p>
+                </div>
+                <div class="course-summary">
+                  <h3><%= item.subtitle %></h3>
+                  <p><%- item.summary %></p>
+                </div>
+              </div>
+            </div>
+          <% })%>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+
