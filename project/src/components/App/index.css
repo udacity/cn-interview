@@ -1,28 +1,24 @@
-.App {
-  text-align: center;
+.container {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1180px;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.h-top {
+  color: #417b99;
+  font-weight: 300;
+  flex: 1;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+.sercher-container {
+  flex: 1;
 }
 
-.App-title {
-  font-size: 1.5em;
+.categories-container {
+  flex: 1;
 }
 
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.course-list-container {
+  flex: 3;
 }

@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
-import logo from '../../logo.svg';
+// import { Sercher } from '../../components/Sercher';
+// import { CategoryList } from '../../components/CategoryList';
+// import { Billboard } from '../../components/Billboard';
+// import { CourseList } from '../../components/CourseList';
 import './index.css';
 
 class App extends Component {
@@ -12,13 +15,25 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+        <header className="App-header container">
+          <h1 className="h-top">免费课程和纳米学位项目</h1>
+          <div className="sercher-container">
+            {/* <Sercher /> */}
+          </div>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+
+        <section className="container">
+          <div className="categories-container">
+            {/* <CategoryList /> */}
+            <hr/>
+            {/* <CategoryList /> */}
+          </div>
+
+          <div className="course-list-container">
+            {/* <Billboard />
+            <CourseList /> */}
+          </div>
+        </section>
       </div>
     );
   }
