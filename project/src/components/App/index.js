@@ -1,8 +1,14 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
 import logo from '../../logo.svg';
 import './index.css';
 
 class App extends Component {
+  static propTypes = {
+    fetchCourses: PropTypes.func,
+  };
+
   render() {
     return (
       <div className="App">
@@ -18,4 +24,8 @@ class App extends Component {
   }
 }
 
-export default App;
+const mapStateToProps = ({ courses }) => {
+  return { courses };
+};
+
+export default connect(mapStateToProps)(App);

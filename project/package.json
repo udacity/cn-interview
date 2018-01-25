@@ -3,14 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "prop-types": "^15.6.0",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
   },
   "devDependencies": {
-    "eslint-plugin-jest": "^21.7.0",
     "eslint": "^4.16.0",
+    "eslint-plugin-jest": "^21.7.0",
     "eslint-plugin-react": "^7.5.1",
-    "react-scripts": "1.1.0"
+    "react-scripts": "1.1.0",
+    "redux-logger": "^3.0.6"
   },
   "scripts": {
     "start": "react-scripts start",
