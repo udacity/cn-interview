@@ -19,6 +19,7 @@ module.exports = () => {
    */
   router.get('/courses', (req, res, next) => {
     const {level, track} = req.query
+    res.header('Access-Control-Allow-Origin', '*')
     res.json(courses.filter(c => level ? level === c.level : true)
       .filter(c => track ? !!~c.tracks.indexOf(track) : true))
   })
