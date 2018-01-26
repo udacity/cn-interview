@@ -1,9 +1,14 @@
 .app-h-top {
   color: #417b99;
-  font-size: 28px;
-  font-weight: 300;
+  font-size: 24px;
+  font-weight: 400;
 }
 
 .app-header {
   padding: 1em 0;
+}
+
+.app-course-container {
+  padding: 0 20px;
+  border-left: 1px solid rgba(0,0,0,.1);
 }
