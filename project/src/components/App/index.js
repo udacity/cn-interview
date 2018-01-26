@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
+import { Grid, Row, Col } from 'react-bootstrap';
 // import Sercher from '../../components/Sercher';
 // import CategoryList from '../../components/CategoryList';
 import Billboard from '../Billboard';
@@ -15,25 +16,29 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
-        <header className="App-header container">
-          <h1 className="h-top">免费课程和纳米学位项目</h1>
-          <div className="sercher-container">{/* <Sercher /> */}</div>
-        </header>
+      <Grid className="app">
+        <Row className="app-header">
+          <Col md={6}>
+            <h1 className="app-h-top">免费课程和纳米学位项目</h1>
+          </Col>
+          <Col md={6}>
+            <div className="sercher-container">{/* <Sercher /> */}</div>
+          </Col>
+        </Row>
 
-        <section className="container">
-          <div className="categories-container">
+        <Row>
+          <Col md={3}>
             {/* <CategoryList /> */}
             <hr />
             {/* <CategoryList /> */}
-          </div>
+          </Col>
 
-          <div className="course-list-container">
-            <Billboard {...adWords}/>
+          <Col md={9}>
+            <Billboard {...adWords} />
             {/* <CourseList /> */}
-          </div>
-        </section>
-      </div>
+          </Col>
+        </Row>
+      </Grid>
     );
   }
 }

@@ -1,24 +1,9 @@
-.container {
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 1180px;
-}
-
-.h-top {
+.app-h-top {
   color: #417b99;
+  font-size: 28px;
   font-weight: 300;
-  flex: 1;
 }
 
-.sercher-container {
-  flex: 1;
-}
-
-.categories-container {
-  flex: 1;
-}
-
-.course-list-container {
-  flex: 3;
+.app-header {
+  padding: 1em 0;
 }
