@@ -1,0 +1,27 @@
+.vertical-center {
+  display: flex;
+  align-items: center;
+}
+
+.h-title {
+  color: #1e8fc1;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.h-bold {
+  color: #3e3e3e;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.h-light {
+  color: #9d9d9d;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.p-normal {
+  color: #5a646c;
+  font-size: 1rem;
+}

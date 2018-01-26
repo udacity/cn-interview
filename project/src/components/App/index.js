@@ -5,16 +5,18 @@ import { Grid, Row, Col } from 'react-bootstrap';
 // import Sercher from '../../components/Sercher';
 // import CategoryList from '../../components/CategoryList';
 import Billboard from '../Billboard';
-// import CourseList from '../../components/CourseList';
+import CourseList from '../CourseList';
 import { adWords } from '../../utils/helper';
 import './index.css';
 
 class App extends Component {
   static propTypes = {
-    fetchCourses: PropTypes.func,
+    courses: PropTypes.array,
   };
 
   render() {
+    const { courses } = this.props;
+
     return (
       <Grid className="app">
         <Row className="app-header">
@@ -35,7 +37,9 @@ class App extends Component {
 
           <Col md={9}>
             <Billboard {...adWords} />
-            {/* <CourseList /> */}
+            <div className="app-course-container">
+              <CourseList courses={courses} />
+            </div>
           </Col>
         </Row>
       </Grid>
