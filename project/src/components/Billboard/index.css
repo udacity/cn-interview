@@ -1,15 +1,15 @@
-.Billboard {
+.billboard {
   padding: 1.5em 1em;
   background: #1e8fc1;
   color: white;
 }
 
-.Billboard-title {
+.billboard-title {
   font-weight: 300;
   font-size: 32px;
 }
 
-.Billboard-body {
+.billboard-body {
   font-weight: 100;
   font-size: 18px;
 }

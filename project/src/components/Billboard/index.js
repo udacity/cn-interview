@@ -11,9 +11,9 @@ class Billboard extends Component {
   render() {
     const { title, body } = this.props;
     return (
-      <div className="Billboard">
-        <h1 className="Billboard-title">{title}</h1>
-        <p className="Billboard-body">{body}</p>
+      <div className="billboard">
+        <h1 className="billboard-title">{title}</h1>
+        <p className="billboard-body">{body}</p>
       </div>
     );
   }
