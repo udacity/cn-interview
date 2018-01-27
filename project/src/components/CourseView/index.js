@@ -44,7 +44,7 @@ class App extends Component {
       selected: track.name === this.state.track,
     });
     return (
-      <Link to={`/${track.router}`}>
+      <Link to={`/${track.router}`} style={{ textDecoration: 'none' }}>
         <div
           className={className}
           onClick={() => this.handleSelectTrack(track.name)}
@@ -86,7 +86,9 @@ class App extends Component {
             <h1 className="app-h-top">免费课程和纳米学位项目</h1>
           </Col>
           <Col md={6}>
-            <div className="sercher-container">{/* <Sercher /> */}</div>
+            <div className="sercher-container">
+              {/* <Sercher /> */}
+            </div>
           </Col>
         </Row>
 
