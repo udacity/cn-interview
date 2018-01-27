@@ -13,6 +13,7 @@ import './index.css';
 class App extends Component {
   static propTypes = {
     courses: PropTypes.array,
+    match: PropTypes.object,
   };
 
   state = {
@@ -20,7 +21,7 @@ class App extends Component {
     level: '全部',
   };
 
-  filterCourses = ({ track, level, courses }) => {
+  filterCourses = ({ track, level, courses = [] }) => {
     if (track !== '全部课程') {
       courses = courses.filter(course => course.tracks.includes(track));
     }
