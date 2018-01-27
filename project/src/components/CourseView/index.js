@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { Grid, Row, Col } from 'react-bootstrap';
 // import Sercher from '../../components/Sercher';
@@ -21,6 +22,13 @@ class App extends Component {
     level: '全部',
   };
 
+  componentDidMount() {
+    const router = this.props.match.params.track;
+    const trackObj = TRACK_ARRAY.find(each => each.router === router);
+    const track = trackObj ? trackObj.name : '全部课程';
+    this.setState({ track });
+  }
+
   filterCourses = ({ track, level, courses = [] }) => {
     if (track !== '全部课程') {
       courses = courses.filter(course => course.tracks.includes(track));
@@ -36,12 +44,14 @@ class App extends Component {
       selected: track.name === this.state.track,
     });
     return (
-      <div
-        className={className}
-        onClick={() => this.handleSelectTrack(track.name)}
-      >
-        <h3 className="h-title h-radio">{track.name}</h3>
-      </div>
+      <Link to={`/${track.router}`}>
+        <div
+          className={className}
+          onClick={() => this.handleSelectTrack(track.name)}
+        >
+          <h3 className="h-title h-radio">{track.name}</h3>
+        </div>
+      </Link>
     );
   };
 
