@@ -5,8 +5,14 @@
 
 .h-title {
   color: #1e8fc1;
-  font-weight: 300;
-  font-size: 20px;
+  font-weight: 400;
+  font-size: 19px;
+}
+
+.h-radio {
+  margin: 0;
+  padding: 2px 3px;
+  font-size: 16px;
 }
 
 .h-bold {
@@ -24,4 +30,17 @@
 .p-normal {
   color: #5a646c;
   font-size: 1rem;
+}
+
+.radio-title {
+  color: #9d9d9d;
+  font-weight: 400;
+  font-size: 15px;
+  margin-bottom: 1em;
+}
+
+.no-list-style {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }

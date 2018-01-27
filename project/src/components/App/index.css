@@ -10,5 +10,13 @@
 
 .app-course-container {
   padding: 0 20px;
-  border-left: 1px solid rgba(0,0,0,.1);
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.radio-item {
+  padding: 5px;
+}
+
+.selected {
+  background: #f3f3f3;
 }

@@ -5,6 +5,16 @@ export const adWords = {
 };
 
 export const LEVEL_ARRAY = ['初级', '中级', '高级'];
+export const TRACK_ARRAY = [
+  { name: '数据科学', router: 'data-science' },
+  { name: 'Android', router: 'android' },
+  { name: '网站开发', router: 'web-development' },
+  { name: '软件工程', router: 'software-engineering' },
+  { name: 'iOS', router: 'ios' },
+  { name: '佐治亚理工学院计算机科学硕士', router: 'georgia-tech-masters-in-cs' },
+  { name: '非技术类', router: 'non-tech' },
+];
+
 // return an array of 0 and 1, to indicate level icons
 export const getIconArr = levelStr => {
   const levelNum = LEVEL_ARRAY.indexOf(levelStr) + 1;
