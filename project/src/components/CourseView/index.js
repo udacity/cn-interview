@@ -3,12 +3,17 @@ import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { Grid, Row, Col } from 'react-bootstrap';
-// import Sercher from '../../components/Sercher';
+import Searcher from '../Searcher';
 import RadioList from '../RadioList';
 import Billboard from '../Billboard';
 import CourseList from '../CourseList';
 import classNames from 'classnames';
-import { adWords, TRACK_ARRAY, LEVEL_ARRAY } from '../../utils/helper';
+import {
+  adWords,
+  TRACK_ARRAY,
+  LEVEL_ARRAY,
+  searchRule,
+} from '../../utils/helper';
 import './index.css';
 
 class App extends Component {
@@ -29,12 +34,15 @@ class App extends Component {
     this.setState({ track });
   }
 
-  filterCourses = ({ track, level, courses = [] }) => {
+  filterCourses = ({ track, level, userInput, courses = [] }) => {
     if (track !== '全部课程') {
       courses = courses.filter(course => course.tracks.includes(track));
     }
     if (level !== '全部') {
       courses = courses.filter(course => course.level === level);
+    }
+    if (userInput !== '') {
+      courses = courses.filter(course => searchRule(course, userInput));
     }
     return courses;
   };
@@ -74,10 +82,20 @@ class App extends Component {
     this.setState({ level });
   };
 
+  handleInputChange = event => {
+    const userInput = event.target.value;
+    this.setState({ userInput });
+  };
+
   render() {
     const { courses } = this.props;
-    const { track, level } = this.state;
-    const filtedCourses = this.filterCourses({ track, level, courses });
+    const { track, level, userInput } = this.state;
+    const filtedCourses = this.filterCourses({
+      track,
+      level,
+      userInput,
+      courses,
+    });
 
     return (
       <Grid className="app">
@@ -86,8 +104,8 @@ class App extends Component {
             <h1 className="app-h-top">免费课程和纳米学位项目</h1>
           </Col>
           <Col md={6}>
-            <div className="sercher-container">
-              {/* <Sercher /> */}
+            <div className="searcher-container">
+              <Searcher onChange={this.handleInputChange} />
             </div>
           </Col>
         </Row>

@@ -2,10 +2,11 @@
   color: #417b99;
   font-size: 24px;
   font-weight: 400;
+  margin: 0;
 }
 
 .app-header {
-  padding: 1em 0;
+  padding: 2em 0;
 }
 
 .app-course-container {
@@ -19,4 +20,9 @@
 
 .selected {
   background: #f3f3f3;
+}
+
+.searcher-container {
+  display: block;
+  align-items: center;
 }

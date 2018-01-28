@@ -11,7 +11,10 @@ export const TRACK_ARRAY = [
   { name: '网站开发', router: 'web-development' },
   { name: '软件工程', router: 'software-engineering' },
   { name: 'iOS', router: 'ios' },
-  { name: '佐治亚理工学院计算机科学硕士', router: 'georgia-tech-masters-in-cs' },
+  {
+    name: '佐治亚理工学院计算机科学硕士',
+    router: 'georgia-tech-masters-in-cs',
+  },
   { name: '非技术类', router: 'non-tech' },
 ];
 
@@ -26,4 +29,14 @@ export const getIconArr = levelStr => {
     return 0;
   });
   return iconArr;
+};
+
+export const searchRule = (course, userInput) => {
+  const targets = [course.title, course.subtitle, course['short_summary']];
+  const match = targets.find(target => {
+    const lowerTarget = target.toLowerCase();
+    const lowerUserInput = userInput ? userInput.toLowerCase() : '';
+    return lowerTarget.includes(lowerUserInput);
+  });
+  return !!match;
 };
