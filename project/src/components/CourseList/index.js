@@ -34,9 +34,13 @@ export class Item extends Component {
             <Col md={8}>
               <h3 className="h-title">{title}</h3>
             </Col>
-            <Col md={4}><LevelBar level={level}/></Col>
+            <Col md={4}>
+              <LevelBar level={level} />
+            </Col>
           </Row>
-          <h4 className="h-light course-list-projects">{projectNum} 个项目</h4>
+          <h4 className="h-light course-list-projects">
+            {projectNum ? `${projectNum} 个` : '没有'}项目
+          </h4>
           <h3 className="h-bold">{subtitle}</h3>
           <p className="p-normal">{shortSummary}</p>
         </Col>
