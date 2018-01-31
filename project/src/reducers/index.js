@@ -1,6 +1,11 @@
 import { RECEIVE_COURSES, REQUEST_COURSES } from '../actions';
 
-const courses = (state = [], action) => {
+const initialCourseState = {
+  isFetching: false,
+  courses: [],
+};
+
+const course = (state = initialCourseState, action) => {
   switch (action.type) {
     case REQUEST_COURSES:
       return {
@@ -20,4 +25,4 @@ const courses = (state = [], action) => {
   }
 };
 
-export default courses;
+export default course;
