@@ -1,22 +1,16 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { Grid, Row, Col } from 'react-bootstrap';
 import Searcher from '../Searcher';
-import RadioList from '../RadioList';
+import TrackList from '../TrackList';
+import LevelList from '../LevelList';
 import Billboard from '../Billboard';
 import CourseList from '../CourseList';
-import classNames from 'classnames';
-import {
-  adWords,
-  TRACK_ARRAY,
-  LEVEL_ARRAY,
-  searchRule,
-} from '../../utils/helper';
+import { AD_WORDS, TRACK_ARRAY, searchRule } from '../../utils/helper';
 import './index.css';
 
-class App extends Component {
+export class CourseView extends Component {
   static propTypes = {
     courses: PropTypes.array,
     match: PropTypes.object,
@@ -45,33 +39,6 @@ class App extends Component {
       courses = courses.filter(course => searchRule(course, userInput));
     }
     return courses;
-  };
-
-  _trackItem = track => {
-    const className = classNames('radio-item', {
-      selected: track.name === this.state.track,
-    });
-    return (
-      <Link to={`/${track.router}`} style={{ textDecoration: 'none' }}>
-        <div
-          className={className}
-          onClick={() => this.handleSelectTrack(track.name)}
-        >
-          <h3 className="h-title h-radio">{track.name}</h3>
-        </div>
-      </Link>
-    );
-  };
-
-  _levelItem = level => {
-    const className = classNames('radio-item', {
-      selected: level === this.state.level,
-    });
-    return (
-      <div className={className} onClick={() => this.handleSelectLevel(level)}>
-        <h3 className="h-title h-radio">{level}</h3>
-      </div>
-    );
   };
 
   handleSelectTrack = track => {
@@ -113,25 +80,14 @@ class App extends Component {
         <Row>
           <Col md={3}>
             <h4 className="radio-title">类别</h4>
-            <RadioList
-              data={TRACK_ARRAY}
-              renderItem={this._trackItem}
-              keyExtractor={track => track.name}
-              allItem={{ name: '全部课程', router: 'all' }}
-              tail
-            />
+            <TrackList onSelect={this.handleSelectTrack} selected={track} />
             <hr />
             <h4 className="radio-title">难度</h4>
-            <RadioList
-              data={LEVEL_ARRAY}
-              renderItem={this._levelItem}
-              keyExtractor={level => level}
-              allItem="全部"
-            />
+            <LevelList onSelect={this.handleSelectLevel} selected={level} />
           </Col>
 
           <Col md={9}>
-            <Billboard {...adWords} />
+            <Billboard {...AD_WORDS} />
             <div className="app-course-container">
               <CourseList courses={filtedCourses} />
             </div>
@@ -146,4 +102,4 @@ const mapStateToProps = ({ courses }) => {
   return { courses };
 };
 
-export default connect(mapStateToProps)(App);
+export default connect(mapStateToProps)(CourseView);

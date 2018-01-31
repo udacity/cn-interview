@@ -1,0 +1,1615 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test connected CourseView renders correctly 1`] = `
+<MemoryRouter
+  initialEntries={
+    Array [
+      "/data-science",
+      "/android",
+      "/web-development",
+      "/software-engineering",
+      "/ios",
+      "/georgia-tech-masters-in-cs",
+      "/non-tech",
+      "/all",
+    ]
+  }
+  initialIndex={7}
+>
+  <Router
+    history={
+      Object {
+        "action": "POP",
+        "block": [Function],
+        "canGo": [Function],
+        "createHref": [Function],
+        "entries": Array [
+          Object {
+            "hash": "",
+            "key": "awh364",
+            "pathname": "/data-science",
+            "search": "",
+            "state": undefined,
+          },
+          Object {
+            "hash": "",
+            "key": "rgwofj",
+            "pathname": "/android",
+            "search": "",
+            "state": undefined,
+          },
+          Object {
+            "hash": "",
+            "key": "hiuliz",
+            "pathname": "/web-development",
+            "search": "",
+            "state": undefined,
+          },
+          Object {
+            "hash": "",
+            "key": "wc24ay",
+            "pathname": "/software-engineering",
+            "search": "",
+            "state": undefined,
+          },
+          Object {
+            "hash": "",
+            "key": "a2gf33",
+            "pathname": "/ios",
+            "search": "",
+            "state": undefined,
+          },
+          Object {
+            "hash": "",
+            "key": "cz0n21",
+            "pathname": "/georgia-tech-masters-in-cs",
+            "search": "",
+            "state": undefined,
+          },
+          Object {
+            "hash": "",
+            "key": "cipeuy",
+            "pathname": "/non-tech",
+            "search": "",
+            "state": undefined,
+          },
+          Object {
+            "hash": "",
+            "key": "81tg30",
+            "pathname": "/all",
+            "search": "",
+            "state": undefined,
+          },
+        ],
+        "go": [Function],
+        "goBack": [Function],
+        "goForward": [Function],
+        "index": 7,
+        "length": 8,
+        "listen": [Function],
+        "location": Object {
+          "hash": "",
+          "key": "81tg30",
+          "pathname": "/all",
+          "search": "",
+          "state": undefined,
+        },
+        "push": [Function],
+        "replace": [Function],
+      }
+    }
+  >
+    <Route
+      path="/:track"
+      render={[Function]}
+    >
+      <Connect(CourseView)
+        history={
+          Object {
+            "action": "POP",
+            "block": [Function],
+            "canGo": [Function],
+            "createHref": [Function],
+            "entries": Array [
+              Object {
+                "hash": "",
+                "key": "awh364",
+                "pathname": "/data-science",
+                "search": "",
+                "state": undefined,
+              },
+              Object {
+                "hash": "",
+                "key": "rgwofj",
+                "pathname": "/android",
+                "search": "",
+                "state": undefined,
+              },
+              Object {
+                "hash": "",
+                "key": "hiuliz",
+                "pathname": "/web-development",
+                "search": "",
+                "state": undefined,
+              },
+              Object {
+                "hash": "",
+                "key": "wc24ay",
+                "pathname": "/software-engineering",
+                "search": "",
+                "state": undefined,
+              },
+              Object {
+                "hash": "",
+                "key": "a2gf33",
+                "pathname": "/ios",
+                "search": "",
+                "state": undefined,
+              },
+              Object {
+                "hash": "",
+                "key": "cz0n21",
+                "pathname": "/georgia-tech-masters-in-cs",
+                "search": "",
+                "state": undefined,
+              },
+              Object {
+                "hash": "",
+                "key": "cipeuy",
+                "pathname": "/non-tech",
+                "search": "",
+                "state": undefined,
+              },
+              Object {
+                "hash": "",
+                "key": "81tg30",
+                "pathname": "/all",
+                "search": "",
+                "state": undefined,
+              },
+            ],
+            "go": [Function],
+            "goBack": [Function],
+            "goForward": [Function],
+            "index": 7,
+            "length": 8,
+            "listen": [Function],
+            "location": Object {
+              "hash": "",
+              "key": "81tg30",
+              "pathname": "/all",
+              "search": "",
+              "state": undefined,
+            },
+            "push": [Function],
+            "replace": [Function],
+          }
+        }
+        location={
+          Object {
+            "hash": "",
+            "key": "81tg30",
+            "pathname": "/all",
+            "search": "",
+            "state": undefined,
+          }
+        }
+        match={
+          Object {
+            "isExact": true,
+            "params": Object {
+              "track": "all",
+            },
+            "path": "/:track",
+            "url": "/all",
+          }
+        }
+        store={
+          Object {
+            "clearActions": [Function],
+            "dispatch": [Function],
+            "getActions": [Function],
+            "getState": [Function],
+            "replaceReducer": [Function],
+            "subscribe": [Function],
+          }
+        }
+      >
+        <CourseView
+          courses={
+            Array [
+              Object {
+                "img": "mock-url-1",
+                "key": 1,
+                "level": "初级",
+                "projects": Array [
+                  "project-1",
+                  "project-2",
+                  "project-3",
+                ],
+                "short_summary": "mock-short-summary-1",
+                "subtitle": "mock-subtitle-1",
+                "title": "mock-title-1",
+                "tracks": Array [
+                  "数据科学",
+                ],
+              },
+              Object {
+                "img": "mock-url-2",
+                "key": 2,
+                "level": "中级",
+                "projects": Array [
+                  "project-1",
+                ],
+                "short_summary": "mock-short-summary-2",
+                "subtitle": "mock-subtitle-2",
+                "title": "mock-title-2",
+                "tracks": Array [
+                  "iOS",
+                ],
+              },
+              Object {
+                "img": "mock-url-3",
+                "key": 3,
+                "level": "高级",
+                "projects": Array [],
+                "short_summary": "mock-short-summary-3",
+                "subtitle": "mock-subtitle-3",
+                "title": "mock-title-3",
+                "tracks": Array [
+                  "网站开发",
+                ],
+              },
+            ]
+          }
+          dispatch={[Function]}
+          history={
+            Object {
+              "action": "POP",
+              "block": [Function],
+              "canGo": [Function],
+              "createHref": [Function],
+              "entries": Array [
+                Object {
+                  "hash": "",
+                  "key": "awh364",
+                  "pathname": "/data-science",
+                  "search": "",
+                  "state": undefined,
+                },
+                Object {
+                  "hash": "",
+                  "key": "rgwofj",
+                  "pathname": "/android",
+                  "search": "",
+                  "state": undefined,
+                },
+                Object {
+                  "hash": "",
+                  "key": "hiuliz",
+                  "pathname": "/web-development",
+                  "search": "",
+                  "state": undefined,
+                },
+                Object {
+                  "hash": "",
+                  "key": "wc24ay",
+                  "pathname": "/software-engineering",
+                  "search": "",
+                  "state": undefined,
+                },
+                Object {
+                  "hash": "",
+                  "key": "a2gf33",
+                  "pathname": "/ios",
+                  "search": "",
+                  "state": undefined,
+                },
+                Object {
+                  "hash": "",
+                  "key": "cz0n21",
+                  "pathname": "/georgia-tech-masters-in-cs",
+                  "search": "",
+                  "state": undefined,
+                },
+                Object {
+                  "hash": "",
+                  "key": "cipeuy",
+                  "pathname": "/non-tech",
+                  "search": "",
+                  "state": undefined,
+                },
+                Object {
+                  "hash": "",
+                  "key": "81tg30",
+                  "pathname": "/all",
+                  "search": "",
+                  "state": undefined,
+                },
+              ],
+              "go": [Function],
+              "goBack": [Function],
+              "goForward": [Function],
+              "index": 7,
+              "length": 8,
+              "listen": [Function],
+              "location": Object {
+                "hash": "",
+                "key": "81tg30",
+                "pathname": "/all",
+                "search": "",
+                "state": undefined,
+              },
+              "push": [Function],
+              "replace": [Function],
+            }
+          }
+          location={
+            Object {
+              "hash": "",
+              "key": "81tg30",
+              "pathname": "/all",
+              "search": "",
+              "state": undefined,
+            }
+          }
+          match={
+            Object {
+              "isExact": true,
+              "params": Object {
+                "track": "all",
+              },
+              "path": "/:track",
+              "url": "/all",
+            }
+          }
+          store={
+            Object {
+              "clearActions": [Function],
+              "dispatch": [Function],
+              "getActions": [Function],
+              "getState": [Function],
+              "replaceReducer": [Function],
+              "subscribe": [Function],
+            }
+          }
+          storeSubscription={
+            Subscription {
+              "listeners": Object {
+                "clear": [Function],
+                "get": [Function],
+                "notify": [Function],
+                "subscribe": [Function],
+              },
+              "onStateChange": [Function],
+              "parentSub": undefined,
+              "store": Object {
+                "clearActions": [Function],
+                "dispatch": [Function],
+                "getActions": [Function],
+                "getState": [Function],
+                "replaceReducer": [Function],
+                "subscribe": [Function],
+              },
+              "unsubscribe": [Function],
+            }
+          }
+        >
+          <Grid
+            bsClass="container"
+            className="app"
+            componentClass="div"
+            fluid={false}
+          >
+            <div
+              className="app container"
+            >
+              <Row
+                bsClass="row"
+                className="app-header"
+                componentClass="div"
+              >
+                <div
+                  className="app-header row"
+                >
+                  <Col
+                    bsClass="col"
+                    componentClass="div"
+                    md={6}
+                  >
+                    <div
+                      className="col-md-6"
+                    >
+                      <h1
+                        className="app-h-top"
+                      >
+                        免费课程和纳米学位项目
+                      </h1>
+                    </div>
+                  </Col>
+                  <Col
+                    bsClass="col"
+                    componentClass="div"
+                    md={6}
+                  >
+                    <div
+                      className="col-md-6"
+                    >
+                      <div
+                        className="searcher-container"
+                      >
+                        <Searcher
+                          onChange={[Function]}
+                        >
+                          <div
+                            className="searcher"
+                          >
+                            <input
+                              className="searcher-input"
+                              maxLength={50}
+                              onChange={[Function]}
+                              placeholder="搜索你喜欢的课程"
+                              type="text"
+                            />
+                            <MdSearch
+                              color="#1db3e2"
+                              size={30}
+                            >
+                              <IconBase
+                                color="#1db3e2"
+                                size={30}
+                                viewBox="0 0 40 40"
+                              >
+                                <svg
+                                  fill="currentColor"
+                                  height={30}
+                                  preserveAspectRatio="xMidYMid meet"
+                                  style={
+                                    Object {
+                                      "color": "#1db3e2",
+                                      "verticalAlign": "middle",
+                                    }
+                                  }
+                                  viewBox="0 0 40 40"
+                                  width={30}
+                                >
+                                  <g>
+                                    <path
+                                      d="m15.9 23.4c4.1 0 7.5-3.4 7.5-7.5s-3.4-7.5-7.5-7.5-7.5 3.3-7.5 7.5 3.3 7.5 7.5 7.5z m10 0l8.2 8.2-2.5 2.5-8.2-8.2v-1.4l-0.5-0.4c-1.9 1.6-4.4 2.5-7 2.5-6.1 0-10.9-4.7-10.9-10.7s4.8-10.9 10.9-10.9 10.7 4.8 10.7 10.9c0 2.6-0.9 5.1-2.5 7l0.4 0.5h1.4z"
+                                    />
+                                  </g>
+                                </svg>
+                              </IconBase>
+                            </MdSearch>
+                          </div>
+                        </Searcher>
+                      </div>
+                    </div>
+                  </Col>
+                </div>
+              </Row>
+              <Row
+                bsClass="row"
+                componentClass="div"
+              >
+                <div
+                  className="row"
+                >
+                  <Col
+                    bsClass="col"
+                    componentClass="div"
+                    md={3}
+                  >
+                    <div
+                      className="col-md-3"
+                    >
+                      <h4
+                        className="radio-title"
+                      >
+                        类别
+                      </h4>
+                      <TrackList
+                        onSelect={[Function]}
+                        selected="全部课程"
+                      >
+                        <ul
+                          className="no-list-style"
+                        >
+                          <li
+                            key="数据科学"
+                          >
+                            <Link
+                              replace={false}
+                              style={
+                                Object {
+                                  "textDecoration": "none",
+                                }
+                              }
+                              to="/data-science"
+                            >
+                              <a
+                                href="/data-science"
+                                onClick={[Function]}
+                                style={
+                                  Object {
+                                    "textDecoration": "none",
+                                  }
+                                }
+                              >
+                                <div
+                                  className="radio-item"
+                                  onClick={[Function]}
+                                >
+                                  <h3
+                                    className="h-title h-radio"
+                                  >
+                                    数据科学
+                                  </h3>
+                                </div>
+                              </a>
+                            </Link>
+                          </li>
+                          <li
+                            key="Android"
+                          >
+                            <Link
+                              replace={false}
+                              style={
+                                Object {
+                                  "textDecoration": "none",
+                                }
+                              }
+                              to="/android"
+                            >
+                              <a
+                                href="/android"
+                                onClick={[Function]}
+                                style={
+                                  Object {
+                                    "textDecoration": "none",
+                                  }
+                                }
+                              >
+                                <div
+                                  className="radio-item"
+                                  onClick={[Function]}
+                                >
+                                  <h3
+                                    className="h-title h-radio"
+                                  >
+                                    Android
+                                  </h3>
+                                </div>
+                              </a>
+                            </Link>
+                          </li>
+                          <li
+                            key="网站开发"
+                          >
+                            <Link
+                              replace={false}
+                              style={
+                                Object {
+                                  "textDecoration": "none",
+                                }
+                              }
+                              to="/web-development"
+                            >
+                              <a
+                                href="/web-development"
+                                onClick={[Function]}
+                                style={
+                                  Object {
+                                    "textDecoration": "none",
+                                  }
+                                }
+                              >
+                                <div
+                                  className="radio-item"
+                                  onClick={[Function]}
+                                >
+                                  <h3
+                                    className="h-title h-radio"
+                                  >
+                                    网站开发
+                                  </h3>
+                                </div>
+                              </a>
+                            </Link>
+                          </li>
+                          <li
+                            key="软件工程"
+                          >
+                            <Link
+                              replace={false}
+                              style={
+                                Object {
+                                  "textDecoration": "none",
+                                }
+                              }
+                              to="/software-engineering"
+                            >
+                              <a
+                                href="/software-engineering"
+                                onClick={[Function]}
+                                style={
+                                  Object {
+                                    "textDecoration": "none",
+                                  }
+                                }
+                              >
+                                <div
+                                  className="radio-item"
+                                  onClick={[Function]}
+                                >
+                                  <h3
+                                    className="h-title h-radio"
+                                  >
+                                    软件工程
+                                  </h3>
+                                </div>
+                              </a>
+                            </Link>
+                          </li>
+                          <li
+                            key="iOS"
+                          >
+                            <Link
+                              replace={false}
+                              style={
+                                Object {
+                                  "textDecoration": "none",
+                                }
+                              }
+                              to="/ios"
+                            >
+                              <a
+                                href="/ios"
+                                onClick={[Function]}
+                                style={
+                                  Object {
+                                    "textDecoration": "none",
+                                  }
+                                }
+                              >
+                                <div
+                                  className="radio-item"
+                                  onClick={[Function]}
+                                >
+                                  <h3
+                                    className="h-title h-radio"
+                                  >
+                                    iOS
+                                  </h3>
+                                </div>
+                              </a>
+                            </Link>
+                          </li>
+                          <li
+                            key="佐治亚理工学院计算机科学硕士"
+                          >
+                            <Link
+                              replace={false}
+                              style={
+                                Object {
+                                  "textDecoration": "none",
+                                }
+                              }
+                              to="/georgia-tech-masters-in-cs"
+                            >
+                              <a
+                                href="/georgia-tech-masters-in-cs"
+                                onClick={[Function]}
+                                style={
+                                  Object {
+                                    "textDecoration": "none",
+                                  }
+                                }
+                              >
+                                <div
+                                  className="radio-item"
+                                  onClick={[Function]}
+                                >
+                                  <h3
+                                    className="h-title h-radio"
+                                  >
+                                    佐治亚理工学院计算机科学硕士
+                                  </h3>
+                                </div>
+                              </a>
+                            </Link>
+                          </li>
+                          <li
+                            key="非技术类"
+                          >
+                            <Link
+                              replace={false}
+                              style={
+                                Object {
+                                  "textDecoration": "none",
+                                }
+                              }
+                              to="/non-tech"
+                            >
+                              <a
+                                href="/non-tech"
+                                onClick={[Function]}
+                                style={
+                                  Object {
+                                    "textDecoration": "none",
+                                  }
+                                }
+                              >
+                                <div
+                                  className="radio-item"
+                                  onClick={[Function]}
+                                >
+                                  <h3
+                                    className="h-title h-radio"
+                                  >
+                                    非技术类
+                                  </h3>
+                                </div>
+                              </a>
+                            </Link>
+                          </li>
+                          <li
+                            key="全部课程"
+                          >
+                            <Link
+                              replace={false}
+                              style={
+                                Object {
+                                  "textDecoration": "none",
+                                }
+                              }
+                              to="/all"
+                            >
+                              <a
+                                href="/all"
+                                onClick={[Function]}
+                                style={
+                                  Object {
+                                    "textDecoration": "none",
+                                  }
+                                }
+                              >
+                                <div
+                                  className="radio-item selected"
+                                  onClick={[Function]}
+                                >
+                                  <h3
+                                    className="h-title h-radio"
+                                  >
+                                    全部课程
+                                  </h3>
+                                </div>
+                              </a>
+                            </Link>
+                          </li>
+                        </ul>
+                      </TrackList>
+                      <hr />
+                      <h4
+                        className="radio-title"
+                      >
+                        难度
+                      </h4>
+                      <LevelList
+                        onSelect={[Function]}
+                        selected="全部"
+                      >
+                        <ul
+                          className="no-list-style"
+                        >
+                          <li
+                            key="全部"
+                          >
+                            <div
+                              className="radio-item selected"
+                              onClick={[Function]}
+                            >
+                              <h3
+                                className="h-title h-radio"
+                              >
+                                全部
+                              </h3>
+                            </div>
+                          </li>
+                          <li
+                            key="初级"
+                          >
+                            <div
+                              className="radio-item"
+                              onClick={[Function]}
+                            >
+                              <h3
+                                className="h-title h-radio"
+                              >
+                                初级
+                              </h3>
+                            </div>
+                          </li>
+                          <li
+                            key="中级"
+                          >
+                            <div
+                              className="radio-item"
+                              onClick={[Function]}
+                            >
+                              <h3
+                                className="h-title h-radio"
+                              >
+                                中级
+                              </h3>
+                            </div>
+                          </li>
+                          <li
+                            key="高级"
+                          >
+                            <div
+                              className="radio-item"
+                              onClick={[Function]}
+                            >
+                              <h3
+                                className="h-title h-radio"
+                              >
+                                高级
+                              </h3>
+                            </div>
+                          </li>
+                        </ul>
+                      </LevelList>
+                    </div>
+                  </Col>
+                  <Col
+                    bsClass="col"
+                    componentClass="div"
+                    md={9}
+                  >
+                    <div
+                      className="col-md-9"
+                    >
+                      <Billboard
+                        body="学习由 Google、亚马逊、Facebook 等全球领先科技企业参与制作的纳米学位项目和单项课程，从零开始发成为人工智能、机器学习、无人驾驶车、机器人开发工程师，或网站开发、移动开发工程师和数据分析师，获得行业领导者的认可和认证，成为改变世界的抢手人才。"
+                        title="全部纳米学位项目和单项课程"
+                      >
+                        <div
+                          className="billboard"
+                        >
+                          <h1
+                            className="billboard-title"
+                          >
+                            全部纳米学位项目和单项课程
+                          </h1>
+                          <p
+                            className="billboard-body"
+                          >
+                            学习由 Google、亚马逊、Facebook 等全球领先科技企业参与制作的纳米学位项目和单项课程，从零开始发成为人工智能、机器学习、无人驾驶车、机器人开发工程师，或网站开发、移动开发工程师和数据分析师，获得行业领导者的认可和认证，成为改变世界的抢手人才。
+                          </p>
+                        </div>
+                      </Billboard>
+                      <div
+                        className="app-course-container"
+                      >
+                        <CourseList
+                          courses={
+                            Array [
+                              Object {
+                                "img": "mock-url-1",
+                                "key": 1,
+                                "level": "初级",
+                                "projects": Array [
+                                  "project-1",
+                                  "project-2",
+                                  "project-3",
+                                ],
+                                "short_summary": "mock-short-summary-1",
+                                "subtitle": "mock-subtitle-1",
+                                "title": "mock-title-1",
+                                "tracks": Array [
+                                  "数据科学",
+                                ],
+                              },
+                              Object {
+                                "img": "mock-url-2",
+                                "key": 2,
+                                "level": "中级",
+                                "projects": Array [
+                                  "project-1",
+                                ],
+                                "short_summary": "mock-short-summary-2",
+                                "subtitle": "mock-subtitle-2",
+                                "title": "mock-title-2",
+                                "tracks": Array [
+                                  "iOS",
+                                ],
+                              },
+                              Object {
+                                "img": "mock-url-3",
+                                "key": 3,
+                                "level": "高级",
+                                "projects": Array [],
+                                "short_summary": "mock-short-summary-3",
+                                "subtitle": "mock-subtitle-3",
+                                "title": "mock-title-3",
+                                "tracks": Array [
+                                  "网站开发",
+                                ],
+                              },
+                            ]
+                          }
+                        >
+                          <div
+                            className="course-list"
+                          >
+                            <Item
+                              img="mock-url-1"
+                              key="1"
+                              level="初级"
+                              projects={
+                                Array [
+                                  "project-1",
+                                  "project-2",
+                                  "project-3",
+                                ]
+                              }
+                              short_summary="mock-short-summary-1"
+                              subtitle="mock-subtitle-1"
+                              title="mock-title-1"
+                              tracks={
+                                Array [
+                                  "数据科学",
+                                ]
+                              }
+                            >
+                              <Row
+                                bsClass="row"
+                                className="course-list-item"
+                                componentClass="div"
+                              >
+                                <div
+                                  className="course-list-item row"
+                                >
+                                  <Col
+                                    bsClass="col"
+                                    componentClass="div"
+                                    md={3}
+                                  >
+                                    <div
+                                      className="col-md-3"
+                                    >
+                                      <Image
+                                        bsClass="img"
+                                        circle={false}
+                                        className="img-fluid"
+                                        responsive={false}
+                                        rounded={false}
+                                        thumbnail={false}
+                                      >
+                                        <img
+                                          className="img-fluid"
+                                        />
+                                      </Image>
+                                    </div>
+                                  </Col>
+                                  <Col
+                                    bsClass="col"
+                                    componentClass="div"
+                                    md={9}
+                                  >
+                                    <div
+                                      className="col-md-9"
+                                    >
+                                      <Row
+                                        bsClass="row"
+                                        componentClass="div"
+                                      >
+                                        <div
+                                          className="row"
+                                        >
+                                          <Col
+                                            bsClass="col"
+                                            componentClass="div"
+                                            md={8}
+                                          >
+                                            <div
+                                              className="col-md-8"
+                                            >
+                                              <h3
+                                                className="h-title"
+                                              >
+                                                mock-title-1
+                                              </h3>
+                                            </div>
+                                          </Col>
+                                          <Col
+                                            bsClass="col"
+                                            componentClass="div"
+                                            md={4}
+                                          >
+                                            <div
+                                              className="col-md-4"
+                                            >
+                                              <LevelBar
+                                                level="初级"
+                                              >
+                                                <div
+                                                  className="level-bar vertical-center"
+                                                >
+                                                  <div
+                                                    className="level-icons vertical-center"
+                                                  >
+                                                    <FaStop
+                                                      color="#666"
+                                                      key="0"
+                                                      size={16}
+                                                    >
+                                                      <IconBase
+                                                        color="#666"
+                                                        size={16}
+                                                        viewBox="0 0 40 40"
+                                                      >
+                                                        <svg
+                                                          fill="currentColor"
+                                                          height={16}
+                                                          preserveAspectRatio="xMidYMid meet"
+                                                          style={
+                                                            Object {
+                                                              "color": "#666",
+                                                              "verticalAlign": "middle",
+                                                            }
+                                                          }
+                                                          viewBox="0 0 40 40"
+                                                          width={16}
+                                                        >
+                                                          <g>
+                                                            <path
+                                                              d="m37.3 4.3v31.4q0 0.6-0.4 1t-1 0.4h-31.5q-0.6 0-1-0.4t-0.4-1v-31.4q0-0.6 0.4-1t1-0.4h31.5q0.5 0 1 0.4t0.4 1z"
+                                                            />
+                                                          </g>
+                                                        </svg>
+                                                      </IconBase>
+                                                    </FaStop>
+                                                    <FaStop
+                                                      color="#dcdcdc"
+                                                      key="1"
+                                                      size={16}
+                                                    >
+                                                      <IconBase
+                                                        color="#dcdcdc"
+                                                        size={16}
+                                                        viewBox="0 0 40 40"
+                                                      >
+                                                        <svg
+                                                          fill="currentColor"
+                                                          height={16}
+                                                          preserveAspectRatio="xMidYMid meet"
+                                                          style={
+                                                            Object {
+                                                              "color": "#dcdcdc",
+                                                              "verticalAlign": "middle",
+                                                            }
+                                                          }
+                                                          viewBox="0 0 40 40"
+                                                          width={16}
+                                                        >
+                                                          <g>
+                                                            <path
+                                                              d="m37.3 4.3v31.4q0 0.6-0.4 1t-1 0.4h-31.5q-0.6 0-1-0.4t-0.4-1v-31.4q0-0.6 0.4-1t1-0.4h31.5q0.5 0 1 0.4t0.4 1z"
+                                                            />
+                                                          </g>
+                                                        </svg>
+                                                      </IconBase>
+                                                    </FaStop>
+                                                    <FaStop
+                                                      color="#dcdcdc"
+                                                      key="2"
+                                                      size={16}
+                                                    >
+                                                      <IconBase
+                                                        color="#dcdcdc"
+                                                        size={16}
+                                                        viewBox="0 0 40 40"
+                                                      >
+                                                        <svg
+                                                          fill="currentColor"
+                                                          height={16}
+                                                          preserveAspectRatio="xMidYMid meet"
+                                                          style={
+                                                            Object {
+                                                              "color": "#dcdcdc",
+                                                              "verticalAlign": "middle",
+                                                            }
+                                                          }
+                                                          viewBox="0 0 40 40"
+                                                          width={16}
+                                                        >
+                                                          <g>
+                                                            <path
+                                                              d="m37.3 4.3v31.4q0 0.6-0.4 1t-1 0.4h-31.5q-0.6 0-1-0.4t-0.4-1v-31.4q0-0.6 0.4-1t1-0.4h31.5q0.5 0 1 0.4t0.4 1z"
+                                                            />
+                                                          </g>
+                                                        </svg>
+                                                      </IconBase>
+                                                    </FaStop>
+                                                  </div>
+                                                  <span>
+                                                    初级
+                                                  </span>
+                                                </div>
+                                              </LevelBar>
+                                            </div>
+                                          </Col>
+                                        </div>
+                                      </Row>
+                                      <h4
+                                        className="h-light course-list-projects"
+                                      >
+                                        3 个
+                                        项目
+                                      </h4>
+                                      <h3
+                                        className="h-bold"
+                                      >
+                                        mock-subtitle-1
+                                      </h3>
+                                      <p
+                                        className="p-normal"
+                                      >
+                                        mock-short-summary-1
+                                      </p>
+                                    </div>
+                                  </Col>
+                                </div>
+                              </Row>
+                            </Item>
+                            <Item
+                              img="mock-url-2"
+                              key="2"
+                              level="中级"
+                              projects={
+                                Array [
+                                  "project-1",
+                                ]
+                              }
+                              short_summary="mock-short-summary-2"
+                              subtitle="mock-subtitle-2"
+                              title="mock-title-2"
+                              tracks={
+                                Array [
+                                  "iOS",
+                                ]
+                              }
+                            >
+                              <Row
+                                bsClass="row"
+                                className="course-list-item"
+                                componentClass="div"
+                              >
+                                <div
+                                  className="course-list-item row"
+                                >
+                                  <Col
+                                    bsClass="col"
+                                    componentClass="div"
+                                    md={3}
+                                  >
+                                    <div
+                                      className="col-md-3"
+                                    >
+                                      <Image
+                                        bsClass="img"
+                                        circle={false}
+                                        className="img-fluid"
+                                        responsive={false}
+                                        rounded={false}
+                                        thumbnail={false}
+                                      >
+                                        <img
+                                          className="img-fluid"
+                                        />
+                                      </Image>
+                                    </div>
+                                  </Col>
+                                  <Col
+                                    bsClass="col"
+                                    componentClass="div"
+                                    md={9}
+                                  >
+                                    <div
+                                      className="col-md-9"
+                                    >
+                                      <Row
+                                        bsClass="row"
+                                        componentClass="div"
+                                      >
+                                        <div
+                                          className="row"
+                                        >
+                                          <Col
+                                            bsClass="col"
+                                            componentClass="div"
+                                            md={8}
+                                          >
+                                            <div
+                                              className="col-md-8"
+                                            >
+                                              <h3
+                                                className="h-title"
+                                              >
+                                                mock-title-2
+                                              </h3>
+                                            </div>
+                                          </Col>
+                                          <Col
+                                            bsClass="col"
+                                            componentClass="div"
+                                            md={4}
+                                          >
+                                            <div
+                                              className="col-md-4"
+                                            >
+                                              <LevelBar
+                                                level="中级"
+                                              >
+                                                <div
+                                                  className="level-bar vertical-center"
+                                                >
+                                                  <div
+                                                    className="level-icons vertical-center"
+                                                  >
+                                                    <FaStop
+                                                      color="#666"
+                                                      key="0"
+                                                      size={16}
+                                                    >
+                                                      <IconBase
+                                                        color="#666"
+                                                        size={16}
+                                                        viewBox="0 0 40 40"
+                                                      >
+                                                        <svg
+                                                          fill="currentColor"
+                                                          height={16}
+                                                          preserveAspectRatio="xMidYMid meet"
+                                                          style={
+                                                            Object {
+                                                              "color": "#666",
+                                                              "verticalAlign": "middle",
+                                                            }
+                                                          }
+                                                          viewBox="0 0 40 40"
+                                                          width={16}
+                                                        >
+                                                          <g>
+                                                            <path
+                                                              d="m37.3 4.3v31.4q0 0.6-0.4 1t-1 0.4h-31.5q-0.6 0-1-0.4t-0.4-1v-31.4q0-0.6 0.4-1t1-0.4h31.5q0.5 0 1 0.4t0.4 1z"
+                                                            />
+                                                          </g>
+                                                        </svg>
+                                                      </IconBase>
+                                                    </FaStop>
+                                                    <FaStop
+                                                      color="#666"
+                                                      key="1"
+                                                      size={16}
+                                                    >
+                                                      <IconBase
+                                                        color="#666"
+                                                        size={16}
+                                                        viewBox="0 0 40 40"
+                                                      >
+                                                        <svg
+                                                          fill="currentColor"
+                                                          height={16}
+                                                          preserveAspectRatio="xMidYMid meet"
+                                                          style={
+                                                            Object {
+                                                              "color": "#666",
+                                                              "verticalAlign": "middle",
+                                                            }
+                                                          }
+                                                          viewBox="0 0 40 40"
+                                                          width={16}
+                                                        >
+                                                          <g>
+                                                            <path
+                                                              d="m37.3 4.3v31.4q0 0.6-0.4 1t-1 0.4h-31.5q-0.6 0-1-0.4t-0.4-1v-31.4q0-0.6 0.4-1t1-0.4h31.5q0.5 0 1 0.4t0.4 1z"
+                                                            />
+                                                          </g>
+                                                        </svg>
+                                                      </IconBase>
+                                                    </FaStop>
+                                                    <FaStop
+                                                      color="#dcdcdc"
+                                                      key="2"
+                                                      size={16}
+                                                    >
+                                                      <IconBase
+                                                        color="#dcdcdc"
+                                                        size={16}
+                                                        viewBox="0 0 40 40"
+                                                      >
+                                                        <svg
+                                                          fill="currentColor"
+                                                          height={16}
+                                                          preserveAspectRatio="xMidYMid meet"
+                                                          style={
+                                                            Object {
+                                                              "color": "#dcdcdc",
+                                                              "verticalAlign": "middle",
+                                                            }
+                                                          }
+                                                          viewBox="0 0 40 40"
+                                                          width={16}
+                                                        >
+                                                          <g>
+                                                            <path
+                                                              d="m37.3 4.3v31.4q0 0.6-0.4 1t-1 0.4h-31.5q-0.6 0-1-0.4t-0.4-1v-31.4q0-0.6 0.4-1t1-0.4h31.5q0.5 0 1 0.4t0.4 1z"
+                                                            />
+                                                          </g>
+                                                        </svg>
+                                                      </IconBase>
+                                                    </FaStop>
+                                                  </div>
+                                                  <span>
+                                                    中级
+                                                  </span>
+                                                </div>
+                                              </LevelBar>
+                                            </div>
+                                          </Col>
+                                        </div>
+                                      </Row>
+                                      <h4
+                                        className="h-light course-list-projects"
+                                      >
+                                        1 个
+                                        项目
+                                      </h4>
+                                      <h3
+                                        className="h-bold"
+                                      >
+                                        mock-subtitle-2
+                                      </h3>
+                                      <p
+                                        className="p-normal"
+                                      >
+                                        mock-short-summary-2
+                                      </p>
+                                    </div>
+                                  </Col>
+                                </div>
+                              </Row>
+                            </Item>
+                            <Item
+                              img="mock-url-3"
+                              key="3"
+                              level="高级"
+                              projects={Array []}
+                              short_summary="mock-short-summary-3"
+                              subtitle="mock-subtitle-3"
+                              title="mock-title-3"
+                              tracks={
+                                Array [
+                                  "网站开发",
+                                ]
+                              }
+                            >
+                              <Row
+                                bsClass="row"
+                                className="course-list-item"
+                                componentClass="div"
+                              >
+                                <div
+                                  className="course-list-item row"
+                                >
+                                  <Col
+                                    bsClass="col"
+                                    componentClass="div"
+                                    md={3}
+                                  >
+                                    <div
+                                      className="col-md-3"
+                                    >
+                                      <Image
+                                        bsClass="img"
+                                        circle={false}
+                                        className="img-fluid"
+                                        responsive={false}
+                                        rounded={false}
+                                        thumbnail={false}
+                                      >
+                                        <img
+                                          className="img-fluid"
+                                        />
+                                      </Image>
+                                    </div>
+                                  </Col>
+                                  <Col
+                                    bsClass="col"
+                                    componentClass="div"
+                                    md={9}
+                                  >
+                                    <div
+                                      className="col-md-9"
+                                    >
+                                      <Row
+                                        bsClass="row"
+                                        componentClass="div"
+                                      >
+                                        <div
+                                          className="row"
+                                        >
+                                          <Col
+                                            bsClass="col"
+                                            componentClass="div"
+                                            md={8}
+                                          >
+                                            <div
+                                              className="col-md-8"
+                                            >
+                                              <h3
+                                                className="h-title"
+                                              >
+                                                mock-title-3
+                                              </h3>
+                                            </div>
+                                          </Col>
+                                          <Col
+                                            bsClass="col"
+                                            componentClass="div"
+                                            md={4}
+                                          >
+                                            <div
+                                              className="col-md-4"
+                                            >
+                                              <LevelBar
+                                                level="高级"
+                                              >
+                                                <div
+                                                  className="level-bar vertical-center"
+                                                >
+                                                  <div
+                                                    className="level-icons vertical-center"
+                                                  >
+                                                    <FaStop
+                                                      color="#666"
+                                                      key="0"
+                                                      size={16}
+                                                    >
+                                                      <IconBase
+                                                        color="#666"
+                                                        size={16}
+                                                        viewBox="0 0 40 40"
+                                                      >
+                                                        <svg
+                                                          fill="currentColor"
+                                                          height={16}
+                                                          preserveAspectRatio="xMidYMid meet"
+                                                          style={
+                                                            Object {
+                                                              "color": "#666",
+                                                              "verticalAlign": "middle",
+                                                            }
+                                                          }
+                                                          viewBox="0 0 40 40"
+                                                          width={16}
+                                                        >
+                                                          <g>
+                                                            <path
+                                                              d="m37.3 4.3v31.4q0 0.6-0.4 1t-1 0.4h-31.5q-0.6 0-1-0.4t-0.4-1v-31.4q0-0.6 0.4-1t1-0.4h31.5q0.5 0 1 0.4t0.4 1z"
+                                                            />
+                                                          </g>
+                                                        </svg>
+                                                      </IconBase>
+                                                    </FaStop>
+                                                    <FaStop
+                                                      color="#666"
+                                                      key="1"
+                                                      size={16}
+                                                    >
+                                                      <IconBase
+                                                        color="#666"
+                                                        size={16}
+                                                        viewBox="0 0 40 40"
+                                                      >
+                                                        <svg
+                                                          fill="currentColor"
+                                                          height={16}
+                                                          preserveAspectRatio="xMidYMid meet"
+                                                          style={
+                                                            Object {
+                                                              "color": "#666",
+                                                              "verticalAlign": "middle",
+                                                            }
+                                                          }
+                                                          viewBox="0 0 40 40"
+                                                          width={16}
+                                                        >
+                                                          <g>
+                                                            <path
+                                                              d="m37.3 4.3v31.4q0 0.6-0.4 1t-1 0.4h-31.5q-0.6 0-1-0.4t-0.4-1v-31.4q0-0.6 0.4-1t1-0.4h31.5q0.5 0 1 0.4t0.4 1z"
+                                                            />
+                                                          </g>
+                                                        </svg>
+                                                      </IconBase>
+                                                    </FaStop>
+                                                    <FaStop
+                                                      color="#666"
+                                                      key="2"
+                                                      size={16}
+                                                    >
+                                                      <IconBase
+                                                        color="#666"
+                                                        size={16}
+                                                        viewBox="0 0 40 40"
+                                                      >
+                                                        <svg
+                                                          fill="currentColor"
+                                                          height={16}
+                                                          preserveAspectRatio="xMidYMid meet"
+                                                          style={
+                                                            Object {
+                                                              "color": "#666",
+                                                              "verticalAlign": "middle",
+                                                            }
+                                                          }
+                                                          viewBox="0 0 40 40"
+                                                          width={16}
+                                                        >
+                                                          <g>
+                                                            <path
+                                                              d="m37.3 4.3v31.4q0 0.6-0.4 1t-1 0.4h-31.5q-0.6 0-1-0.4t-0.4-1v-31.4q0-0.6 0.4-1t1-0.4h31.5q0.5 0 1 0.4t0.4 1z"
+                                                            />
+                                                          </g>
+                                                        </svg>
+                                                      </IconBase>
+                                                    </FaStop>
+                                                  </div>
+                                                  <span>
+                                                    高级
+                                                  </span>
+                                                </div>
+                                              </LevelBar>
+                                            </div>
+                                          </Col>
+                                        </div>
+                                      </Row>
+                                      <h4
+                                        className="h-light course-list-projects"
+                                      >
+                                        没有
+                                        项目
+                                      </h4>
+                                      <h3
+                                        className="h-bold"
+                                      >
+                                        mock-subtitle-3
+                                      </h3>
+                                      <p
+                                        className="p-normal"
+                                      >
+                                        mock-short-summary-3
+                                      </p>
+                                    </div>
+                                  </Col>
+                                </div>
+                              </Row>
+                            </Item>
+                          </div>
+                        </CourseList>
+                      </div>
+                    </div>
+                  </Col>
+                </div>
+              </Row>
+            </div>
+          </Grid>
+        </CourseView>
+      </Connect(CourseView)>
+    </Route>
+  </Router>
+</MemoryRouter>
+`;

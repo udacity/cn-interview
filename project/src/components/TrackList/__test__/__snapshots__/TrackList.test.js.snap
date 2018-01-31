@@ -1,0 +1,200 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<ul
+  className="no-list-style"
+>
+  <li
+    key="数据科学"
+  >
+    <Link
+      replace={false}
+      style={
+        Object {
+          "textDecoration": "none",
+        }
+      }
+      to="/data-science"
+    >
+      <div
+        className="radio-item"
+        onClick={[Function]}
+      >
+        <h3
+          className="h-title h-radio"
+        >
+          数据科学
+        </h3>
+      </div>
+    </Link>
+  </li>
+  <li
+    key="Android"
+  >
+    <Link
+      replace={false}
+      style={
+        Object {
+          "textDecoration": "none",
+        }
+      }
+      to="/android"
+    >
+      <div
+        className="radio-item"
+        onClick={[Function]}
+      >
+        <h3
+          className="h-title h-radio"
+        >
+          Android
+        </h3>
+      </div>
+    </Link>
+  </li>
+  <li
+    key="网站开发"
+  >
+    <Link
+      replace={false}
+      style={
+        Object {
+          "textDecoration": "none",
+        }
+      }
+      to="/web-development"
+    >
+      <div
+        className="radio-item"
+        onClick={[Function]}
+      >
+        <h3
+          className="h-title h-radio"
+        >
+          网站开发
+        </h3>
+      </div>
+    </Link>
+  </li>
+  <li
+    key="软件工程"
+  >
+    <Link
+      replace={false}
+      style={
+        Object {
+          "textDecoration": "none",
+        }
+      }
+      to="/software-engineering"
+    >
+      <div
+        className="radio-item"
+        onClick={[Function]}
+      >
+        <h3
+          className="h-title h-radio"
+        >
+          软件工程
+        </h3>
+      </div>
+    </Link>
+  </li>
+  <li
+    key="iOS"
+  >
+    <Link
+      replace={false}
+      style={
+        Object {
+          "textDecoration": "none",
+        }
+      }
+      to="/ios"
+    >
+      <div
+        className="radio-item"
+        onClick={[Function]}
+      >
+        <h3
+          className="h-title h-radio"
+        >
+          iOS
+        </h3>
+      </div>
+    </Link>
+  </li>
+  <li
+    key="佐治亚理工学院计算机科学硕士"
+  >
+    <Link
+      replace={false}
+      style={
+        Object {
+          "textDecoration": "none",
+        }
+      }
+      to="/georgia-tech-masters-in-cs"
+    >
+      <div
+        className="radio-item"
+        onClick={[Function]}
+      >
+        <h3
+          className="h-title h-radio"
+        >
+          佐治亚理工学院计算机科学硕士
+        </h3>
+      </div>
+    </Link>
+  </li>
+  <li
+    key="非技术类"
+  >
+    <Link
+      replace={false}
+      style={
+        Object {
+          "textDecoration": "none",
+        }
+      }
+      to="/non-tech"
+    >
+      <div
+        className="radio-item"
+        onClick={[Function]}
+      >
+        <h3
+          className="h-title h-radio"
+        >
+          非技术类
+        </h3>
+      </div>
+    </Link>
+  </li>
+  <li
+    key="全部课程"
+  >
+    <Link
+      replace={false}
+      style={
+        Object {
+          "textDecoration": "none",
+        }
+      }
+      to="/all"
+    >
+      <div
+        className="radio-item selected"
+        onClick={[Function]}
+      >
+        <h3
+          className="h-title h-radio"
+        >
+          全部课程
+        </h3>
+      </div>
+    </Link>
+  </li>
+</ul>
+`;

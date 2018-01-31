@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  class="billboard"
+>
+  <h1
+    class="billboard-title"
+  >
+    The Title
+  </h1>
+  <p
+    class="billboard-body"
+  >
+    The Body
+  </p>
+</div>
+`;

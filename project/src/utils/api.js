@@ -1,9 +1,7 @@
-import fetch from 'isomorphic-fetch';
+import 'isomorphic-fetch';
 
-const HOST = 'http://localhost:50983';
-const defaultHeader = {
-  Accept: 'application/json',
-  'Access-Control-Allow-Origin': '*',
+export const HOST = 'http://localhost:57393';
+export const defaultHeader = {
   'Content-Type': 'application/json',
 };
 
