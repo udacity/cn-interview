@@ -58,7 +58,7 @@ describe('test connected CourseView', () => {
     wrapper
       .find('Searcher')
       .find('input')
-      .simulate('change', { target: { value: 'mock-short-summary-1' } });
+      .simulate('change', { target: { value: 'mock-title-1' } });
     expect(
       wrapper.find('CourseList').find('div.course-list-item')
     ).toHaveLength(1);

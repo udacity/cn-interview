@@ -32,11 +32,10 @@ export const getIconArr = levelStr => {
 };
 
 export const searchRule = (course, userInput) => {
-  const targets = [course.title, course.subtitle, course['short_summary']];
-  const match = targets.find(target => {
-    const lowerTarget = target.toLowerCase();
-    const lowerUserInput = userInput ? userInput.toLowerCase() : '';
-    return lowerTarget.includes(lowerUserInput);
-  });
-  return !!match;
+  const title = course.title;
+  const lowerTitle = title.toLowerCase();
+  const lowerUserInput = userInput ? userInput.toLowerCase() : '';
+  const match = lowerTitle.includes(lowerUserInput);
+
+  return match;
 };
