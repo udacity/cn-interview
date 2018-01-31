@@ -8,6 +8,6 @@
 
 const app = require('./app')
 
-app.listen(() => {
+app.listen(4200, () => {
   console.log('app start at http://localhost:%s ', app.address().port)
 })

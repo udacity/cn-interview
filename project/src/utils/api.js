@@ -1,6 +1,6 @@
 import 'isomorphic-fetch';
 
-export const HOST = 'http://localhost:57393';
+export const HOST = 'http://localhost:4200';
 export const defaultHeader = {
   'Content-Type': 'application/json',
 };
