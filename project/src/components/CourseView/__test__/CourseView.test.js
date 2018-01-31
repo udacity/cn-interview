@@ -7,8 +7,11 @@ import configureStore from 'redux-mock-store';
 import { TRACK_ARRAY } from '../../../utils/helper';
 
 describe('test connected CourseView', () => {
-  const routers = TRACK_ARRAY.map(track => '/' + track.router);
-  routers.push('/all');
+  const routers = TRACK_ARRAY.map(track => ({
+    key: track.name,
+    pathname: `/${track.router}`,
+  }));
+  routers.push({ key: '全部课程', pathname: '/all' });
   const initialState = { isFetching: false, courses };
   const mockStore = configureStore();
   let store, wrapper;
@@ -55,7 +58,7 @@ describe('test connected CourseView', () => {
     wrapper
       .find('Searcher')
       .find('input')
-      .simulate('change', {target: {value: 'mock-short-summary-1'}});
+      .simulate('change', { target: { value: 'mock-short-summary-1' } });
     expect(
       wrapper.find('CourseList').find('div.course-list-item')
     ).toHaveLength(1);

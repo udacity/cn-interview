@@ -4,14 +4,38 @@ exports[`test connected CourseView renders correctly 1`] = `
 <MemoryRouter
   initialEntries={
     Array [
-      "/data-science",
-      "/android",
-      "/web-development",
-      "/software-engineering",
-      "/ios",
-      "/georgia-tech-masters-in-cs",
-      "/non-tech",
-      "/all",
+      Object {
+        "key": "数据科学",
+        "pathname": "/data-science",
+      },
+      Object {
+        "key": "Android",
+        "pathname": "/android",
+      },
+      Object {
+        "key": "网站开发",
+        "pathname": "/web-development",
+      },
+      Object {
+        "key": "软件工程",
+        "pathname": "/software-engineering",
+      },
+      Object {
+        "key": "iOS",
+        "pathname": "/ios",
+      },
+      Object {
+        "key": "佐治亚理工学院计算机科学硕士",
+        "pathname": "/georgia-tech-masters-in-cs",
+      },
+      Object {
+        "key": "非技术类",
+        "pathname": "/non-tech",
+      },
+      Object {
+        "key": "全部课程",
+        "pathname": "/all",
+      },
     ]
   }
   initialIndex={7}
@@ -26,59 +50,51 @@ exports[`test connected CourseView renders correctly 1`] = `
         "entries": Array [
           Object {
             "hash": "",
-            "key": "awh364",
+            "key": "数据科学",
             "pathname": "/data-science",
             "search": "",
-            "state": undefined,
           },
           Object {
             "hash": "",
-            "key": "rgwofj",
+            "key": "Android",
             "pathname": "/android",
             "search": "",
-            "state": undefined,
           },
           Object {
             "hash": "",
-            "key": "hiuliz",
+            "key": "网站开发",
             "pathname": "/web-development",
             "search": "",
-            "state": undefined,
           },
           Object {
             "hash": "",
-            "key": "wc24ay",
+            "key": "软件工程",
             "pathname": "/software-engineering",
             "search": "",
-            "state": undefined,
           },
           Object {
             "hash": "",
-            "key": "a2gf33",
+            "key": "iOS",
             "pathname": "/ios",
             "search": "",
-            "state": undefined,
           },
           Object {
             "hash": "",
-            "key": "cz0n21",
+            "key": "佐治亚理工学院计算机科学硕士",
             "pathname": "/georgia-tech-masters-in-cs",
             "search": "",
-            "state": undefined,
           },
           Object {
             "hash": "",
-            "key": "cipeuy",
+            "key": "非技术类",
             "pathname": "/non-tech",
             "search": "",
-            "state": undefined,
           },
           Object {
             "hash": "",
-            "key": "81tg30",
+            "key": "全部课程",
             "pathname": "/all",
             "search": "",
-            "state": undefined,
           },
         ],
         "go": [Function],
@@ -89,10 +105,9 @@ exports[`test connected CourseView renders correctly 1`] = `
         "listen": [Function],
         "location": Object {
           "hash": "",
-          "key": "81tg30",
+          "key": "全部课程",
           "pathname": "/all",
           "search": "",
-          "state": undefined,
         },
         "push": [Function],
         "replace": [Function],
@@ -113,59 +128,51 @@ exports[`test connected CourseView renders correctly 1`] = `
             "entries": Array [
               Object {
                 "hash": "",
-                "key": "awh364",
+                "key": "数据科学",
                 "pathname": "/data-science",
                 "search": "",
-                "state": undefined,
               },
               Object {
                 "hash": "",
-                "key": "rgwofj",
+                "key": "Android",
                 "pathname": "/android",
                 "search": "",
-                "state": undefined,
               },
               Object {
                 "hash": "",
-                "key": "hiuliz",
+                "key": "网站开发",
                 "pathname": "/web-development",
                 "search": "",
-                "state": undefined,
               },
               Object {
                 "hash": "",
-                "key": "wc24ay",
+                "key": "软件工程",
                 "pathname": "/software-engineering",
                 "search": "",
-                "state": undefined,
               },
               Object {
                 "hash": "",
-                "key": "a2gf33",
+                "key": "iOS",
                 "pathname": "/ios",
                 "search": "",
-                "state": undefined,
               },
               Object {
                 "hash": "",
-                "key": "cz0n21",
+                "key": "佐治亚理工学院计算机科学硕士",
                 "pathname": "/georgia-tech-masters-in-cs",
                 "search": "",
-                "state": undefined,
               },
               Object {
                 "hash": "",
-                "key": "cipeuy",
+                "key": "非技术类",
                 "pathname": "/non-tech",
                 "search": "",
-                "state": undefined,
               },
               Object {
                 "hash": "",
-                "key": "81tg30",
+                "key": "全部课程",
                 "pathname": "/all",
                 "search": "",
-                "state": undefined,
               },
             ],
             "go": [Function],
@@ -176,10 +183,9 @@ exports[`test connected CourseView renders correctly 1`] = `
             "listen": [Function],
             "location": Object {
               "hash": "",
-              "key": "81tg30",
+              "key": "全部课程",
               "pathname": "/all",
               "search": "",
-              "state": undefined,
             },
             "push": [Function],
             "replace": [Function],
@@ -188,10 +194,9 @@ exports[`test connected CourseView renders correctly 1`] = `
         location={
           Object {
             "hash": "",
-            "key": "81tg30",
+            "key": "全部课程",
             "pathname": "/all",
             "search": "",
-            "state": undefined,
           }
         }
         match={
@@ -272,59 +277,51 @@ exports[`test connected CourseView renders correctly 1`] = `
               "entries": Array [
                 Object {
                   "hash": "",
-                  "key": "awh364",
+                  "key": "数据科学",
                   "pathname": "/data-science",
                   "search": "",
-                  "state": undefined,
                 },
                 Object {
                   "hash": "",
-                  "key": "rgwofj",
+                  "key": "Android",
                   "pathname": "/android",
                   "search": "",
-                  "state": undefined,
                 },
                 Object {
                   "hash": "",
-                  "key": "hiuliz",
+                  "key": "网站开发",
                   "pathname": "/web-development",
                   "search": "",
-                  "state": undefined,
                 },
                 Object {
                   "hash": "",
-                  "key": "wc24ay",
+                  "key": "软件工程",
                   "pathname": "/software-engineering",
                   "search": "",
-                  "state": undefined,
                 },
                 Object {
                   "hash": "",
-                  "key": "a2gf33",
+                  "key": "iOS",
                   "pathname": "/ios",
                   "search": "",
-                  "state": undefined,
                 },
                 Object {
                   "hash": "",
-                  "key": "cz0n21",
+                  "key": "佐治亚理工学院计算机科学硕士",
                   "pathname": "/georgia-tech-masters-in-cs",
                   "search": "",
-                  "state": undefined,
                 },
                 Object {
                   "hash": "",
-                  "key": "cipeuy",
+                  "key": "非技术类",
                   "pathname": "/non-tech",
                   "search": "",
-                  "state": undefined,
                 },
                 Object {
                   "hash": "",
-                  "key": "81tg30",
+                  "key": "全部课程",
                   "pathname": "/all",
                   "search": "",
-                  "state": undefined,
                 },
               ],
               "go": [Function],
@@ -335,10 +332,9 @@ exports[`test connected CourseView renders correctly 1`] = `
               "listen": [Function],
               "location": Object {
                 "hash": "",
-                "key": "81tg30",
+                "key": "全部课程",
                 "pathname": "/all",
                 "search": "",
-                "state": undefined,
               },
               "push": [Function],
               "replace": [Function],
@@ -347,10 +343,9 @@ exports[`test connected CourseView renders correctly 1`] = `
           location={
             Object {
               "hash": "",
-              "key": "81tg30",
+              "key": "全部课程",
               "pathname": "/all",
               "search": "",
-              "state": undefined,
             }
           }
           match={
