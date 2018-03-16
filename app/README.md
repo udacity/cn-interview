@@ -31,13 +31,13 @@ cd ./app
 yarn start
 ```
 
-## How do I do test
+## Test principles
 
 1. Component appearance: use snapshot and test conditional rendering
 2. User interaction: simulate events triggered by user, make sure components have correct behavior.
 3. Data flow: test props of component, reducer and actions
 
-## Teches I used
+## Technology stack
 
 1. React & Redux
 2. bootstrap & react-bootstrap
