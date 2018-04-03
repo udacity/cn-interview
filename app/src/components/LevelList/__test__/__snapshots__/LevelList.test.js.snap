@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<LevelList
+  selected="全部"
+>
+  <ul
+    className="no-list-style"
+  >
+    <li
+      key="全部"
+    >
+      <div
+        className="radio-item selected"
+        onClick={[Function]}
+      >
+        <h3
+          className="h-title h-radio"
+        >
+          全部
+        </h3>
+      </div>
+    </li>
+    <li
+      key="初级"
+    >
+      <div
+        className="radio-item"
+        onClick={[Function]}
+      >
+        <h3
+          className="h-title h-radio"
+        >
+          初级
+        </h3>
+      </div>
+    </li>
+    <li
+      key="中级"
+    >
+      <div
+        className="radio-item"
+        onClick={[Function]}
+      >
+        <h3
+          className="h-title h-radio"
+        >
+          中级
+        </h3>
+      </div>
+    </li>
+    <li
+      key="高级"
+    >
+      <div
+        className="radio-item"
+        onClick={[Function]}
+      >
+        <h3
+          className="h-title h-radio"
+        >
+          高级
+        </h3>
+      </div>
+    </li>
+  </ul>
+</LevelList>
+`;

@@ -1,0 +1,32 @@
+export const courses = [
+  {
+    key: 1,
+    img: 'mock-url-1',
+    title: 'mock-title-1',
+    level: '初级',
+    tracks: ['数据科学'],
+    subtitle: 'mock-subtitle-1',
+    short_summary: 'mock-short-summary-1',
+    projects: ['project-1', 'project-2', 'project-3'],
+  },
+  {
+    key: 2,
+    img: 'mock-url-2',
+    title: 'mock-title-2',
+    level: '中级',
+    tracks: ['iOS'],
+    subtitle: 'mock-subtitle-2',
+    short_summary: 'mock-short-summary-2',
+    projects: ['project-1'],
+  },
+  {
+    key: 3,
+    img: 'mock-url-3',
+    title: 'mock-title-3',
+    level: '高级',
+    tracks: ['网站开发'],
+    subtitle: 'mock-subtitle-3',
+    short_summary: 'mock-short-summary-3',
+    projects: [],
+  },
+];

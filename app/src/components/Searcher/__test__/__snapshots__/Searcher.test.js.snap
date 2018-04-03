@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Searcher>
+  <div
+    className="searcher"
+  >
+    <input
+      className="searcher-input"
+      maxLength={50}
+      placeholder="搜索你喜欢的课程"
+      type="text"
+    />
+    <MdSearch
+      color="#1db3e2"
+      size={30}
+    >
+      <IconBase
+        color="#1db3e2"
+        size={30}
+        viewBox="0 0 40 40"
+      >
+        <svg
+          fill="currentColor"
+          height={30}
+          preserveAspectRatio="xMidYMid meet"
+          style={
+            Object {
+              "color": "#1db3e2",
+              "verticalAlign": "middle",
+            }
+          }
+          viewBox="0 0 40 40"
+          width={30}
+        >
+          <g>
+            <path
+              d="m15.9 23.4c4.1 0 7.5-3.4 7.5-7.5s-3.4-7.5-7.5-7.5-7.5 3.3-7.5 7.5 3.3 7.5 7.5 7.5z m10 0l8.2 8.2-2.5 2.5-8.2-8.2v-1.4l-0.5-0.4c-1.9 1.6-4.4 2.5-7 2.5-6.1 0-10.9-4.7-10.9-10.7s4.8-10.9 10.9-10.9 10.7 4.8 10.7 10.9c0 2.6-0.9 5.1-2.5 7l0.4 0.5h1.4z"
+            />
+          </g>
+        </svg>
+      </IconBase>
+    </MdSearch>
+  </div>
+</Searcher>
+`;
